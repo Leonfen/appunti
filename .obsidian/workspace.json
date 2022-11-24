@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "f352657718c055fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee7b5d3c54e65d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8707eae777013e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embriologia/TERZA SETTIMANA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcd43a3b70ff01c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia cellulare/Visione d'insieme della cellula eucariota.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c56ec2e1aea80bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia cellulare/Proteine.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adcf8441c09e0b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embriologia/Apparato femminile riproduttore.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d23f94ebbc47cf12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embriologia/Apparato femminile riproduttore.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8643c117c3faff20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embriologia/Scheletrico.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "030e7e0bb2a42e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embriologia/Apparato femminile riproduttore.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4fdaaeb12800d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embriologia/Fecondazione e prima settimana.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4366dd0150d1561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embriologia/SECONDA SETTIMANA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a08c1f1f953a961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia cellulare/Visione d'insieme della cellula eucariota.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d52070a1d3ad864a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embriologia/Sviluppo cuore.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "397fe41180bc98f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9c0c7730ff5b36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac5ba392ab5cd40e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "notocorda",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d737bf36667b4384",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ae593cacb120b92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8fa97da65022ba5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8dfb4534681065a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d670b899efc3aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Embriologia/Apparato femminile riproduttore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e2fff210ed1f301",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Embriologia/Apparato femminile riproduttore.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcd097eab26f67a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63a0430169d16436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Embriologia/Apparato femminile riproduttore.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "d23f94ebbc47cf12",
+  "lastOpenFiles": [
+    "Embriologia/Placentazione.md",
+    "Embriologia/Apparato femminile riproduttore.md",
+    "Biologia cellulare/Untitled.md",
+    "Biologia cellulare/Untitled 1.md",
+    "Biologia cellulare/Proteine.md",
+    "Biologia cellulare/Visione d'insieme della cellula eucariota.md",
+    "Embriologia/TERZA SETTIMANA.md",
+    "Embriologia/SECONDA SETTIMANA.md",
+    "Embriologia/TERZA SETTIMANA, PARTE 2.md",
+    "Embriologia/Scheletrico.md"
+  ]
+}
