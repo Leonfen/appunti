@@ -289,9 +289,100 @@ Quinta settimana
 	Questa classificazione è dovuta alla nuova branchia dell'endocrinologia inversa, se infatti l'endocrinologia si avvedeva di scoprire quali recettori si legassero a quali ormoni, adesso vi è il problema opposto: con la grande scoperta di recettori viste le nuove tecnologie si deve adesso puntare a cosa questi leghino. 
 	Si è visto come i recettori nucleari orfani siano implicati nei processi di sviluppo e omeostasi e varie patologie legate al metabolismo, infatti utilizzando topi knockout si è scoperto come questi sviluppassero diabete, tumori e vari disordini nel metabolismo lipidico
 
-	
-```math
-||{"id":173421003900}||
-
-
-```
+Sesta settimana
+1. Struttura e funzioni del Reticolo endoplasmatico liscio
+	Il reticolo endoplasmatico liscio, anche definito come "REL" è costituito da tubuli di memrbana ramificati e collegati reciprocamente; esso è inoltre più o meno presente nella cellula a seconda della funzione della stessa.
+	Esso è infatti deputato per diverse funzioni, fra le quali:
+	- Biosintesi degli [[Acidi nucleici e lipidi#Steroidi|steroidi]]
+	- Biosintesi dei lipidi di membrana; nel REL vengono infatti sintetizzati i [[Acidi nucleici e lipidi#Fosfolipidi|fosfolipidi]] necessari alla costruizione e alla riparazione di tutte le membrane (fra cui la [[Struttura e funzione della membrana plasmatica|membrana plasmatica]]) della cellula
+	- Deposito di calcio, soprattuto nel tessuto muscolare essendo esso necessario alla contrazione: questo infatti interviene a seguito di un impulso nervoso che stimola la cellula muscolare, quale a sua volta rilascia gli ioni calcio contenuti nel REL per innescare la contrazione della cellula
+	- Detossificazione da farmaci attraverso idrossilazione delle molecole idrofobe: a livello epatico si convertono infatti i farmaci liposolubili in prodotti di scarto idrosolubili, facilmente eliminabili dai reni
+	- Metabolismo dei carboidrati
+	  Esso comincia con il metabolismo del glicogeno negli epatociti: qui sono infatti contenuti enzimi necessari per la glicogenosintesi e la glicogenolisi, quali aumentano a seconda degli ormoni insulina e glucagone rilasciati dal pancreas
+2. Struttura e funzioni del Reticolo endoplasmatico rugoso
+	Il RER è costituito da tubuli e sacchi appiattiti e interconnessi tra loro, prendendo così la forma di cisterne
+	Essi, a confronto del REL, cotengono ribosomi attaccati al loro lato citosolico e presentano elementi che determianno la formazione di vescicole di transizione
+	Le loro funzioni sono deputate alla sintesi di portiene destinate a far parte del sistema delle:
+	- Endomembrane
+	- Membrana plasmatica
+	- Secrezioni
+	Il RER è quindi deputato alla
+	- Fase iniziale della glicosilazione delle proteine
+	- Ripiegamento dei polipeptidi e all'assemblaggio delle proteine multimeriche
+	- controllo di qualità delle proteine (quelle non conformate correttamente vengono eliminate prima di arrivare al Golgi)
+	- Attività enzimatica che catalizzano modificazioni co-traduzionali e post-traduzionali
+3. Struttura e funzioni dell’Apparato di Golgi
+	Il complesso di Golgi è formato da:
+	- Una faccia cis (o di formazione), più visina al reticolo endoplasamtico e con tubuli formanti la rete del "cis-Golgi", anche definita "CGN"
+	- Una parte centrale chiamata "pila del Golgi", costituita da 3-8 cisterne appiattite
+	- Una faccia trans (o di maturazione) con tubuli formanti al "rete del trasn-Golgi", anche definita "TGN"
+	- Vescicole di trasporto che trasportano proteine e lipidi 
+	Prima del compartimento del Golgi è in realtà presente un compartimento intermedio denominato "ER-Golgi" o "ERGIC". Questo è un complesso interposto tra le membrane del RER ed il Golgi
+	Le sue funzioni sono quelle di sito di:
+	- Processamento delle [[I Glucidi#Glicoproteine|glicoproteine]] e dei [[I Glucidi#Glicolipidi|glicolipidi]]. Le glicoproteine, i polisaccaridi delle piante e i [[I Glucidi#Proteoglicani (peptidoglicano)|proteoglicani]] ricevuti dall'ER-Golgi vengono qui ulteriormente processati permettendo così numerosi funzioni biologiche.
+	- Sintesi di "sfingomielina" e "[[I Glucidi#Glicosfingolipidi|glicosfingolipidi]]": questi lipidi sono in grado di impacchettarsi strettamente nella membrana rendendola spessa e meno permeabile alle molecole idrofile. 
+	  Questi tipi di lipidi associati al colesterolo formando le "zattere lipidiche", quali possono contrare o escludere le [[Struttura e funzione della membrana plasmatica#Proteine di memrbana|proteine di membrana]].
+	  Queste zattere fungono allora da piattaforme per l'associazione di diverse molecole di segnalazione
+	- Smistamento di lipidi e proteine a diverse destinazione nella cellula attraverso:
+		- Memrbana palsmatica
+		- Secrezione verso l'ambiente extracellulare
+		- Smistamento al sistema endosomi/lisosomi
+		- Riconsegna di proteine all'ER-Golgi
+4. Differenza tra modello delle cisterne stazionarie e modello di maturazione delle cisterne del Golgi 
+	Esistono due modelli che descrivono il flusso dei lipidi e delle proteine attraverso il complesso di Golgi:
+	- Modello di cisterne stazionarie (o trasporto vesciolare): Questo tipo di traffico è assicurato da "vescicole spola" e ogni cisterna ha il proprio corredo enzimatico
+	- Modello di maturazione delle cisterne: le cisterne del Golgi sono compartimenti transitori che gradualemtne si trasformano da cisterne del Cis-Golgi, attraverso cisterne mediane, in cisterne del Trans-Golgi; modificando pian piano il loro corredo enzimatico
+	Si vede allora come nel primo modello, il materiale elaborato in una cisterna vieen incluso in microvescicole di trasporto che gemmano lateralmente alal cisterna per fondersi alla cisterna immediatamente successiva fino ad arrivare alla cisterna Trans. 
+	Dal trans si staccano così vescicole che possono costituire:
+	- Lisosomi primari
+	- Vescicole di secrezione
+	- Vescicole che si fondono con la memrbana palsmatica.
+	Il secondo modello è valido soprattutto per le molecole di notevoli dimensioni (come la cellulosa ad esempio) e prevede che:
+	- Il materiale permanga nelle cisterne quali avanzano maturando in Cis, Mediana e Trans
+	- Lateralmente alle cisterne gemmino microvescicole che trasportino nella cisterna precedente enzimi caratteristici alla prima 
+	- Il materiali lasci il Golgi tramite vescicole che si staccano dal Trans-Golgi per formare:
+		- Lisosomi
+		- Vescicole di secrezione
+		- Fondersi con la memrbana plasmatica
+	- In direzione cis-trans si realizzerebbe il flusso di cisterne "anterogrado", mentre, le cisterne, scorrendo nella direzione opposta Trans-Cis darebbe inizio al flusso vesciolare "retogrado"
+5. Meccanismi di formazione di un lisosoma e sue funzioni
+	I lisosomi sono organuli contenenti enzimi digestivi capaci di degradare le principali classi di macromolecole introdotte per endocitosi o componenti cellulari non più utili
+	Questi tipi di organuli mantengono l'estermo ambiente acido attraverso pompe protoniche "[[Trasporto cellulare attraverso membrane#ATPasi di tipo V|ATPasi di tipo V]]"
+	Questi contengono infatti idrolasi acide attive grazie all'ambiente acido dei lisosomi (inattivi invece in ambiente neutro, per questo la cellula è proettta in caso di rottura della membrana lisosomiale, essendo il citosol di pH neutro)
+	Gli enzimi lisosomiali sono così: 
+	1. sintetizzati dai ribosomi del RER, internalizzati e trasferiti al Golgi dove subiscono ulteriori modificazioni
+	2. Impacchettati in vescicole rivestite da "clatrina" che gemmano dal Trans-golgi
+	3. Le vesciole appena dette si fondono con endosomi tardivi
+	4. Si determina alla fine del processo un lisosoma pianamente attivo
+	Si capisce allora come i lisosomi si formino in seguito alla fusione di vescicole di trasporto gemmate dal Trans-Golgi con endosomi, quali a loro colta contengono molecole trasportate all'interno della memrbana plasmatica per endocitosi
+	Il materiale extracellulare è trasportato all'interno della cellula in vescicole di endocitosi, rivestite di clatina che, gemmando dalla membrana plasmatica, si fondono con gli "endosomi precoci". 
+	Da qui compenenti di membrana che hanno preso parte a questo processo vengono riciclati e fanno ritorno alla memrbana plasmatica, mentre gli endosomi precosi si trasformano in endosomi tardidvi tramite l'acquisizione di pompe protoniche
+	Da qui giungono gradualmente le idrolasi lisosomiali del trans-Golgi, quali si dissociano dai recettori per il mannosio-6-fosfato (utili per l'indirizzamento degli enzimi lisosomiali ai lisosomi) visto l'ambiente acido degli endosomi
+	La perdita del gruppo fosfato del mannosio determina poi l'attivazione delle idrolasi, quali degradano il materiale endocitato portato dagli endosomi precoci.
+	I recettori per il mannosio-6-fosfato (M6P) tornano successivamente al Trasn-Golgi
+6. Descrivere le tappe del traffico vescicolare che avviene attraverso il sistema endomembranoso
+	Il sistema di trasporto endomembranoso fa allora capire come una proteina o un lipide che deve essere secreto ha un movimento preciso all'interno della cellula:
+	- Dapprima andrà nel reticolo endoplasmatico
+	- Successivamente verrà trasportato lungo il reticolo di Golgi, così da essere nuovamente rielaborato
+	- Varrà poi secreto in diversi metodi a seconda della sua funzione
+	- Per endocitosi-fagocitosi o altra cose verrà poi fusi con enzimi lisosomiali per formare lisosoma e così produrre sostanze che verranno di nuovo riportate nel RER per iniziare la nuova sintesi di proteine 
+7. Struttura e funzioni dei Perossisomi
+	Questi sono organelli di forma solitamente sfeirca e furono scoperti da De Duve e collaboratori grazie alla tecnica della centifugrazione. 
+	Questi sono formati da un core cristallino costituito da cristalli di "urato-ossidasi" avvolti da un singola membrana. 
+	Si trovano nel citoplasma di tutte le cellule eucariotiche in un numero che varia da uno (lieviti) alle centinaia (cellule renali o epatiche mammifere) a seconda di dove contenuti
+	Per questo essi sono allora caratteerizzati dalla presenza delle "catalasi" essenziali per la degradazione dell'acqua ossigenata (o perossido di idrogeno). 
+	Esso è infatti un potente ossidante, velenoso per la cellula ed è quindi essenziale la sua conversione in acqua e ossigeno nei perossisomi, grazie all'ezima catalasi in loro contenuto
+	Le funzioni dei perossisomi sono quindi quella di:
+	- Detossificazione: qui vengono infatti degradate sostanze nocive 
+	- Rimozione dei radicali liberi e dei ROS (forme reattive all'ossigeno), derivanti dalle normali attività metaboliche cellulari
+	- Ossidazione degli acidi grassi: questi costituiscono infatti il solo sito in cui avviene l'ossidazione degli acidi grassi attraverso la degradazione (se a catena lunga o ramificati) fino alla produzione di acidi grassi a catena corta lineari, degradati successivamente in acetilcoenzima A nei mitocrondi.
+	- Ossidazione dell'acido urico: in molti organismi (tranne che nell'uomo) ad opera dell'urato-ossidasi, l'acido urico è trasformato in "allantoina", quale è a sua volta degradata ed espulsa
+	  NB, i primati, non avendo l'urato ossidasi, espellono direttamente l'acido urico nelle urine
+	La biogenesi di nuovi perossisomi avviene allora attraverso la scissione dei perossisomi preesistenti, piuttosto che dalla fusione di vescicole proveniente dal trans-golgi:
+	- Dapprima i lipidi, le portiene e gli enzimi vengono aggiunti ai perossisomi preesistenti da fonti citoplasmatiche:
+		- Le proteine provengono dai ribosomi liberi nel citoplasma e maturano qui
+	- Dopo che i lipidi e le porteine sono stai aggiunti, i nuovi perossisomi si formano dalla divisione di quelli già preesistenti
+	Secondo alcuni studi i perossisomi possono inoltre otteneer proteine anche provenienti direttament dal reticolo endoplasmatico attraverso "vescicole protoperossimali".
+	Queste sono inoltre in grado di formare perossisomi completamente nuovi. 
+	Esse deriverebbero alllora da una regione specializzata del E, dove è anche sintetizzata una proteine integrale detta "perossina Pex3p", unica perossina sintetizzata qui (le altre sono sintetizzate nel citoplasma e successivamente indirizzate ai perossisomi). 
+	Da questo reticolo si staccherebbero poi lamelle che si fonderebbero fra loro (creando un perossisima ex novo) o con un perossisoma preesistente
