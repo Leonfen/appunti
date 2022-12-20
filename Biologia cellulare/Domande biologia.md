@@ -386,3 +386,125 @@ Sesta settimana
 	Queste sono inoltre in grado di formare perossisomi completamente nuovi. 
 	Esse deriverebbero alllora da una regione specializzata del E, dove è anche sintetizzata una proteine integrale detta "perossina Pex3p", unica perossina sintetizzata qui (le altre sono sintetizzate nel citoplasma e successivamente indirizzate ai perossisomi). 
 	Da questo reticolo si staccherebbero poi lamelle che si fonderebbero fra loro (creando un perossisima ex novo) o con un perossisoma preesistente
+
+Settima settimana
+1. Struttura del mitocondrio
+	Il mitocondrio è un organulo cellulare presente nelle cellule animali e vegetali. 
+	L'organello può presentare forma e dimensioni diverse fra loro; ma generalmente è allungato e a forma di fagiolo. 
+	Il mitocondrio è quindi un organello "mobile" che tende a localizzarsi nei siti di massima richiesta energetica. 
+	Il numero di queste cellule è inoltre variabile, da 2k delle cellule epatiche alle poche unità delle cellule inattive. 
+	Dal punto di vista fisiologico la loro funzione è quella di recuperare l'energia contenuta negli alimenti attraverso il "ciclo di Krebs" e il ciclo della "catena respiratoria", per poi conservarla attraverso la molecola di ATP. 
+	La struttura di questi organelli è quindi data da:
+	- Due membrane:
+		- Un esterna ricca di porine
+		- Una interna che a tratti si solleva entro la cavità del mitocondrio, formadno così pighe complesse dette "creste o cristae mitocondriali"
+	- Due scomparti:
+		- "Camera esterna" o "spazio intermembrana", compresa fra le due membrane dette prima e che occupa la parte delle creste mitocondriali
+		- Camera interna, limitata dalla memrbana interna e che contiene la matrice mitocondriale.
+	A loro volta le creste mitocondriali formate dalla estroflessioni della memrbana interna costituescono delle pieghe che non interrompono la continuità della camera interna, per questo la matrice mitocondriale è continua.
+	La membrana interna e le creste mitocondriali appiano invece collegate alla memraban per mezzo di un peduncolo. 
+	Tali particelle sono formati da una parte che si protende verso l'interno detta "complesso F1" (con funzione di scindere l'ATP) e da una porzione interna alla membrana detta "complesso F0". 
+	Insieme tutto è chiamato "complesso F0F1", con funzione di ATP sintasi, cioè funzione di produrre la maggior parte dell'ATP che si viene a formare nel mitocondrio. 
+	Il complesso F0F1 è allora formato da due parti principali:
+	- Testa F1, questa è composta da 5 subunità differenti (in rapporti 3alpha: 3beta: 1omega: 1gamma: 1epsilon). 
+	  Le subunità alpha e beta sono organizzate in una struttura circolare così da formare la testa della particella
+	  La subunità gamma si estende invece attraverso il centro dell'estermità F1 fino alla base F0 così da formare la base centrale
+	  La subunità epsilon supporta invece l'attacco della subunità gamma alla base F0
+	- Base F0, questa è inclusa nella membrana citoplasmatica ed è formata da tre differenti subunità (in rapporto 1a: 2b: 10-14c)
+	  Le subunità a e b della base F0 appaiate alla subunità omega della testa F1 formano uno stelo periferico che mantiene le subunità b fisse
+	  La subunità a contiene un canale protonico che permette ai protoni di attraversare la membrana.  
+2. In cosa consistono la glicolisi e la decarbossilazione del piruvato?
+	La glicolisi è il processo metabolico per il quale il glucosio viene degradato per produrre due molecole di ATP, due molecole di NADH e due molecole di piruvato. 
+	Si noti che questa è una sequenza di reazioni chimiche nella quale il prodotto di ciascuna reazione costituitsce il reagente della successiva, cioè, ogni specifica reazione richiede uno specifico enzima che verrà a convertire il reagente di partenza in un'altra sostanza, fino ad arrivare alla prodotto finale: l'acido piruvico. 
+	Da notare è come durante questi processi vi sia la perdita di protoni da parte dei reagenti, quali vengono intrappolati dal trasportatori di elettroni NAD+, quale viene così ridotto nella sua forma NADH. 
+	Questa molecola non può però passare attraverso la membrana esterna, ma da esso possono però essere rimossi 2 elettroni che si diffondono liberamente attraverso la membrana esterna del mitocondrio per poi essere trasportati dentro la sua matrice attraverso un trasportatore di elettroni. 
+	Le fasi che caratterizzano la glicolisi sono effettivamente 2, ognuna delle quali contiene un sotto-insieme di 10 reazioni:
+	- Prima fase, di investimento
+	- Seconda fase, di recupero
+	Da notare è quindi come la prima fase si adetta di "investimento" vista la sua spesa energetica di 2 ATP per fosforilare il glucosio in glucosio 6 fosfato. 
+	La seconda fase viene invece detta di "recupero" perchè, a livello del 1,3-bifosfoglicerato e a livello del fosfoenolpiruvato vi è la liberazione di una molecola di ATP per ciascuno. 
+	Questo però porterebbe a una resa energetica pari a 0; in realtà le reazioni dette sopra si ripetono per due volte, vista la scissione in due diverse molecole di gliceraldeide-3-fosfato; andando così ad aumentare la resa energetica della glicolisi in 2ATP.
+	La decarbossilazione ossidativa del piruvato è invece il processo seguente, in condizioni di ossigeno, alla glicolisi. 
+	Qui il piruvato prodotto viene infatti trasportato, tramite un trasportatore specifico, nel mitocondrio dove viene così convertito in acetil-CoA mediante la reazione di "decarbossilazione ossidativa". 
+	Questa è allora un processo di ossidazione irreversebile in cui il gruppo carbossilico del piruvato viene rimosso sotto form adi moleocla di anidride carbonica, mentre i due atomi di carbonio residui diventano il gruppo acetilico legato al coenzima A. 
+	Il NAD ridotto formatosi in questa reazione cede gli equivalenti riducenti alla catena di trasporto degli elettroni. 
+	Sono necessari due "giri" di questo ciclo per ossidare completamente una molecola molecola di glucosio (ricordiamo infatti come questa si scinde in due molecole di piruvato; per questo il processo si ripete per entrambe gli acidi). 
+3. Il ciclo di Krebs
+	Il ciclo di Krebs, o ciclo degli acidi tricarbossilici è la via metabolica principale per la cellula; questa via infatti va a degradare tutte le molecole ingerite tramite l'alimenzione in metaboliti del ciclo degli acidi carbossilici. 
+	Esempi sono infatti dati da amminoacidi che possono essere convertiti in:
+	- Piruvato (alanina, cisteina, glicina, serina, treonina)
+	- Acetilcolina coenzima A (felilalanina, tirosina, leucina, lisina, triptofano)
+	- Acetilcoenzima A (leucina, isoleucina, triptofano)
+	- Glutammato (arginina, istidina, glutammina, prolina)
+	- Prodotti intermedi del ciclo di Krebs (come succinl coenzima A)
+	Nel ciclo di Krebs allora l'acetil Coenzima A, nei mitocondri, perde il gruppo acetato ed entra nel ciclo dove, dopo una serie di tappe, vieen decarbossilato con liberazione di anidride carbonica. 
+	Durante questo ciclo, delle deidrogenasi liberano coppie di elettroni che entrano nella catena respiratorio, combinandosi così con ossigeno e formando allora acqua. 
+	I prodotti finali di questo ciclo saranno allora:
+	- 1 molecola di FADH2
+	- 3 molecole di NADH
+	- 1 molecola di ATP
+	Da notare è però come questa resa sia data dal "ciclo" di una singola molecola di piruvato; parlando invece di una molecola di glucosio dovremmo allora moltiplicare i risultati per due, visto il "doppio" ciclo che deve essere eseguito per ossidare completamente la molecola di glucosio. 
+	Schematizzando il ciclo di reazioni possiamo iniziare dall'ossalacetato:
+	- L'atomo a 4 atomi di carbonio si lega così all'acetil-coenzimaA, creando così il citrato, una molecola a 6 atomi di carbonio. 
+	- Il citrato si trasformerà successivamente a isocitrato
+	- L'isocitrato, attraverso l'isocitrato deidrogenasi, si ossida in alpha-chetoglutarato, atomo a 5 atomi di carbonio, riducendo una molecola di NAD e rilasciando una molecola di anidride carbonica
+	- L'alpha-chetogluterato, attraverso l'alpha-chetoglutarato deidrogenasi, diventa succinol-CoA, riducendo una molecola di NAD e liberando una molecola di anidride carbonica
+	- Il succinol-CoA diventa successivamente in succinato, fosforilando una molecola di GDP in GTP, creando successivamente una molecola di ATP
+	- Il succinato si trasfromerà poi in fumarato (molecola a 4 atomi di carbonio), riducendo una molecola di FAD in FADH2 
+	- Il fumarato si trasformerà poi in malato, molecola a 3 atomi di carbonio
+	- Il malato, attraverso la malato deidrogenasi, ridurrà una molecola di NAD ritornando così ossalacetato, molecola a 2 atomi di carbonio.
+1. La fosforilazione ossidativa ed il sistema di trasporto degli elettroni
+	L'energia liberata dal flusso di elettroni lungo la catena di trasporto è utilizzata per pompare protoni dalla matrice allo spazio intermembrana. 
+	A questo livello i protoni si accumulano e, spinti dal gradiente elettrochimico formatosi, tendono a rientrare nella matrice. 
+	La catena respiratoria è allora formata da:
+	- Quattro complessi di trasportatori di elettroni:
+		- Complesso I (NADH deidrogenasi), qui entra il NADH; questo contiene 30 diversi polipeptidi e, per ogni coppia di elettroni fatta passare, vengono trasferiti tre o quattro protoni
+		- Complesso II (Succinato deidrogenasi), esso, oltre a catalizzare una reazione del ciclo di Krebs, consente il trasferimento di elettroni al FAD ed all'ubhichinone, ma non permette il passaggio di protoni
+		- Complesso III (citocromo c riduttasi), permettte il passaggio di elettroni dall'ubichinone ridotto al citocromo C e, per ogni coppia di elettroni, trasferisce quattro protoni
+		- Complesso IV, permette il trasferimento di elettroni dal citocromo c all'ossigeno e così anche lo spostamento di protoni, anche se non si sa chiaramente il numero (forse 4 per ogni ossigeno ridotto)
+	- Due altri trasportatori disposti in modo indipendente all'interno della membrana:
+		- Ubichinone
+		- Citocromo C
+	Gli elettroni vengono passati, in seguito al compelsso I o dal complesso II all'ubichinone
+	Dall'ubichinone ridotto gli elettroni vengono così passati al complesso III e infine alla proteine periferica citocromo C
+	Dal citocromo C vengono poi passati al complesso IV ed infine all'ossigeno per formare anidride carbonica
+	Da notare è allora come la membrana mitocondriale interna sia impermeabile ai protoni, questi rientrano allora nella matrice solo attraverso i canali ionici dell'ATP sintasi. 
+	Quando i protoni rientrano nella matrice, il flusso di protoni determina un cambiamento conformazione dell'ATP sintasi, che rende così l'enzima attiva e capace di fosforilare l'ADP in ATP. 
+	Quindi, l'energia elettrochimica del gradiente fornisce la sintesi di ATP (teoria chemiosmotica).
+5. Resa complessiva della respirazione cellulare
+	Ricordiamo che secodo la teoria chemiosmotica i protoni si diffondono all'interno della matrice secondo gradiente elettrochimico e ciò fornisce l'energia necessaria per la sintesi di ATP. 
+	Si è otato come tutte le molecole di FAD ridotto e NAD ridotto sono convertite in ATP durante questa fase di respirazione cellulare, infatti la moelcola ridotta non può diffondersi attraverso la memrbana esterna del mitocondrio, a differenza degli elettroni che essa trasporta. 
+	Il NAD ridotto consente allora la produzione di 3 ATP
+	Il FAD ridotto consente invece la produzione di 2 ATP, visto che entra nel complesso II durante la fosforilazione ossidativa. 
+	La resa complessiva della respirazione cellulare è quindi data dalla combinazione dell'ATP prodotto durante:
+	- Glicolisi, qui vengono prodotti un totale di 4 ATP e 2 NADH
+	- Decarbossilazione ossidativa, qui vengono prodotti, per molecola di glucosio, 2 NAD ridotti
+	- Ciclo di Krebs, qui vengono prodotti, per molecola di glucosio, 2 ATP, 2 FAD ridotti e 6 NAD ridotti
+	- Fosforilazione ossidativa, qui vengono prodotti, grazie all'azione degli 10 NAD ridotti e dei 2 FAD ridotti, un totale di 34 ATP.
+	Sommando fra loro tutti gli ATP si ottiene una produzione totale, per molecola di glucosio, di circa 38 ATP; quali, contando l'energia investita per iniziare il processo di glicolisi, arrivano a 36 ATP totali. 
+6. Struttura del nucleo
+	Il nucleo ha una struttura molto complessa, divisibile in diversi strati:
+	- [[Il nucleo cellulare e DNA#Il nucleoplasma|Nucleoplasma]], paragonabile la citosol; esso ha infatti funzione di contenere diverse sostanze fra cui il materiale genetico, indispensabile durante la replicazione e la trascrizione delle proteine oltre che per le fuzioni cellulari
+	- [[Il nucleo cellulare e DNA#Involucro nucleare|Involucro nucleare]], sulla quale membrana sono presenti i pori nucleari
+	- [[Il nucleo cellulare e DNA#Nucleolo|Nucleolo]], struttura specializzata per la sintesi dei ribosomi
+	- [[Il nucleo cellulare e DNA#Nucleoscheletro|Nucleoscheletro]], simile al citoscheletro, formato da:
+		- [[Il nucleo cellulare e DNA#Lamina nucleare|Lamina nucleare]]
+		- [[Il nucleo cellulare e DNA#Matrice nucelare|Matrice nucleare]]
+7. Struttura e funzioni dei pori nucleari
+8. Esperimento di Hersey e Chase
+9. Organizzazione del DNA e istoni, nucleosoma e cromosomi
+Ottava settimana
+1. Meccanismo di replicazione del DNA: ruolo delle varie proteine ed enzimi nei procarioti ed eucarioti
+2. Mutazioni spontanee ed indotte
+3. Meccanismi di riparazione del DNA
+4. Fasi del ciclo cellulare
+5. Variazione dei livelli di ciclina e loro conseguenze
+6. Checkpoint del ciclo cellulare
+7. Varie fasi del processo di mitosi. 
+Nona settimana
+1. Descrivere le varie fasi del processo di meiosi
+2. Differenze fra mitosi e meiosi
+3. Descrivere le fasi della spermatogenesi
+4. Descrivere le fasi dell'oogenesi e del ciclo ovarico
+5. Descrivere le varie fasi del processo di trascrizione nei procarioti e negli eucarioti
+6. Descrivere le varie fasi del processo di maturazione dell'RNA messaggero, incluso il meccanismo di splicing

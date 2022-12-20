@@ -344,4 +344,103 @@ Esempio lo si può vedere proprio nell'embrione di una rana noramle e di una ran
 Questo tipo di recettore riconsce proteine segnale Delta di altre memrbane cellulari, quando si ha interazione parte del recettore Notch sull'altra membrana plasmatica, essa subisce un taglio proteolitico. 
 La porzione così tagliata e ora libera migra nel nucleo dove attiva dei geni specifici. 
 ### Recettori intracellulari
-Altra classe di recettori che si definoscono normalmente sono quelli nucelari, chiamati in questo modo perchè svolgono la loro funzione prevalentemnete a livello nucleare, anche se possono essere localizzati anche a livello citoplasmatico. 
+Altra classe di recettori che si definoscono normalmente sono quelli nucelari, chiamati in questo modo perchè svolgono la loro funzione prevalentemnete a livello nucleare, anche se possono essere localizzati anche a livello citoplasmatico.
+Le molecole segnale di questi tipi di recettori possono dividersi in:
+- Ormoni tiroidei come:
+	- Fludrocortisone
+	- Aldosterone
+	- Deossicorticosterone
+- Ormoni [[Acidi nucleici e lipidi#Steroidi|steroidei]] come:
+	- Estradiolo
+	- Testosterone
+	- Cortisol
+	- Progesterone
+Si ricorda come il precursore comune di questi sia il colesterolo e siano prodotti a livello di:
+- Organi riproduttivi
+- Corteccia surrenale
+Gli ormoni stiroidei, inoltre, riescono ad attraversare facilmente la memrbana plasmatica vista la loro composizione di natura prettamente lipidica.
+#### Meccanismo d'azione classico dei recettori nucleari
+![[Pasted image 20221130215402.png]]
+Il meccanismo d'azione classico dei recettori nucleari prevede il legame degli ormoni lipofili a livello del citoplasma, spiazzando così delle proteine dette "HSP" (Heat Shock protein), quali mantengono invece il recettore nella forma inattiva. 
+Il legame con il ligando attiva invece il recettore, quale si dimerizza e migra nel nucelo dove lega specifici elementi responsivi, contribuendo così la regolazione di determinati geni target. 
+Da notare è però come questo non è il solo meccanismo d'azione scoperto, con il continuo della ricerca infatti si è notato come questo sia sì quello più utilizzato, ma non solo quello esistente.
+#### Varianti del meccanismo d'azione classico
+![[Pasted image 20221130215729.png]]
+Si è visto quindi come alcuni recettori presentano meccanismi di funzione diverso. 
+- Alcuni ormoni lipofili possono raggiungere direttamente il nucleo, interagendoo così col recettore specifico. 
+- In altri casi il ligando può essere il risultato del prodotto del metabolimsmo cellulare che ha operato trasformando un precursore. 
+- Altri recettori, una volta attiva dal ligando, possono "eterodimezzare " con altri recettori appartenenti alla stessa famiglia. 
+- Altri recettori nucleari possono anche essere attivati in maniera indipendente dal ligando. Il recettore può infatti essere attivato attraversi processi di fosforilazione, attivando così il recettore.
+- Lo stesso recettore può inoltre essere attivata in maniera ligando-dipendente e anche ligando-indipendente da un altro pathway e, insieme, legarsi per modificare così il gene. 
+#### Regolazione dei coattivatori e dei corepressori
+![[Pasted image 20221130220228.png]]
+La ricerca odierna dei meccanismi d'azione dei recettori nucleari è sempre più mirata alla comprensione del ruolo dei coattivatori e dei corepressori. 
+Queste molecole, interagendo col recettore attivato, ne facilitano l'azione attraverso l'accesso agli elementi responsivi.
+Questo è permesso infatti da:
+- Svolgimento della cromatina
+- Acetilazione degli istoni
+Questi fenomeni favoriscono allora la formazione della "transcriptional machinery", reclutando così fattori trascrizionali di base che danno il via alla trascrizione del DNA. 
+#### Azioni non genomiche degli ormoni steroidei
+![[Pasted image 20221130220611.png]]
+La ricerca ha inoltre fatto notare coem gli ormoni steroidei non siano coinvolti solo nell'azione genommica, ma anche in particolari attivazione di pathway come la Mapchinasi. 
+Pertanto si ipotizza che sia presente sulla membrana citoplasmatica la presenza di proteine appartenenti alla famiglia dei recettori nucelari. 
+Le ultime ricerche parlano anche di attivazione da parte degli ormoni steroidei di azinoi non genomiche, attivate da recettori non classici localizzati a livello della membrana plasmatica, in grado di attivare diversi pathway di secondi messaggeri come:
+- [[#Via di trasduzione dell'AMPciclico come secondo messaggero|AMPciclico]]
+- [[#Azione dei secondi messaggeri DAG e InsP3|Dialglicerolo e InsP3]]
+#### Struttura dei recettori nucleari
+![[Pasted image 20221130221457.png]]
+I membri della famiglia dei recettori nucleari hanno in comune una struttura in cui possiamo trovare domini specifici quali:
+- [[#Dominio di modulazione A/B]]
+- [[#Dominio di legame al DNA|Dominio di legame al DNA (DBD)]]
+- [[#Regione "HINGE"]]
+- Dominio di legame al ligando
+##### Dominio di modulazione A/B
+![[Pasted image 20221130221648.png]]
+Esso è caratterizzato da alta variabilità per la presenza di splicing alternativi, che ne determinano così la presenza di isoforme (diverse forme con stessa formula bruta ma diversa struttura). Queste isorofme, infatti, si distinguono per la diversa attività da loro svolta:
+- La regione denominata AF-1, ad esempio, può essere target per la fosforilazione e quindi determinare una attivazione ligando-dipendente o/e ligando-indipendente a secondo del pathway considerato.
+Questo dominio di modulazione, inotlre, determina attività cellulare specifica, visto che può interagire con fattori cellulo-specifici. 
+##### Dominio di legame al DNA
+![[Pasted image 20221130222538.png]]
+Il dominio di legame al DNA p compost da due "Zinc finger", ognuno dei quali caratterizzato da quattro residui di cisteina legati da uno ione zinco e da una coda carbossiterminale CTE. 
+In questa struttura possiamo notare due siti denominati "BOX":
+- Il box P è direttamente implicato nel legame con l'elemento responsibo sul DNA
+- Il box D è invece coinvolto nel processo di dimerizzazione
+##### Regione "HINGE"
+![[Pasted image 20221130222654.png]]
+La reazione Hinge è una regione a "cerniera". 
+Questa fino a pochi anni fa era ritenuta solo come una regione di collegamento tra i domini invece più importanti, quale consentiva alla molecola la capacità di rotazione rendendola capace di formare interazioni in vari domini
+Oggi, invece si sa che può essere un sito di regolazione per l'attività del recettore, essendo in grado di legare i corepressori
+##### Dominio di legame al ligando
+![[Pasted image 20221130223012.png]]
+Questo è il sito "più importante" essendo esso responsabile di:
+- Legame con l'ormone
+- Interazinoe con le HSP (quali andavano a disattivare il recettore)
+- Localizzatione nucelare
+- Contenimento del sito AF-2, responsabile dell'attivazione ligando-dipendente, quale richiede il reclutamento di coattivatori
+##### Coattivatori e corepressori: i regolatori della trascrizione
+I coattivatori e i corepressori modificano la struttura della cromatina senza legarsi al DNA, ma legandosi ai fattori trascrizionali
+![[Pasted image 20221130223414.png]]
+- I coattivatori interagiscono col recettore attivato, modulandone l'azione e facilitando l'accesso agli elementi responsibil del DNA attraverso la despiralizzazione della cromatina o l'acetilazione degli istoni.
+- I co-repressori, sono invece coinvolti nel processo inverso: la deacetilazione degli istone, correlata così all'inibizione della trascrizione
+#### Classificazione dei recettori nucleari (NRs)
+![[Pasted image 20221130223754.png]]
+In base alla dipendenza dal loro ligando i recettori sono classificabili in due macrocategorie:
+- Ligando-dipendenti, fra cui:
+	- Recettori ormonali
+	- Recettori orfani adottati
+- Ligando-indipendenti
+	- Recettori orfani
+La distinzione è stata creata successivamente al sequenziamento del genoma umano inziò la creazione dell'endocrinologia inversa. 
+La normale endocrinologia andava dapprima a scoprire come funzionava l'ormone e successivamente il recettore al quale si legava
+Con la mappartura del genoma umano però si è andato a vedere l'esistenza di tantissimi nuovi recettori, senza sapere però i loro ligando. 
+
+##### Recettori nucleari orfani
+Questi tipi di recettori si stanno ancora oggi studiando attraverso l'utilizzo di "topi knockout", ovvero topi ai quali viene tolto il gene che esprime questo particolare tipo di recettori. 
+Si è qui visto come i topi di questo tipo presentassero diverse patologie, molto spesso implicate con i processi di omeostasi e sviluppo; essi sviluppavano infatti tumori, diabete o disordini del metabolismo lipidico. 
+Man mano che sta quindi andando avanti la ricerca si però scoperto il ligando di alcuni recettori orfani, facendo così nascere la categoria dei "recettori nucleari orfani adottati"
+###### Obiettivi sulle ricerche dei recettori nucleari orfani
+Gli obiettivi di questi particolari tipi di recettori sono allora:
+- Studio delle funzioni da loro regolate
+- Studi mirati a conoscere se essi possono essere modulati da specifici ligandi non ancora scoperi, oppure se sono realmente recettori organi
+- Sviluppare agenti famacologici attivatori o inibitori, anche senza conoscerne i ligandi naturali. 
+

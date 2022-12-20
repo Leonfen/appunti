@@ -40,11 +40,11 @@ Quando la cavità uterina non avrà più spazio e spingerà l'embrione verso la 
 
 # Reazione deciduale
 ![[Pasted image 20221030164928.png]]
-![[Pasted image 20221030171410.png]]
-![[Pasted image 20221030171428.png]]
 Le cellule dell'endometrio che entreranno in contatto con il sinciziotrofoblasto cambieranno conformazione caricandosi di glicogeno, proteine, lipidi e sostane sostanze di riserva secondo la "reazione deciduale". 
+![[Pasted image 20221030171410.png]]
 Tali cambiamenti hanno lo scopo di favorire la sopravvivenza dell'embrione e contenere l'erosione prodotta dal sinciziotrofoblasto. 
 La produzione di progesterone del corpo luteo si arresterà alla 5a-6a settimana, quando lo stesso diventerà fibrotico e andando contro lo stesso destino di un corpo luteo che non ha ricevuto il segnale di avvenuta fecondazione (ovvero hCG)
+![[Pasted image 20221030171428.png]]
 Dopo la caduta del progesterone prodotto dal corpo luteo sarà la placenta primitiva ad avere questa funzione: si svilupperanno delle "cellule giganti" nella decidua della madre, aventi diverse funzioni oltre la produzione di progesterone come:
  - Mediazione di contatto
  - Mediazione dell'invasione della parete dell'utero
@@ -58,13 +58,12 @@ Col progredire della gravidanza le varie zone interessate dalla zona deciduale p
 ![[Pasted image 20221030164943.png]]
 
 # Villi coriali
+![[Pasted image 20221030171806.png]]
 Il sinciziotrofoblasto e citototrofoblasto si erano organizzati in una capsula che ricoprirva l'embrione, l'inizio della placentazione vera e propria è quindi data dalla proliferazione ordinata del citotrofoblasto attraverso colonnine che invadono il sincizio trofoblasto andando così verso l'esterno. 
 Da notare è che il sangue della madre non entrerà mai all'interno dei villi coriali, essendo questo separato dal sottilissimo strato che si va a creare attraverso la sovrapposizione del citotrofoblasto e sinciziotrofoblasto, quale andrà a creare una vera e propria barriera "emato-placentare" utile al regolamento delle sostanze in entrata e uscita dall'embrione. 
 L'insieme quindi di questi villi all'interno di queste lacune sanguigne prende il nome di "spazio intervilloso"; da notare è come il sangue arrivi dalle arteri spiralate della madre, questo dovrebbe comportare due cose:
 - Esterma pressione, questa viene infatti ridotta per procedere agli scambi gassosi
 - Infiammazione, questa viene regolata attraverso diversi fattori
-
-![[Pasted image 20221030171806.png]]
 ![[Pasted image 20221030174503.png]] Qui è come si presentano i villi alla fine della gravidanza.
 ## Villi primari
 I villi primari si vengono allora a formare al termine della seconda settimana, essi si presentano come estensioni cellulari del citotrofoblasto nel sinciziotrofoblasto. 
@@ -118,8 +117,6 @@ Da notare è che in fase avanzata le regolazioni ormonali indicano alla placenta
 ![[Pasted image 20221030200027.png]]![[Pasted image 20221030200039.png]]![[Pasted image 20221030200055.png]]
 ![[Pasted image 20221030200120.png]]
 ![[Pasted image 20221030200139.png]]
-
----
 
 # Il cordone ombelicale
 Il cordone ombelicale al termine dello sviluppo è un funicolo di 50-60cm che collega l'embrione alla madre. Alla fine della 2a settimana l'embrione è sospeso nella cabità corionica dal peduncolo di connessione, in cui va poi a inserirsi l'allantoide. 
