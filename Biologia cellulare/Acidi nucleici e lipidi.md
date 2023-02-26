@@ -87,7 +87,7 @@ Il ruolo primario della vitamina e è quindi quello di antiossidante.
 ##### Vitamina D
 ![[Pasted image 20221123122554.png]]
 # Acidi nucleici
-L'acido desossiribonucleico o deossiribonucleico p un acido nucleico che contiene le informazioni genetiche necessarie alla biosintesi di RNA e proteine, insispensabili per il corretto funzionamento degli roganismi. 
+L'acido desossiribonucleico o deossiribonucleico è un acido nucleico che contiene le informazioni genetiche necessarie alla biosintesi di RNA e proteine, insispensabili per il corretto funzionamento degli organismi. 
 Il DNA è quindi un polimero organico (polinucleotide) costituito da monomeri chiamati "nucleotidi". 
 L'informazione contenuta nel DNA viene trasmessa sia fra le generazione di cellule, che all'interno della stessa cellula 
 ![[Pasted image 20221123122901.png]]
@@ -99,7 +99,7 @@ Tutti i nucleotidi sono composti da tre componenti fondamentali:
 - Base azotata che si lega allo zucchero pentoso
 I loro polimeri forniscono così informazioni all'interno della cellula, come la struttura di ogni proteina e ogni componente cellulare.
 ![[Pasted image 20221123124051.png]]
-Il legame chimico che tiene unito lo zucchero pentoso e il gruppo fosfato è il legame "fosfodiesterico", creando così il "[[#Nucleoside]]"
+Il legame chimico che tiene unito lo zucchero pentoso e il gruppo fosfato è il legame "fosfodiesterico".
 Il legame che tiene unito invece lo zucchero pentoso e la base azotata è il N-glicosidico, già visto nei [[I Glucidi#Glicoconiugati|glicoconiugati]], 
 ### Basi azotate
 ![[Pasted image 20221123123347.png]]
@@ -116,7 +116,7 @@ NB, il gruppo fosfato del nucleotide può essere legato in diverse posizioni del
 ![[Pasted image 20221123125448.png]]
 #### Adenosina
 ![[Pasted image 20221123125756.png]]
-L'edenosina è un nucleoside composto da una molecola di adenina legata a un ribosio attraverso un legame beta-n9-glicosidico. 
+L'edenosina è un nucleoside composto da una molecola di adenina legata a un ribosio attraverso un legame beta-n-glicosidico. 
 L'adenosina riveste un ruolo fondamentale nei processi biochimici, come trasferimento di energia (ATP) o trasduzione del segnale (AMPciclico o cAMP). 
 ![[Pasted image 20221123125806.png]]
 ## Le regole di Chargaff

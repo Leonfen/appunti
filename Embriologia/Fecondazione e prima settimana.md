@@ -7,7 +7,7 @@ Si pensa infatti che in diverse regioni dell'epididimo vengano prodotte molecole
 Gli spermatozoi poi maturi si accumulano nel tratto finale dell'[[Apparato riproduttore maschile e spermatogenesi#Epididimo|epididimo]] ("coda"), per poi andare "nell'ampolla deferenziale"; da qui vengono poi immersi in un liquido viscoso detto "liquido seminale", quale ha la funzione di agevolare e proteggere gli spermatozoi, oltre che nutrirli. 
 L'insieme degli spermatozoi e del liquido andrà a formare lo "sperma".
 ![[Pasted image 20221022155226.png]]
-Il seme viene quindi deposto nella vagina della donna; qui gli spermatozoi dovranni risalire le vie genitali per raggiungere l'ovocito in una regione chiamata "ampolla tubarica", situata nelle [[Apparato femminile riproduttore#Tube uterine, o di Falloppio|tube di Falloppio]]. 
+Il seme viene quindi deposto nella vagina della donna; qui gli spermatozoi dovranno risalire le vie genitali per raggiungere l'ovocito in una regione chiamata "ampolla tubarica", situata nelle [[Apparato femminile riproduttore#Tube uterine, o di Falloppio|tube di Falloppio]]. 
 La migrazione, che può durare anche giorni, è data soprattutto dalla contrazione della muscolatura dell'endometrio e delle vie genitali femminili: per questo saranno pochi gli speramtozoi a raggiungere la fine. 
 Qui questi riceveranno un'altra "capacitazione" grazie alla rimozione dei fattori inibitori posti sulla membrana plasmatica degli spermatozoi attraverso cambiamenti di PH (quali attivano la mobilità del flagello attraverso una forte alcalinizzazione) e temperatura. 
 ![[Pasted image 20221022155305.png]]
@@ -16,9 +16,9 @@ Qui questi riceveranno un'altra "capacitazione" grazie alla rimozione dei fattor
 ## Penetrazione dello spermatozoo nella zona pellucida
 ![[Pasted image 20221022155032.png]]
 Dopo esser giunti nell'ampolla tubarica gli spermatozoi devono superare diverse strutture che circondano l'ovocita prima di pendetrare al suo interno. 
-Di solito solo uno spermatozoo riuscirà ad entrare, ma alcune decine psosono arrivare contemporaneamente nellos strato più interno, invadendo così la parte del "cumulo ooforo" ([[Apparato femminile riproduttore#Follicolo secondario antrale]]), cuiè cellule follicolari che circondano l'ovocito, immerse in una soluzione formata prevalentemente di "acido ialuronico". 
+Di solito solo uno spermatozoo riuscirà ad entrare, ma alcune decine psosono arrivare contemporaneamente nellos strato più interno, invadendo così la parte del "cumulo ooforo" ([[Apparato femminile riproduttore#Follicolo secondario antrale]]), cioè cellule follicolari che circondano l'ovocito, immerse in una soluzione formata prevalentemente di "acido ialuronico". 
 Gli spermatozoi attraverseranno questa matrice grazie al movimento dei flagelli (ora attivi vista la diversa concentrazione di ph), legandosi adesso alla "zona pellucida" ([[Apparato femminile riproduttore#Follicoli primari unilaminari]]). 
-Questa è una matrice glicoproteica che circonda l'ovocito; essa è formata princiipalmente da 4 glicoproteine della famiglia ZP. 
+Questa è una matrice glicoproteica che circonda l'ovocito; essa è formata principalmente da 4 glicoproteine della famiglia ZP. 
 Lo spermatozoo riuscirà a penetrare in questa matrice attraverso una "reazione acrosomiale" attraverso i diversi enzimi idrolitici contenuti nel capuccio dello spermatozoo. 
 ![[Pasted image 20221022155736.png]]
 Da notare è come la zona pellucida, oltre ad avere funzione meccanica di protezione, ha anche funzione recettoriale: dopo essere stato liberato dall'agrosoma verranno infatti esposti dei recettori specifici per le ZP, così da confermare allo spermatozoo di aver fecondato l'ovocita della dtessa specie. 
@@ -27,7 +27,7 @@ Si è visto in studi abbastanza recenti che un proteina transmembrana chiamata "
 ![[Pasted image 20221022155123.png]]
 Dopo questo processo di fusione partirà una serie di reazione atte a modificare il reticolato proteico che circondava l'ovocita: qui gli altri spermatozoi non riusciranno a superare la zona pellucida o resteranno incastrata nella stessa, finendo così per degradarsi e essere fagocitati dalle cellule immunitarie contenute nel muco prodotto dall'endometrio (da notare è quindi l'importanza del muco quale conferisce un'importante reazione immunitaria e infiammatoria). 
 ![[Pasted image 20221022163836.png]]
-NB, nella fecondazione l'ovocita che riuscirà a essere fecondato espleerà il primo globulo polare, per poi entrare in metafase II; per questo motivo nella fecondazione in vitro si riuscirà a scoprire quale dei campioni selezionato riuscirà a far avvenire una giusta fecondazione. 
+NB, nella fecondazione l'ovocita che riuscirà a essere fecondato espellerà il primo globulo polare, per poi entrare in metafase II; per questo motivo nella fecondazione in vitro si riuscirà a scoprire quale dei campioni selezionato riuscirà a far avvenire una giusta fecondazione. 
 
 ## Attivazione dell'ovocito
 ![[Pasted image 20221022161548.png]]
@@ -35,7 +35,7 @@ Subito dopo la fusione, l'ovolemma si solleva per inglobare compeltamente lo spe
 La fusione è quindi seguita da eventi molecolari che fanno parte del processo chiamato "attivazione dell'ovocito". 
 Dapprima vi è la "depolarizzazione dell'ovolemma", dovuto all'ingresso di ioni sodio e l'aumento della concentrazione di ioni calcio nel citoplasma. 
 ![[Pasted image 20221022155625.png]]
-L'entrata di questi diversi ioni è, secondo gli studi più accreditati, data da una fosfolipasi C (molto probabilmente la PLCz), un enzima in grado di generare il fosfolipide inositolo trifosfato (IP3). 
+L'entrata di questi diversi ioni è, secondo gli studi più accreditati, data da una fosfolipasi C (molto probabilmente la PLCz), un enzima in grado di generare il fosfolipide inositolo trifosfato (InsP3). 
 Questo, legandosi al suo recettore, presente sulle memrbane del reticolo liscio dell'ovocito, causa il rilascio di calcio da questo organello. 
 Il primo aumento della concentrazione del calcio determina poi l'attivazione di altri recettori: i "recettori rianodinici", associati ad altri canali ionici del calcio che ne determinano così l'aumento ritmico. 
 Entro pochi minuti dalla fusione delle due membrane plasmatiche si verificherà l'esocitosi dei granuli corticali, cioè la "reazione corticale"; con conseguente modifica della zona pellucida, cioè la "reazione zonale". 
@@ -51,7 +51,7 @@ NB, si ricordi come il centriolo dello spermatozoo venga anch'esso assorbito nel
 In questa fase i due corredi cromosomici paterno e materno non sono ancora fusi, infatti sarà più facile riscostruire le rispettive membrane nucleari per poi continuare con una normale divisione mitotica (alcuni studiosi chiamano la cellula uovo di questa fase "ootide").
 ![[Pasted image 20221022162819.png]]
 In questa immagine sono stati inseriti cromosomi di colore diverso per rappresentare il processo di ["imprinting"](https://www.dnaexpress.it/genetica/impronta-genetica/) e marcare i diversi tipi di cromatina che si erano andati a formare. La possibile fecondazione però di due spermatozoi in una singola cellula uovo porterebbe a un'iper espressione della placenta, quale andrebbe a causare il soffocamento dell'embrione, uno sbalzo ormonale e, alla fine, l'aborto. 
-Entro 24 dall'inizio delle fecondazione lo zigote entra nella fase di "segmentazione", qui inizia una rapida serie di divisioni mitotiche che non aumentano le dimensioni dello zigote, ma lo dividono in cellule figlie sempre più piccole definite "blastomeri" (cellule totipotenti in grado di formare, in questo stadio, un intero organismo) tutte contenute ancora nella zona pellucida.
+Entro 24 ore dall'inizio delle fecondazione lo zigote entra nella fase di "segmentazione", qui inizia una rapida serie di divisioni mitotiche che non aumentano le dimensioni dello zigote, ma lo dividono in cellule figlie sempre più piccole definite "blastomeri" (cellule totipotenti in grado di formare, in questo stadio, un intero organismo) tutte contenute ancora nella zona pellucida.
 
 
 # Prima settimana di sviluppo
@@ -61,7 +61,7 @@ Entro 24 dall'inizio delle fecondazione lo zigote entra nella fase di "segmentaz
 ![[Pasted image 20221022161627.png]]
 La prima divisione mitotica dello zigote, che produce due cellule chiamate "blastomeri", avviene circa un giorno dopo la fecondazione. 
 Nel frattempo lo zigote, spinto dalle ciglia dell'epitelio e dalla contrazione della tuba uterina, comincia a scendere verso l'utero. 
-Altre mitois si susseguono, ma, non essendo sincrone fra i vari blastomeri, l'mebrione passa in diversi stadi a diversi numeri di cellule. 
+Altre mitois si susseguono, ma, non essendo sincrone fra i vari blastomeri, l'embrione passa in diversi stadi a diversi numeri di cellule. 
 Queste divisioni avvengono però senza un apprezabile aumento di volume, ma solo con un'aimento di cellule contenute nello stesso spazio, per questo si andrà allora a parlare di "segmentazioni"
 Tra lo stadio di 4 e 8 blastomeri il genoma dell'embrione diviene attivo e iniza così la trascrizione dei propri geni. 
 A questo stadio i processi che avvengono nell'embrione sono guidati da molecole sintetizzate in precedenza dal genoma dell'ovocita e, allo stesso tempo, per la formazione di un embrione femminile, viene inattivato il gene X. 
@@ -75,14 +75,14 @@ E' possibile la formazione della palcenta visto che le morule sono ancora indiff
 
 ## Compattazione
 ![[Pasted image 20221022165235.png]]
-Qui si andrà incontro a cambiamento di forma: i blastomeri si appiattiscono, aderiscono strettamente gli uni agli altri attraverso la proteina "E caderina". 
+Qui si andrà incontro a cambiamento di forma: i blastomeri si appiattiscono, aderiscono strettamente gli uni agli altri attraverso la proteina "[[Giunzioni e polarità cellulare#Caderine|caderina-E]]". 
 Qui si creerà una piccola polarità che tenderà a legare i blastomeri, trasmettendo le informazioni dai blastomeri più esterni a quelli più interni. 
 Il tutto creerà allora il fenomeno della "compattazione"
 Durante il 4o giorno e il processo di compattazione, alcuni blastomeri verranno segregati al centro e altri all'esterno, andando rispettivamente a formare:
 - La massa cellulare interna (inner cell mass); essa, visto che forma l'embrione vero e proprio, è anche detta embrioblasto
 - Il trofoblasto: fonte principale della placenta e annessi embrionali
 Da qui la morula inzierà ad accomulare liquidi e andare in contro a una serie di processi. 
-- Il trofoblasto, differenziandosi, si organizza in un epitelio le cui cellule adiacenti sono aderiscono strettamente grazie alla presenaza "dell' E-caderina" e di diversi tipi di giunzione; sviluppa inoltre dei microvilli utili per il successivo attaccamento all'endometirio. 
+- Il trofoblasto, differenziandosi, si organizza in un epitelio le cui cellule adiacenti aderiscono strettamente grazie alla presenaza "dell' E-caderina" e di diversi tipi di giunzione; sviluppa inoltre dei microvilli utili per il successivo attaccamento all'endometirio. 
 - Le cellule che formano il trofoblasto inizieranno così a esprimere una pompa che consente loro lo scambio di metaboliti fra esterno e interno della morula
 - La differenza di sodio fra esterno-interno della morula creerà un gradiente che porterà per osmosi l'acqua nell'embrione 
 L'aumento della pressione determinerà la comparsa di una cavità detta "blastocele" che riorganizzerà le cellule dell'embrione in:

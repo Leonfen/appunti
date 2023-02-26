@@ -84,7 +84,7 @@ Si vede allora come la struttura secondarie, terziaria e quaternaria dipendendon
 Questa è data dalle sequenza amminoacidica della catena polipeptidica. 
 La struttura primaria è molto stabile e le sequenze amminoacidiche delle proteine sono depositate in codice nei geni; ovvero in tratti del DNA. 
 ![[Pasted image 20221122095503.png]]
-Un esempio è proprio dato dalla struttura primaria dell'insultina: un ormone peptidico prodotto dalle cellule beta di Langerhans del pancreas.
+Un esempio è proprio dato dalla struttura primaria dell'insulina: un ormone peptidico prodotto dalle cellule beta di Langerhans del pancreas.
 La sua funzione è quella di ridurre la glicemia (il livello di glucosio nel sangue) mediante l'attivazione di specifici processi metabolici e cellulari
 Essa è formata da due catene unite a ponti solfuro:
 - La catena A contiene 21 amminoacidi
@@ -124,7 +124,7 @@ Il foglietto beta può anche essere definito come:
 ![[Pasted image 20221122102533.png]]
 L'andamento dei foglietti può essere rappresentanto anche da delle semplici frecce, si vede allora nell'immagine seguente un esempio
 ![[Pasted image 20221122102757.png]]
-Le strutture a foglietto bieta possono però anche formare una specie di struttura impilata così da formare una fibra amiloide, molto simili ad aggregati insolubili che si osservano nei neuroni, molto soggetti a creare malattie neurodegenerative. 
+Le strutture a foglietto bieta possono però anche formare una specie di struttura impilata così da formare una fibra amiloide, molto simili ad aggregati insolubili che si osservano nei neuroni, soggetti a creare malattie neurodegenerative. 
 ![[Pasted image 20221122102956.png]] (Fibra amiloide di lievito)
 #### Motivi strutturali comuni
 In molte proteine sono state identificate combinazioni di alpha elica e beta foglietto: queste unità sono detti "motivi" e sono costituiti da piccoli segmenti di queste strtturue connesse fra loro da regioni di lunghezza variabile. 
@@ -154,12 +154,12 @@ E' data inoltre dalla ombinazini di più regioni ad alpha elica e/o beta-fogliet
 #### Proteine globulari
 ![[Pasted image 20221122135420.png]]
 Presentano catene polipeptidiche raggomitolate dando luogo a strutture compatte. 
-Le proteine globulari hanno una struttura terziaria caratteristica, costituita da proteine aad alpha elica e beta foglietto quali vanno a ripiegarsi in modo specifico alla funzione della proteina. 
+Le proteine globulari hanno una struttura terziaria caratteristica, costituita da proteine ad alpha elica e beta foglietto quali vanno a ripiegarsi in modo specifico alla funzione della proteina. 
 Il raggomitolamento è possibile vista la presenza di regioni "random coils" (avvolgimenti casuali)
 Queste proteine globulari possono essere costituite da segmenti denominati "domini", ognuno di questi è una regione globulare, compatta e che si forma per la combinazione di più elementi strutturali secondari
-Inoltre proteine dalle multipli funzione hanno anche dominiio diverso per ogni funzinoe; si può quindi dire che la struttura terziaria riguarda il ripiegamento di ciascun dominio oltre che la sua disposizione reciproca finale nella proteina. 
+Inoltre proteine dalle multipli funzione hanno anche dominio diverso per ogni funzione; si può quindi dire che la struttura terziaria riguarda il ripiegamento di ciascun dominio oltre che la sua disposizione reciproca finale nella proteina. 
 ![[Pasted image 20221122140128.png]]
-Un esempio di proteina di proteine globulare contenente due domini funzionale è data dalal "gliceraldeide fosfato deidrogenasi": questa contiene un dominio che si lega alla sostanza che deve essere metabolizzata; l'altro invece lega il fattore chimico necessario al giusto funzionamento della reazione. 
+Un esempio di proteina di proteine globulare contenente due domini funzionale è data dalla "gliceraldeide fosfato deidrogenasi": questa contiene un dominio che si lega alla sostanza che deve essere metabolizzata; l'altro invece lega il fattore chimico necessario al giusto funzionamento della reazione. 
 #### Interazioni per il ripiegamento delle proteine
 ![[Pasted image 20221122140823.png]]
 Da ricordare è come il ripiegamento delle porteine fosse dato da [[Visione d'insieme della cellula eucariota#Legami fra atomi|legami covalenti (ponti zolfo-zolfo) e non covalenti come]]:
@@ -178,7 +178,7 @@ Questi tipi di legame possono quindi unire due parti della stessa catena polipep
 #### Forze di Van der Waals
 Queste sono interazioni aspecifiche fra molecole non cairche, che giocano un ruolo quando gli atomi distano fra loro 3-4 Armstrong
 L'origine di queste forze attrattive è douta all'effetto di fluttuazioni temporanee di distribuzione elettronica che generano dipoli transienti nell'atomo o nella molecola considerata. 
-A loro volta questi dipoli transienti creano dei "tdipolo indotti" nelle molecole più vicine, quali subiscono allora altra interazioni di natura elettrostatica. 
+A loro volta questi dipoli transienti creano dei "dipoli indotti" nelle molecole più vicine, quali subiscono allora altra interazioni di natura elettrostatica. 
 Esistono allora interazioni fra:
 - Dipoli permanenti
 - Dipolo permanente ed uno indotto
@@ -213,7 +213,7 @@ Ci sono vari modi di classificare le proteine:
 - In base alla funzione
 - In base alla forma
 - In base alla solubilità
-- In base chimica, tra cui proteine semplici composte solo dal alpha amminoacidi e proteine coniugate, quali contengono anche una frazione non proteica detta "gruppo prostetico". 
+- In base chimica, tra cui proteine semplici composte solo da alpha amminoacidi e proteine coniugate, quali contengono anche una frazione non proteica detta "gruppo prostetico". 
 ### Funzione
 ![[Pasted image 20221122151806.png]]
 - Strutturale, queste conferiscono rigidità alle componenti quali resterebbero altrimenti fluide. 
@@ -222,8 +222,8 @@ Ci sono vari modi di classificare le proteine:
 - Di difesa, queste hanno compito di difendere l'organismo da agenti estranei
 - Di trasporto, queste hanno compito di trasportare elementi
 - Ormonali, queste hanno compito di trasportare un segnale per configurare le attività corporee
-- Enzimi, queste hanno funzione di catalizzatori chimic (aumentare o permettere una reaziione)
-- Recettoriali, queste hanno funzione id riceveer uno specifico ormone, così poi da trasdurre il sengale attraverso le proitne di segnalazione
+- Enzimi, queste hanno funzione di catalizzatori chimici (aumentare o permettere una reaziione)
+- Recettoriali, queste hanno funzione di ricevere uno specifico ormone, così poi da trasdurre il sengale attraverso le proitne di segnalazione
 - Di segnalazione, queste trasmettono i segnali intracellulari generati in risposta all'attivazione del recettore legato al proprio ligando
 - Di regolazione, queste regolano le attività cellulari, permettendo o inibendo un preciso processo biochimico. 
 ### Forma

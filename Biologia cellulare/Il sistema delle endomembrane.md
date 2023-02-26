@@ -45,19 +45,19 @@ Il REL ha funzione di:
 	- Cortisolo
 	- Estradiolo
 	- Testostosterone
-	Il tutto è allora dato dal REL e dal mitocondrio; la prima tappa è infatti catalizzata nel mitocondrio, quale trasforma il colesterolo (attraverso la protiene STAR, che facilita l'ingresso del colestrolo nel mitocondrio) in "pregnolone". 
+	Il tutto è allora dato dal REL e dal mitocondrio; la prima tappa è infatti catalizzata nel mitocondrio, quale trasforma il colesterolo (attraverso la protiene STAR, che facilita l'ingresso del colestrolo nel mitocondrio) in "pregnenolone". 
 	Si nota allora una passagio di vescicole fra REL e mitocondrio che porta al compeltamento del processo. 
 	NB, ogni enzima che catalizza specifica reazione si trova in una sua porzione corrispondente sul mitocondrio o sul REL, questo riprende infatti la concezione che, un enzima, per lavorare, ha bisogno di un ambiente adatto e contenuto quindi da una membrana plasmatica che lo delimita.
 - Biosintesi dei lipidi di memrbana: vengono sintetizzati qui i fosfolipidi utili per costruire e riparare tutte le membrane della cellula
 - Deposito di calcio: nel tessuto muscolare, questi ioni sono necessari per la contrazione; il tessuto nervoso stimola una cellula muscolare e gli ioni calcio, per far contrarre la cellula, devono passare dal REL nel fluido citoplasmatico ([[Proteine recettoriali#Via di trasduzione dell'inositolo trifosfato e del dialglicerolo.|ricorda la via dell'inositolo trifosfato]])
 	![[Pasted image 20221204164648.png]]
-	Per mantenere il disequilibrio noramale ci sono poi pompe sulla membrana del REL, così da trasportare il calcio intracellulare dendro la sua membrana
+	Per mantenere il disequilibrio noramale ci sono poi pompe sulla membrana del REL, così da trasportare il calcio intracellulare dentro la sua membrana
 - Detossificazione da farmaci attraverso l'idrossilazione delle molecole idrofobe. 
   A livello epatico i farmaci liposolubili vengono smaltiti in prodotti di scarto idrosolubili, poi eliminati dai reni
 - Metabolismo dei carboidrati
 - Metabolismo del glicogeno negli epatociti; quando il glucosio viene assorbito vi è infatti un processo chiamato "glicogenosintesi", dove le singole molecole di glucosio vengono polimerizzate così da essere trasformate in glicogeno. 
   Gli enzimi capaci di catalizzare tale reazione sono solubili e si trovano allora nel citoplasma, o legate alle stesso molecole di glicogeno. 
-  Contrariamente, la "glicogenolisi", p mediata da enzimi fosforilasici che inducono la liberazione di molecole glucoso-1-fosfato. 
+  Contrariamente, la "glicogenolisi", è mediata da enzimi fosforilasici che inducono la liberazione di molecole glucoso-1-fosfato. 
   I due processi aumentano in risposta a particolare ormoni pancreatici: insulina e glocagone.
 #### Regolazione dei livelli glicemici
 ![[Pasted image 20221204170418.png]]
@@ -104,7 +104,7 @@ Il ribosoma della cellula eucariotica è composto da due subunità, maggiore a 6
 	- 5,8S
 	- 5S
 	- 45 protiene
-- La subunità maggiore conta una sola catena di rRNA 18s e 33 proteine
+- La subunità minore conta una sola catena di rRNA 18s e 33 proteine
 ![[Pasted image 20221204173609.png]]
 Il ribosoma si pul però trovare anche all'interno del citosol, solo che in questo caso si può avvicinare al RER per continuare la sintesi proteica. 
 I ribisomi liberi vanno allora a sintetizzare le proteine che si trovano nel citoplasma; questo infatti leggerà l'mRNA che viaggia nel citosol, sintetizzando la proteina. 
@@ -115,7 +115,7 @@ Una sequenza segnale per l'RE e una SRP indirizzano un ribosoma alla memrbana de
 L'SRP si lega sia alla sequenza segnale per l'RE esposta, sia al ribosoma, rallentando la sintesi proteica in corso.
 Il complesso SRP-rivosoma si lega allora a un recettore per l'SRP della membrana del RE. 
 L'allontanamento dell'SRP permette al ribosoma di passare dal recettore per l'SRP a un canale di traslocazione, trovatosi nella memrbana del RE. 
-La sintesi proteica riprende e il traslocatore avvia il trasferimento della catena polipeptidica in allluncamento attraverso il doppio strato lipidico
+La sintesi proteica riprende e il traslocatore avvia il trasferimento della catena polipeptidica in alllungamento attraverso il doppio strato lipidico
 Ricapitolando, il ribosoma inizia allora a sintetizzare una proteina che può avere due destini:
 - Rimanere nel citosol, completata
 - Se contiene una particoalre sequenza amminoacidica, riuscendo così ad attaccare la SRP, potrà essere secreta o inglobata nelle membrane; da qui andrà allora nel RER.
@@ -151,11 +151,6 @@ La sequenza segnale interna è allora riconosciuta da un'SRP che guida il riboso
 Quando una sequenza d'arresto raggiunge il traslocone, la proteine viene liberata laterlamente nel doppio strato. con le sue due sequenze iniziale e d'arresto. 
 Nessuna delle due viene però escissa, in modo che l'intera catena polipeptidica resti ancorata alla membrana, ancorandola così due volte. 
 Le proteine che attraversano la membrana più volte contengono invece ulteriori coppie di sequenze iniziali e arresto, così che il processo possa ripetersi per ogni singola coppia. 
-
-
-
-
-
 
 #### Controllo post-traduzionale da parte delle proteine chaperone
 ![[Pasted image 20221204181601.png]]
@@ -202,7 +197,7 @@ Esso è formato da:
 ![[Pasted image 20221204184704.png]]
 ##### Vescicole rivestite
 ![[Pasted image 20221204184735.png]]
-Le vescicole che gemmano dal RE sono rivestite con le proteine COP II e si spostano in senso aterogrado. 
+Le vescicole che gemmano dal RE sono rivestite con le proteine COP II e si spostano in senso anterogrado. 
 Le vescicole che spostano il materiale in senso retogrado e quindi gemmano dalla CGN, ritornando al RE, sono invece rivestite con proteine COPI
 ### Pathway di trasporto intracellulare
 ![[Pasted image 20221204184938.png]]
@@ -353,7 +348,7 @@ Le principali funzioni dei perossisomi sono:
   In essa inzia quindi la degradazione degli acidi grassi a catena lunga o ramificati fino alla produzione di acidi grassi a catena corta o lineari, che verranno successivamente degradati a acetilconezima A nei mitocondri. 
 - Ossidazione dell'acido urico: in molti organismi (tranne che nell'uomo), ad opera dell'enzima "urato-ossidasi", l'acido urico è trasformato in allantoina, a sua volta è degradata ed espulsa. 
   I primati, non possedendo l'urato-ossidasi, espellono l'acido urico tal quale nelle urine
-### Biogensi dei nuovi perossisimi
+### Biogenesi dei nuovi perossisimi
 ![[Pasted image 20221205135925.png]]
 Avviene mediante scissione dei perossisomi preesistenti piuttosto che dalla fusione di vescicole provenienti dal Golgi. 
 I lipidi, le protiene e gli enzimi vengono aggiunti a perossisomi preesistenti da fonti citoplasmatiche. 
@@ -391,7 +386,7 @@ Alcune di queste idrolasi acide sono:
 ![[Pasted image 20221204224640.png]]
 Per mantenere il pH neutro necessario al funzionamento delle idrolisi acide il lisosoma utilizza delle pompe atp-asi protoniche ([[Trasporto cellulare attraverso membrane#ATPasi di tipo V|ATPasi di tipo V]]), quali hanno funzione di spostare ioni idrogeno all'interno dell'ambiente lisosomiale così da renderlo più acido. 
 L'attività di questa pompa richiede allora consumo di energia fornita dall'idrolisi dell'ATP, così da mantenre una concentrazione di ioni idorgeno di circa 100 volte più alta rispetto al citosol. 
-### Enzimi lisoosomiali
+### Enzimi lisosomiali
 Gli enzimi lisosomiali sono sintetizzati dai ribosomi del RER, per poi essere internalizzati e trasferiti al Golgi dove subiscono altre modificazioni. 
 Sono poi impacchettati in vescicole rivestite di clatrina, che gemmano dal TGN.
 A loro volta queste vescicole si fondono con endosomi tardivi. 
@@ -420,4 +415,3 @@ Oltre alla digestione derivante dalla endocitosi, i lisosomi degradano anche mat
 - Autofagia, rappresenta la via degradativa degli organuli cellulari. 
   Essi vengono inglobati in membrane derivanti dal RE e la vescicola così formata, l'autofagosoma, si fonde con un lisosoma degrandando il proprio contenuto
 ![[Pasted image 20221204235744.png]]
-## Traffico delle vescicole attraverso il sistema endomembranoso

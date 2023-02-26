@@ -27,12 +27,12 @@ Da notare nell'immagine è però la via di migrazione delle cellule staminali ep
 - Guaina interna della radice
 ## Struttura del pelo
 ![[Pasted image 20221217183639.png]]
-Notiamo come il fusto del pulo è formato da 3 stati di cellule epiteliali che, dall'esterno verso l'interno, si distinguono in:
+Notiamo come il fusto del pulo è formato da 3 stati di cellule epiteliali che, dall'interno verso l'esterno, si distinguono in:
 - Midolla
 - Corteccia
 - Cuticola
 ### Midolla
-![[Pasted image 20221217181556.png]]
+![[Pasted image 20230104194448.png]]
 Abbiamo qui le cellule epidermiche vacuiolizzate e poco pigmentate, derivanti dalle cellule staminali e che contengono la "cheratina elastica"
 ### Corteccia
 ![[Pasted image 20221217181739.png]]
@@ -49,8 +49,8 @@ Strato di lamelle cornee costituite da cheratina dura
 # Ghiandole sudoripare 
 ![[Pasted image 20221217184034.png]]
 Nel nostro corpo esistono diversi tipi di ghiandole sudoripare (a seconda del modo in cui agiscono):
-- [[Epiteli ghiandolari e ghiandole esocrine#Ghiandole a secrezione merocrina|Merocrine o eccrine]]
-- [[Epiteli ghiandolari e ghiandole esocrine#Ghiandole apocrine|Apocrine]]
+- [[Epiteli ghiandolari e ghiandole esocrine#Ghiandole a secrezione merocrina|Merocrine o eccrine]] (diffuse in tutto il corpo fino alla nascita)
+- [[Epiteli ghiandolari e ghiandole esocrine#Ghiandole apocrine|Apocrine]] (si sviluppano solo con la pubertà e si trovano in specifiche zone viste sopra)
 ## Ghiandole sudoripare eccrine
 ![[Pasted image 20221217184545.png]]
 Esse sono ghiandole di tipo [[Epiteli ghiandolari e ghiandole esocrine#Tipi di ghiandole pluricellulari, dotto non ramificato|tubuloglomerulare a gomitolo]], con dotti escretori molto lunghi e la parte secernente, dette "adenomero", nel punto più profondo del derma (fino a raggiungere l'ipoderma), dove si raggomitolerà
@@ -188,7 +188,7 @@ Nello specifico:
 ![[Pasted image 20221218160659.png]]
 La cavità orale fa parte del sistema digerente, ed è costituita da diverse strutture come:
 - Bocca
-- Lunga
+- Lingua
 - Denti
 - Strutture di supporto
 - Ghiandole salivari che si possono distinguere in:
@@ -252,7 +252,8 @@ A seconda della ghiandola cui si cita, si hanno diverse quantità di tipi di sec
 - Le ghiandole salivari presentano acidi misti
 - Le paratiroidi presentano secrezione sierosa
 - Le sottomandibolari presentano una secrezione prevalentemente siero che mucosa (raramente osservata)
-- Ghiandole sottomandibolari: presentano una secrezione prevalentemente siero se e poca mucosa, le sotto-linguali hanno una secrezione prevalentemente mucosa e i pochi dotti, invece, secernono siero. 
+- Ghiandole sottomandibolari: presentano una secrezione prevalentemente sierose e poca mucosa 
+- Ghinadole sotto-linguali:  secrezione prevalentemente mucosa e i pochi dotti, invece, secernono siero. 
 ### Metodo di fissacione di acini a secrezione mista: Semiluna del Giannuzzi
 ![[Pasted image 20221218163933.png]]
 Da ricordare è che nel tipo di ghiandole acinose a secrezione mista si vada a creare un arefatto istologico quale si basa proprio sulle cellule sierosi e mucose. 

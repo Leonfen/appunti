@@ -3,7 +3,7 @@
 La cellula eucariota è formata da diverse strutture che la contraddistinguono dalla cellula procariota, esse sono definite "organuli". 
 Essi possono essere definiti come delle piccole porzioni di fabbriche, ognuna delle quali con un propria funzione e divisione. 
 Questa vera e propria "compartimentizzazione" porta infatti dei grandissimi vantaggi per la cellula:
-1. Creazione di un microambiente nel quale enzimi, substrati e cofattori sono concentrati: aumenta il numero di interazioni
+1. Creazione di un microambiente nel quale [[Gli enzimi|enzimi]], substrati e cofattori sono concentrati, aumentando così il numero di interazioni
 2. Controllo degli ambienti chimici: pH, concentrazione di ioni, etc. 
 3. Sostanze pericolose (farmaci) sono sequestrate in organuli adeguati. 
 ## La membrana plasmatica
@@ -30,25 +30,27 @@ Esso contiene diversi soluti come:
 ## Nucleo
 ![[Pasted image 20221119220619.png]]
 ### Struttura
-Il nucleo è delimitato da una doppia memrbana contenente pori quali consentono la comunicazione tra nucleo e citoplasma
-Esso contiene inoltre i cromosomi: strutture filamentose composte da DNA e proteine; queste sono solitamente presenti in coppie di numero variabile da specie a specie
-Al suo interno è inoltre contenuto il "nucleolo": struttura specializzata e deputata all'assemblaggio di ribosomi, quali contengono RNA e proteine implicati nel prcesso di sintesi proteica
+Il nucleo è delimitato da una doppia membrana ([[Il nucleo cellulare e DNA#Nucleo cellulare|nucleo cellulare]]) contenente [[Il nucleo cellulare e DNA#Pori nucleari|pori]] quali consentono la comunicazione tra nucleo e citoplasma
+Esso contiene inoltre i [[Il nucleo cellulare e DNA#Cromatina e cromosomi|cromosomi]]: strutture filamentose composte da DNA e proteine; queste sono solitamente presenti in coppie di numero variabile da specie a specie
+Al suo interno è inoltre contenuto il "[[Il nucleo cellulare e DNA#Nucleolo|nucleolo]]": struttura specializzata e deputata all'assemblaggio di [[Processo di traduzione#I ribosomi|ribosomi]], quali contengono RNA e proteine implicati nel processo di [[Processo di traduzione#Meccanismo di traduzione|traduzione]]
 Il nucleo è inoltre di posizione variabile, può infatti essere centrale o eccentrico a seconda della cellula di cui si sta parlando
 ### Funzione
-Il nucleo svolge un ruolo cruciale nel controlla della vita cellulare e nel suo processo di divisione: entrambe le funzioni sono infatti dipese dal DNA racchiuso al suo interno. 
-Quando una cellula si divide la membrana nucleare si dissolve e il DNA si condensa in cromosomi visibili, ognuno dei quali viene replicato per formare un coppia di cromosomi: i microtubuli alla fine si degradano e separano i membri di ogni coppia nelle due cellule figlie
+Il nucleo svolge un ruolo cruciale nel controlla della vita cellulare e nel suo processo di replicazione ([[Mitosi|mitosi]] e [[La meiosi|meiosi]]): entrambe le funzioni sono infatti dipese dal DNA racchiuso al suo interno. 
+Quando una cellula si divide la membrana nucleare si dissolve e il DNA si condensa in cromosomi visibili, ognuno dei quali viene [[Replicazione del DNA|replicato]] per formare un coppia di cromosomi: i microtubuli alla fine si degradano e separano i membri di ogni coppia nelle due cellule figlie
 ![[Pasted image 20221119221022.png]]
 ## I ribosomi
 ### Struttura
 ![[Pasted image 20221119221642.png]]
 Questi sono organelli costituiti da RNA e proteine che partecipano all'ulteriore sintesi di proteine
-Cihmicamente, i ribosomi sono "ribonucleoproteine", cioè strutture costituiti da nucleotidi e proteine
-I ribosomi della cellula eucariota hanno massa molecolare e dimensioni più grandi di quelli procarioti, essi hanno infatti un coefficiente di sedimentazione pari a 80 S; sono infatti costituiti da due subunità, quella maggiore 60 S, quella minore 40 S. 
+Cihmicamente, i ribosomi sono "ribonucleoproteine", cioè strutture costituiti da [[Acidi nucleici e lipidi#Nucleotidi|nucleotidi]] e [[Proteine|proteine]]
+I ribosomi della cellula eucariota hanno massa molecolare e dimensioni più grandi di quelli procarioti, essi hanno un coefficiente di sedimentazione pari a 80 S; sono costituiti da due subunità: 
+- Maggiore 60 S 
+- Minore 40 S. 
 ![[Pasted image 20221119221652.png]]
 ### Locazione
 Questi possono trovarsi:
-- Liberi nel citoplasma, producendo proteien che sono utilizzate nel citoso
-- Legate al reticolo endoplasmatico, qui producono proteine che sono:
+- Liberi nel citoplasma, producendo proteine che sono utilizzate nel citosol
+- Legate al [[Il sistema delle endomembrane#Reticolo endoplasmatico|reticolo endoplasmatico]], qui producono proteine che sono:
 	- Destinate ad essere inserite nelle membrane
 	- Destinate ad essere esportate dalla cellula (secrete)
 ## Reticolo endoplasmatico (RE)
@@ -70,18 +72,18 @@ Si noti come le due strutture differiscono proprio dalla presenza o meno di ribo
 Altro particolare degno di nota è la continuazione del RE con l'involucro nucleare, utile per l'ulteriore elaborazione delle proteine che verranno poi rilasciate nell'ambiente cellulare o soggette a maggiore lavorazione da parte dell'apparato di Golgi.
 ## Apparato di Golgi
 ![[Pasted image 20221119224035.png]]
-L'apparato di Golgi è un organulo di composizione lipoproteica, esso è formato da cisterne membranose e appiattite, impilate una l'une sulle altre
+L'[[Il sistema delle endomembrane#Apparato di Golgi|apparato di Golgi]] è un organulo di composizione lipoproteica, esso è formato da cisterne membranose e appiattite, impilate una l'une sulle altre
 ### Funzione
-Esso svolte la funzione di apportare modifiche alle molecole che passano nelle sue cisterne (modifica infatti proteine, zuccheri e lipidi) e di immagazzinare, impacchettare e distribuire le molecole già sintetizzate in diverse regioni della cellula (come membrana plasmatica e lisosomi)
+Esso svolte la funzione di apportare modifiche alle molecole che passano nelle sue cisterne (modifica infatti proteine, zuccheri e lipidi) e di immagazzinare, impacchettare e distribuire le molecole già sintetizzate in diverse regioni della cellula (come [[Struttura e funzione della membrana plasmatica|membrana plasmatica]] e [[Il sistema delle endomembrane#Lisosomi|lisosomi]])
 Le molecole vengono quindi:
-- Importante secondo endocitosi
-- Esportate secondo esocitosi
+- Importate secondo [[Trasporto cellulare attraverso membrane#Endocitosi|endocitosi]]
+- Esportate secondo [[Trasporto cellulare attraverso membrane#Esocitosi|esocitosi]]
 ![[Pasted image 20221119224434.png]]
 ## Lisosomi
 ![[Pasted image 20221119224459.png]]
 I lisosomi sono organuli con funzioni digestive, che degradano gli organelli non funzionali, le macromolecole e le particelle che la cellula assume per endocitosi. 
 Essi appaiono come vescicole delimitate da una singola membrana di dimensioni molto variabile
-Le proteine della membrana lisosomica sono fortemente glicosilate per proteggerle dall'autodigestione proteasica
+Le proteine della membrana lisosomica sono fortemente [[I Glucidi#Glicoproteine|glicosilate]] per proteggerle dall'autodigestione proteasica
 ![[Pasted image 20221119224632.png]]
 #### Azione idrolitica
 I lisosomi contengono una quarantina di enzimi idrolitici di diverso tipo, tra cui quelli che degradano le proteine, gli acidi nucleici, gli oligosaccaridi e i fosfolipidi. 
@@ -89,14 +91,14 @@ Hanno inoltre pH acido mantenuto dentro ai lisosomi da una pompa per H+ (protoni
 ![[Pasted image 20221119224811.png]]
 ## Mitocondri
 ![[Pasted image 20221119224830.png]]
-I mitocondri sono organelli delimitati da due memrbane, una esterna e una interna racchiudente una matrice che si ripiega formando delle creste
+I [[Il mitocondrio|mitocondri]] sono organelli delimitati da due memrbane, una esterna e una interna racchiudente una matrice che si ripiega formando delle creste
 ![[Pasted image 20221119232030.png]]
 ### Funzioni
-In essi avviene la respirazione cellulare, con cui sono in grado di produrre grandi quantità di energia sotto forma di molecole di "Adenosina Trifosfato" (meglio conosciuta come ATP). 
+In essi avviene la [[Il mitocondrio#Resa complessiva della respirazione cellulare|respirazione cellulare]], con cui sono in grado di produrre grandi quantità di energia sotto forma di molecole di "Adenosina Trifosfato" (meglio conosciuta come ATP). 
 In Particolar modo carboidrati, amminoacidi e acidi grassi introdotti come alimento dentro le cellule vengono ossidati fino a CO2 e H2O in ATP. 
 ## Perossisomi 
 ![[Pasted image 20221119232349.png]]
-I perossisomi sono organelli cellulari di forma generalmente sfeirca, ma possono anche asssumere strutture bastoncellari
+I [[Il sistema delle endomembrane#Perossisomi|perossisomi]] sono organelli cellulari di forma generalmente sfeirca, ma possono anche asssumere strutture bastoncellari
 Posseggono inoltre una matrice perossisomiale contenente materiale amorfo e un reticolo cristallino che nei mammiferi è composto di urato ossidasi. 
 ![[Pasted image 20221119232551.png]]
 ### Funzione
@@ -106,9 +108,9 @@ Tali enzimi intervengono nella degradazione di molecole complesse (detossificazi
 ![[Pasted image 20221119232617.png]]
 La struttura è costituita da una rete intricata di filamenti proteici che si estende per tutto il citoplasma. 
 I tre principali componenti sono: 
-- Filamenti di actina (i più piccoli)
-- Filamenti intermedi 
-- Microtubuli (i più grandi)
+- [[Il citoscheletro#Filamenti di actina, o microfilamenti|Filamenti di actina, o microfilamenti]] (i più piccoli)
+- [[Il citoscheletro#Filamenti intermedi|Filamenti intermedi]] 
+- [[Il citoscheletro#Microtubuli|Microtubuli]] (i più grandi)
 NB, è possibile differenziare i 3 diversi filamenti con colorazioni specifiche
 ![[Pasted image 20221119234315.png]]
 ### Funzioni
@@ -130,8 +132,8 @@ La stabilità di una molecola è quindi normalmente espressa in "energia di lega
 Da notare è come i legami covalenti abbiano energia legame maggiore rispetto alle altre. 
 ### Legami non covalenti
 Essi possono dividersi in:
-- Legami ionici, derivanti dall'attrazione elettrostatica fra gruppi di opposta carica elettrica
-- Legami idrogeno, che si creano per la debole condivisione di una coppia di elettroni tra un atomo di idrogeno e un altro atomo
+- [[#Legami ionici]], derivanti dall'attrazione elettrostatica fra gruppi di opposta carica elettrica
+- [[#Legami a idrogeno]], che si creano per la debole condivisione di una coppia di elettroni tra un atomo di idrogeno e un altro atomo
 - Interazione di van der Waals: deboli interazione che si trovano in tutte le molecole; queste sono il risultato di attrazioni dipolo-dipolo, cioè attrazioni elettrostatiche tra i poli opposti di due molecole che si formano a causa di una transiente disomogeneità degli elettroni di una molecola
 #### Legami ionici
 Questi si formano fra le cariche elettriche di un catione (positivo) e un anione (negativo); un esempio è il legame proteina - DNA; questo si forma tra atomi di azoto della proteina (positivi) e atomi di ossigeno del DNA (negativi)
@@ -149,7 +151,7 @@ Esso è più debole del legame ionico e di quello covalente, anche se è il tipo
 #### Stabilità
 Questo è l'atomo più importante delle molecole biologiche. 
 L'atomo è infatti stabile, avendo come caratteristiche:
-- Valenza 4: essa è la capacità degli atomi di combinarsi con altri atomi; questa esprime quindi il numero di elettroni che un atmo deve guadagnare, perdere, o mettere in comune quando forma legami con gli altri atomi per arrivare al suo ottetto di stabilità. 
+- Valenza 4: essa è la capacità degli atomi di combinarsi con altri atomi; questa esprime quindi il numero di elettroni che un atomo deve guadagnare, perdere, o mettere in comune quando forma legami con gli altri atomi per arrivare al suo ottetto di stabilità. 
   Questa valenza 4 significa allora che l'orbitale più esterno manca di 4 elettroni per arrivare al suo completo riempimento
   ![[Pasted image 20221119235052.png]]
 - Tendenza a creare legami covalenti (i legami più forti, dove si condividono elettroni fra elementi), in genere con Ossigeno, Idrogeno e Azoto. 
@@ -191,7 +193,7 @@ Da notare è come le molecole apolari sono idrofobiche e tendono allora a distru
 Queste in mezzo acquoso tendono allora ad aggregarsi fra loro così da ridurre l'esposizione a molecole d'acqua circostanti (proprietà principale delle membrane biologiche).
 ![[Pasted image 20221120002451.png]]
 ### L'importanza delle membrane selettivamente permeabili
-Ogni cellula necessita di un sistema di barriere fisiche che ne lemiti il materiale esterno da quello interno e che sia impermeabili alla maggior parte delle molecole e ioni presenti nelle cellule o nell'ambiente
+Ogni cellula necessita di un sistema di barriere fisiche che delimiti il materiale esterno da quello interno e che sia impermeabile alla maggior parte delle molecole e ioni presenti nelle cellule o nell'ambiente
 D'altra parte la barriera non può essere completamente impermeabile, ma deve consentire lo scambio tra la cellula e l'ambiente circostante
 #### La natura anfipatica dei fosfolipidi di membrana
 ![[Pasted image 20221120190446.png]]

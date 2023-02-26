@@ -60,7 +60,7 @@ Da ricordare è però come la nostra membrana è una struttura a "mosaico fluido
   Questa, inoltre, può avvenire secondo distribuzione:
   - Casuale, qui i fosfolipidi neosintetizzati sono aggiunto allo strato citoplasmatico dalle membrane del reticolo endoplasmatico e sono successivamente ridistribuiti da enzimi che trasfrericono da una metà all'altra del doppio strato fosfolipidico attraverso l'enzima detto "scramblasi" (in modo randomico, così da permettere la crescita del doppio strato)
     ![[Pasted image 20221125223838.png]]
-  - Asimmetrica, un esempio è data dal Golgi che rimuovono selettivamente la fosfatidilserina e la fosfatidiletanolammina dallo strato non citosolico, trasferendole nello strato citosolico. Questo lascai così la fosfatidilcolina e la fingomielina in maggiore concentrazione nello strato non citosolico, donando la curvatura alla memrbana
+  - Asimmetrica, un esempio è data dal Golgi che rimuovono selettivamente la fosfatidilserina e la fosfatidiletanolammina dallo strato non citosolico, trasferendole nello strato citosolico. Questo lascerà così la fosfatidilcolina e la sfingomielina in maggiore concentrazione nello strato non citosolico, donando la curvatura alla memrbana
     ![[Pasted image 20221125223846.png]]
 - Diffusione laterlae, qui le molecole adiacenti dello stesso monostrato si scambiado di posizione
 - Rotazione attorno al suo asse maggiore in modo rapido. 
@@ -150,14 +150,14 @@ Le proteine integrali si dividono successivamente in:
 - Bitopiche: proteine che attraversano il doppio strato fosfolipidico una sola volta
 - Politopiche: proteine che attraversano il doppio strato fosfolipidico più volte
 Queste possono inoltre distinguersi in:
-- Monopasso, se attraversano da una parte all'altra il doppio strato una singola votla
-- Multipasso, se attraverso il dopppio strato più volte
+- Monopasso, se attraversano da una parte all'altra il doppio strato una singola volta
+- Multipasso, se attraversano il doppio strato più volte
 ##### Proteine periferiche di membrana
 Le proteine periferiche sono troppo idrofile per penetrare nella memrbana, per cui si associano mediante legami non covalenti ai gruppi polari dei lipidi e alle proteine di membrana integrali adiacenti
 ![[Pasted image 20221126000400.png]]
 ##### Proteine di membrana ancorate a un lipide. 
 ![[Pasted image 20221126000450.png]]
-Queste sono legate con legami covalenti ad un gruppo lipidico inserito in uno dei due foglietti del doppio starto. Il lipide può essere un fosfadilinositolo, un acido grasso o un gruppo prenile
+Queste sono legate con legami covalenti ad un gruppo lipidico inserito in uno dei due foglietti del doppio strato. Il lipide può essere un fosfatidilinositolo, un acido grasso o un gruppo prenile
 #### Principali funzioni delle proteine di memrbana
 - Attività enzimatica (enzimi)
 	![[Pasted image 20221126000701.png]]

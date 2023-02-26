@@ -93,7 +93,6 @@ Stessa cosa accade anche per la produzione di specifici ormoni
 Da ricordare è come la parete dell'endometrio avesse due strati:
 - Funzionale
 - Basale
-[[Apparato riproduttore femminile]]
 E come lo strato più esterno andasse incontro a sfaldamento
 Una parte dell'utero avrà però destino diverso, infatti le cellule del collo hanno diversa morofologia e funzione; un esempio lo si ritroverà infatti con il "tappo mucoso", che avrà funzione di creare una barriera fisica e meccanica con l'esterno
 Solo attraverso il crollo del progesterone e l'inizio della produzione di ossitocina con le conseguenti contrazione sarà possibile la rimozione di questo tappo, quale cadrà attraverso la dilatazione del collo dell'utero. 
@@ -109,7 +108,7 @@ Pian piano la barriera formata da sinciziotrofoblasto e citotrofoblasto si assot
 Durante il terzo mese, come conseguenza dell'espansione del corion e dell'amnios, i villi situati dalla parte della decidua capsulare vengono stirati fino a scomparire.  
 Dalla parte opposta, in corrispondenza della decidua basale, i villi divientano più folti, lunghi e ramificati per compensare la scomparsa dei villi dal lato deciduale.
 La zona in cui sono presenti i villi nel polo embrionale prenderà il nome di "corion frondoso", mentre la parte restante si chiamerà "corion liscio"
-Con l'avanzare della gravidanza la decidua parietale e quella capsulare vengono a gondersi in unico strato detto "decidua vera". 
+Con l'avanzare della gravidanza la decidua parietale e quella capsulare vengono a fondersi in unico strato detto "decidua vera". 
 Durante il 4o - 5o mese dalla placca deciduale si formano dei setti connettivali che dividono la decidua in 20-30 zone chiamate "lobi o codiledoni materni". 
 Da notare è che in fase avanzata le regolazioni ormonali indicano alla placenta di inizare una fase di involuzione: qui dei villi entrano in apoptosi o perdono molto delle loro funzioni e recettori. 
 

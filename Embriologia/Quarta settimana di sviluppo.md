@@ -12,7 +12,7 @@ Portandolo così ad assumere una forma cilindrica a "C", rimanendo sospeso nella
 Si porta inoltre alla:
 - La cavità amniotica andrà completamente a circondare l'embrione. 
 - Morfogenesi dell'endoderma da lamina a tubo rettilineo che costituirà l'intestino primitivo
-- L'inglobamento di parte del sacco vitellino nel trato dell'intestino medio
+- L'inglobamento di parte del sacco vitellino nel tratto dell'intestino medio
 ![[Pasted image 20221029153350.png]]
 Il ripiegamento in senso longitudinale avviene a livello della regione
 - Craniale o Cefalica (della testa)
@@ -74,7 +74,7 @@ Da ricordare è come la notocorda fosse nata dal processo notocordale di origine
 	- Mesoderma della testa, nella futura regione della testa
 	- Somiti: nella futura ragione del tronco
 - Mesoderma intermedio: chiamato in questo modo perchè fra il mesoderma parassiale e il mesoderma laterale. Questo mesoderma darà origine: 
-	- ai nefroni del rene
+	- Nefroni del rene
 	- Nell'uomo all'epididimo  
 	- Nella donna alle tube di Fallopio e all'utero. 
 - Mesoderma laterale: questo è il mesoderma che aveva invaso il disco a livello più periferico, dividendolo in due foglietti: 
@@ -92,7 +92,7 @@ I successivi somitomeri che si formeranno nell'arco di 2 settimane saranno masse
 ### Formazione dei somiti (somitogenesi)
 ![[Pasted image 20221029172756.png]]
 ![[Pasted image 20221029172807.png]]
-I somiti si formeranno a coppie su entrambi i lati della linea mediana, essi si formeranno a intervalli di circa 3 paia ogni 24 are, fino alla fine della 5a settimana, dove se ne contano circa 42-44 paia (contando anche i 7 somitomeri siamo allora a 49 somitomeri totali), di cui ne resteranno però circa 37-38 :
+I somiti si formeranno a coppie su entrambi i lati della linea mediana, essi si formeranno a intervalli di circa 3 paia ogni 24 ore, fino alla fine della 5a settimana, dove se ne contano circa 42-44 paia (contando anche i 7 somitomeri siamo allora a 49 somitomeri totali), di cui ne resteranno però circa 37-38 :
 - 4 occipitali cui primo degenera
 - 7 cervicali
 - 12 toratici
@@ -157,9 +157,9 @@ Ricordiamo come il mesoderma all'inizio della 4a settimana fosse già diviso in:
 Fra questi si delimita una cavità definita come "celoma embrionale" (o "celoma intrambrionale") che comunica col celoma extraembrionale. 
 Visti i ripiegamenti formatesi durante la 4a settimana i due celomi si separano e il celoma embrionale assue una forma di tubo ripiegato a "U". 
 Il tratto appena descritto si ritroveàr nella zona cefalica dell'embrionale, posteriormente al setto trasverso e anteriormente alla membrana bucco faringea.
-Questa regione sarà la cavità pericardica, mentre le regioni laterali del geloma sono denominati come "canali cardio-peritoneoali". 
+Questa regione sarà la cavità pericardica, mentre le regioni laterali del celoma sono denominati come "canali cardio-peritoneoali". 
 Il rivestimento esterno o "strato parietale" del celoma, formato dalla somatopleura, darà origine alle "seriose parietali"
-Il rivestimento esterno, o "stato viscerale" del celoma, formato dalla splacnopleura, darà origine alle "seriosi viscerali". 
+Il rivestimento interno, o "stato viscerale" del celoma, formato dalla splacnopleura, darà origine alle "seriosi viscerali". 
 
 ### Cuore e vasi sanguigni
 L'abbozzo cardiaco, già presente all'inizo della 4a settimana sotto forma di due tubi endocardici primitivi, subisce notevoli cambiamenti. 

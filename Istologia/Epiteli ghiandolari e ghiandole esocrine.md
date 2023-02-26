@@ -21,7 +21,7 @@ Le ghiandole possono essere classificate secondo vari principi:
 ## Sviluppo delle ghiandole
 Le ghiandole hanno origine (esclusivamente per le esocrine e prevalentemente per le endocrine) da epiteli di rivestimento. 
 In entrambi i tipi di ghiandola dall'epitelio di rivestimento forma un'invaginazione, cioè un cordone solido di celule epiteliali che invade il tessuto connettivale sottostante.
-- Nel caso delle ghiandole esocrine, le cellule del cordone cellulare più profondo si differenziano in ghiandole secernenti ("adenomero ghiandolare"), mentre la parte più superficiale andrà a connettersi con le'pitelio e si trasformerà così in un dotto escretore. 
+- Nel caso delle ghiandole esocrine, le cellule del cordone cellulare più profondo si differenziano in ghiandole secernenti ("adenomero ghiandolare"), mentre la parte più superficiale andrà a connettersi con l'epitelio e si trasformerà così in un dotto escretore. 
 	![[Pasted image 20221211160738.png]]
 - Nelle ghiandole endocrine le cellule più superficiali degenerano e scoompaiono; in questo modo, la ghiandola inizierà a secernere grandi quantità di VEGF (Vascular Endothelial Growth Factor), che determinerà una grande proliferazione vascolare. 
   I capillari compenetreranno il parenchima ghiandolare e il prodotto potrà così essere riversato nei capillari da parte di ciascuna cellula. 
@@ -37,7 +37,6 @@ Come detto, le [[#Classificazione dei tipi di ghiandola|ghiandole]] possono esse
 	- Miste, acini che producono muco ed acini che producono materiale sieroso. 
 	  Il medesimo acino può contenere entrami i tipi di cellule (come le cellule sottolinguali e sottomandibolari). 
 - Modalità di secrezione
-	- Eccrine
 	- Merocrina
 	- Apocrina
 	- Olocrina
@@ -48,8 +47,8 @@ Come detto, le [[#Classificazione dei tipi di ghiandola|ghiandole]] possono esse
 ![[Pasted image 20221217162454.png]]
 ![[Pasted image 20221211164200.png]]
 In base alla loro modalità di secrezione le ghiandole possono essere distinte in:
-- Eccrine, queste esercitano un trasporto attivo transmembrana e diffusione delle sostanze (es. ghiandole gastriche e sudoripare)
-- Merocrine: modalità più comune di secrezione, essa avviene per esocitosi di un singolo granulo di secrezione riversato all'esterno, facendo così rimanere integra la cellula. 
+- Merocrine: modalità più comune di secrezione, essa avviene per esocitosi di un singolo granulo di secrezione riversato all'esterno, facendo così rimanere integra la cellula.
+  Queste esercitano un trasporto attivo transmembrana e diffusione delle sostanze (es. ghiandole gastriche e sudoripare)
 	![[Pasted image 20221211164215.png]]
 - Apocrine: il secreto viene rilasciato direttament enle citoplasma apicale della cellule secernente. 
   Questa porzione viene quindi eliminata insieme al prodotto di secrezione, facendo così diventare la cellula più bassa
@@ -130,7 +129,7 @@ Alcune cellule tumorali, come gli adenocarcinomi e leucemie, esprimono quantità
 Nel corso delle metastasi le cellule tumorali protrebbero attaccare le mucine e utilizzare la loro iperproduzione per proteggersi nello stesso modo delle cellule epiteliali noramli. 
 Alcune mucine offrono protezione anche grazie a specifiche vie di segnalazione, che ne aumentano la proliferazione e la sopravvivenza.
 Le cellule tumorali approfittano così di questo meccanismo per migliorare la loro porliferazione e sopravvivenza. 
-Grazie a tutti questi rilasci si è potuto creare uno dei più diffusi marcatori per la diagnosi del carcinoma: CA125 e CA19-9, quali riconoscnoo epitopi presenti sulla MUC-16. 
+Grazie a tutti questi rilasci si è potuto creare uno dei più diffusi marcatori per la diagnosi del carcinoma: CA125 e CA19-9, quali riconoscnoo epitopi presenti rispettivamente sulla MUC-16 e MUC-1. 
 ## Ghiandole pluricellulari
 ![[Pasted image 20221217174044.png]]
 Le ghiandole pluricellulari possono essere classificate in rapporto alla loro sede e in rapporto alla struttura della porzione secretoria, che può allora presentare ramificazioni insieme al suo dotto. 
@@ -219,11 +218,10 @@ Notiamo come queste siano formate da più dotti secondari che riversano il secre
   Queste presentano infatti una struttura contenente sia adonomeri di forma tubulare che di forma acinosa composta. 
 	![[Pasted image 20221217164323.png]]
 	- Cavità orale: ghinadole salivari maggiori
-		![[Pasted image 20221217173125.png]]
+	  ![[Pasted image 20221217173125.png]] ^89b97e
 	- Prostata
 	- Ghiandole mammarie
 	- Ghiandole lacrimali
-
 ## Natura chimica del secreto
 In base alla natura chimica del secreto le ghiandoel possono essere classificate in:
 - Sierose: secernono proteine ed enzimi, contengono granulazioni con citoplasma basofilo. 

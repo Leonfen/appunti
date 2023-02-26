@@ -23,8 +23,8 @@ La cute può inoltre essere contraddistinta in:
   Qui è presente (anche se non sempre) lo strato lucido (fra il granuloso e il corneo), chiamato così perchè diventa opalescente
 - Cute sottile: questa ha epidermide molto più sottile contenente sia follicoli piliferi che ghiandole sebacee.
 ![[Pasted image 20221211000008.png]]
-![[Pasted image 20221210194330.png]]
 ## Epidermide
+![[Pasted image 20221210194330.png]]
 Le funzioni dell'epidermide sono:
 - Protettiva (infezioni, patogeni, radiazioni UV)
 - Sensoriale: le terminazioni nervose libere sono sensibili al dolore, al tatto, al caldo e al freddo
@@ -156,3 +156,10 @@ Sono costituiti da strati multipli di lamelle concentriche di tessuto connettivo
 ![[Pasted image 20221211010600.png]]
 I corpuscoli di Meissner forniscono la sensibilità al tocco lieve. 
 Si localizzano nelle papille dermiche tra le creste epidermiche. 
+#### Corpuscoli di Ruffini
+![[Pasted image 20230216235309.png]]
+Questi sono recettori sensoriali ad adattamento lento (inviano impulsi per tutto il tempo in cui sono stimoalti).  
+Questi si trovano all'interfaccia fra le papille dermiche e la sottocute. 
+I corpuscoli di ruffini sono terminazioni nervose differenziate e composte da un numero variabile di cilindri. 
+Queste terminazioni sono circondate da cellule di Schwann e dotate di una capsula allungata. 
+Questi snoo implicati nella recezione di segnali di stiramento della cute. 

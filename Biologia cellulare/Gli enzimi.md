@@ -16,8 +16,7 @@ L'energia chimica al termine della reazione corrisponde alla somma dell'energia 
 	![[Pasted image 20221124142940.png]]
 - Secondo principio della termodinamica (o legge di spontaneità della termodinamica): ogni cambiamento chimico o fisico determina una conversione di energia che aumenta il grado di "entropia" (di disordine). 
 	![[Pasted image 20221124143030.png]]
-	
-	Neanche le cellule vanno contro la seconda legge della termodinamica, qui infatti si vede come nella prima immagine vi sia rappresentato il movimento delle cellule contenute dentro la cellule e al di fuori muoversi di moto e direzioni simili fra loro. 
+	Neanche le cellule vanno contro la seconda legge della termodinamica, qui infatti si vede come nella prima immagine vi sia rappresentato il movimento delle particelle contenute dentro la cellule e al di fuori muoversi di moto e direzioni simili fra loro. 
 	Nella seconda immagine si vede invece una cellula che ha assorbito energia, realizzando una reazione che aumenta l'ordine della molecola contenute nella cellula, rilasciando calore nell'ambiente. 
 	Il calore rilasciato però aumenta il disordine delle vicinanze, causando il movimento compulsivo delle cellule adiacenti.  ^9e072d
 ## Spontaneità di una reazione
@@ -29,7 +28,7 @@ Questa è l'energia libera nelle trasformazione isotermobariche (cioè a pressio
 Il Delta G di una reazione indica così la variazione globale di energia libera del sistema in seguito ad una reazione ed è perciò l'indice di spontaneità di una reazione (si ricordi che l'energia libera tende a decrescere per i processi spontanei). 
 Da qui possiamo allora capire che se il:
 - Delta G < 0 allora la trasformazione avviene spontaneamente (e la reazione è irreversibile)
-- Delta G > 0, la trasformazione non avviene spontaneamente (avvenendo spontaneamente in senso reagenti -> prodotti)
+- Delta G > 0, la trasformazione non avviene spontaneamente (avviene però spontaneamente in senso prodotti -> reagenti)
 - Delta G = 0, la reazione è all'equilibrio. 
 #### Cambiamento di energia libera
 ##### Delta G negativo

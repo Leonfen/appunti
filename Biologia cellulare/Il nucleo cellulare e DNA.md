@@ -9,7 +9,7 @@ La posizione del nucleo, inoltre, può variare dal tipo di cellula che si sta co
 Le funzioni del nucleo cellulare sono:
 - Conservare le informazioni genetiche ereditarie
 - Duplicare il materiale genetico e dividerlo fra le cellule figlie
-- Essere sede dove si verifica la duplicazinoe del DNA, ma anche la trascrizione del DNA in RAN e la maturazione dell'RNA
+- Essere sede dove si verifica la duplicazinoe del DNA, ma anche la trascrizione del DNA in RNA e la maturazione dell'RNA
 ### Posizione e forma
 La sua forma è inoltre correlata con la cellula nella quale è contenuto:
 - Sferica
@@ -27,16 +27,16 @@ Esso è formato da:
 - [[#Involucro nucleare]]
 	- [[#Pori nucelari]]
 - [[#Nucleoplasma]], sorta di citoplasma ricco di sostanze gelatinose insieme ad acidi nucleici e altri tipi di molecole fondamentali 
-- [[#Nucleoscheletro]], molto simile al citoscheletro, esso è formato da:
+- [[#Nucleoscheletro]], molto simile al [[Il citoscheletro|citoscheletro]], esso è formato da:
 	- [[#Matrice cellulare]] e [[#Lamina nucleare|lamina nucleare]]
-- [[#Nucleolo]], struttura specializzata importantissima per la sintesi dei ribosomi
-- Acidi nucleici (DNA, RNA), organizzati in modo complesso; infatti la loro quantità è sì ristrettà, ma è dovuta all'organizzazione che essi presentano. 
+- [[#Nucleolo]], struttura specializzata importantissima per la sintesi dei [[Processo di traduzione#ribosomi|ribosomi]]
+- [[Acidi nucleici e lipidi|Acidi nucleici]] (DNA, RNA), organizzati in modo complesso; infatti la loro quantità è sì ristretta, ma è dovuta all'organizzazione che essi presentano. 
 #### Involucro nucleare
 ![[Pasted image 20221201172329.png]]
 L'involucro nucleare è formato da:
-- Due membrane, entrambe spesse circa 7-8nm
+- Due membrane, entrambe spesse, circa 7-8nm
 	- Una interna
-	- Una esterna, questa, in molte cellula, si trova in continutià con il RER; non per caso questo involucro esterno presenta ribosomi.
+	- Una esterna, questa, in molte cellula, si trova in continutià con il [[Il sistema delle endomembrane#Reticolo endoplasmatico rugoso|RER]]; non per caso questo involucro esterno presenta ribosomi.
 - Spazio perinucleare di circa 20-40nm; questo spazio compreso fra la membrana interna ed esterna è in continuità col lume del RER; mentre le due membrane appaiono fuse a livello dei "[[#pori nucleari]]"
 - Lamina nucleare appoggiata alla membrana interna
 ##### Pori nucleari
@@ -46,8 +46,8 @@ Si nota che in ingrandimento maggiore questi "pori" non sono dei buchi.
 Essi sono infatti dei complessi proteici dalla forma simile a quella di un cilindro che attraverso entrambe le membrane che costituiscono [[#Involucro nucleare|l'involucro nucleare]], proprio dove esse si fondono fra loro
 ![[Pasted image 20221201173006.png]]
 ###### Diverse strutture dei pori nucleari 
-A livello della fusione però ci sono però delle proteine che si legano fra loro andando così a creare due anelli paralleli costituiti da otto subunità (un anello è presente sul lato nucleoplasmatico e l'altro sul lato citoplasmatico).
-Questi otto bracci connettono così i due anelli e si estendono fino al trasportatore centrale, che si apre e chide conentendo così il trasporto di sostanze. 
+A livello della fusione ci sono però delle proteine che si legano fra loro andando così a creare due anelli paralleli costituiti da otto subunità (un anello è presente sul lato nucleoplasmatico e l'altro sul lato citoplasmatico).
+Questi otto bracci connettono così i due anelli e si estendono fino al trasportatore centrale, che si apre e chiude consentendo così il trasporto di sostanze. 
 Si pensa che il poro possa dilatarsi fino a 26nm per consentire il passaggio delle sostanze.
 ![[Pasted image 20221201173232.png]]
 Ci sono infine delle proteine di ancoraggio che "ancorano" appunto tutto quanto il complesso a livello della memrbana nucleare
@@ -55,7 +55,7 @@ All'interno e all'esterno ci sono infine delle fibre.
 ![[Pasted image 20221201174224.png]]
 Altro modo di schematizzarlo è data invece dalla conformazione a 4 anelli:
 1. Anello citoplasmatico, qui si presetano otto filamenti che si proiettano nel citoplasma
-2. Anello nucleare, questo proiatta nel nucleoplasma una struttura a forma di canestro: "il canestro nucelare"
+2. Anello nucleare, questo proiatta nel nucleoplasma una struttura a forma di canestro: "il canestro nucleare"
 3. Anello di raggi interni che circonda la membrana interna e il trasportatore centrale
 4. Anello di raggi esterni che circonda le due membrane dell'involucro nucleare.
 Infine, i due ottameri sono fra loro collegati da una struttura a raggiera, formata da proteine che delimitano il canale centrale che attraversa l'involucro. 
@@ -67,11 +67,11 @@ Questi pori regolano infatti dove, quali e come devono uscire e entrare sostanze
 C'è quindi un traffico di trasporto verso esterno/interno del nucleo mediato da questi pori nucelari
 Ioni, piccoli metaboliti e proteine globulari piccole possono però diffondersi passivamente attraverso la regione acquosa del canale del poro. 
 Le proteine di invece grandi dimensioni (coinvolte nella sintesi del DNA e RNA) e molecole di mRNA coniugate a complessi ribonucleoproteici non possono diffondere verso o fuori dal nucleo. 
-![[Pasted image 20221201180712.png]]
 ###### Importine ed esportine
+![[Pasted image 20221201180712.png]]
 Queste molecole vengono allora trasportate attivamente attraverso il NPC (Nuclear pore complex) con l'aituo di proteine di trasporto solubili che si legano alle macromolecole, interagendo inoltre con le nucleoporine.
 Queste proteine di trasporto non sono altro che particolari recettori proteici, quali inducono il poro ad allargarsi così da permettere il passaggio:
-- Recettori di importazione nucleare (importine), le molecole da loro importate contengono inoltre sequenze amminaocidiche specifiche di indirizzamente: le sequenze di localizzazione nucleare (NLS). 
+- Recettori di importazione nucleare (importine), le molecole da loro importate contengono inoltre sequenze amminaocidiche specifiche di indirizzamento: le sequenze di localizzazione nucleare (NLS). 
   Le importine riconoscno le NLS e così il complesso importina-proteina nucleare si lega alle proteine del poro, causandone allora la dilatazione e facendo passare la proteina nucleare. 
   Successivamente, con la dissociazione della proteina nucelare, il complesso si disattiva e l'importina torna nel citosol. 
 - Recettori di esportazioni nucelari (esportine), in maniera analoga, le esportina riconoscono invece le NES (Nuclear Export Signals) e il complesso esportina-proteina nucleare si lega al poro e lo attraversa. 
@@ -90,25 +90,23 @@ Al suo interno sono inoltre presenti DNA e RNA, diffusi nell'area nucleare.
 ![[Pasted image 20221201181138.png]]
 La lamina nucleare è una sottile e densa rete di proteine altamente insolubili, adesa al versante nucleoplasmatico delal membrana interno dell'involucro nucleare.
 Essa è spessa 30-80nm ed è composta da quattro tipi di polipeptidi definiti: lamine nucelari (A, B1, B2, C)
-Le lamina A e C sono mologhe ai filamenti intermedi del citoscheletro
+Le lamina A e C sono omologhe ai filamenti intermedi del citoscheletro
 La lamina B differisce invece dalle altre due ed è strettamente associata alla membrana interna dell'involucro nucleare (la lamine b sembrano essenziali per lo sviluppo in quanto animali privi del gene che le codificano muoiono prima della nascita; sempre attraverso topi knockout).
 ##### Funzione delle lamine
 ![[Pasted image 20221201181746.png]]
 Queste sembrano allora aver funzione di:
 - Supporto strutturale per l'involucro nucleare
-- Sito di attacco per fivre di cromatina alla periferia del nucelo
+- Sito di attacco per fibre di cromatina alla periferia del nucelo
 - Ruolo, anche se poco chiaro, nella repliaczione e nella trascrizione del DNA, oltre che nella regolazione dell'espressione genica.
 ##### Matrice nucelare
 ![[Pasted image 20221201182032.png]]
 La matrice nucelare è una rete fibrosa insolubile che mantiene la forma del nucleo e fornice uno scheletro che organizza le fibre di cromatina. 
-La matrice e la lamina sono quindi, insieme, le strutture di sosegno del nucleo. 
+La matrice e la lamina sono quindi, insieme, le strutture di sostegno del nucleo. 
 ###### Funzioni della matrice nucleare
 ![[Pasted image 20221201182051.png]]
 Essa ha come funzioni quella di:
-- Impalcature alla quale associare strettamente fire di cormatina per la propria organizzazione strutturale
+- Impalcature alla quale associare strettamente fibre di cromatina per la propria organizzazione strutturale
 - Sistema di ancoraggio per alcuni complessi molecolari nella duplicazione e nella trasizione. 
-
-
 #### Nucleolo
 ![[Pasted image 20221201182403.png]]
 Il nucleolo è una regione del nucleo cellulare responsabile della sintesi dell'RNA ribosomiale (rRNA)
@@ -121,7 +119,7 @@ Il nucleolo appare al MES come: un granulo rotongeggiante non delimitato da memb
 Esso, inoltre, è invisibile durante il processo della mitosi; ricomparirà al completamento della divisone cellulare, riprendendo così la sua attività di sintesi.
 Possiamo allora trovare nel nucleolo:
 - Zona organizzatrice, questa contiene le sequenze di DNA che codificano per gli rRNA
-- Zona fibrillare densa, dove ci sono sottili fivrille, essa p formata dagli RNA appena trascritti
+- Zona fibrillare densa, dove ci sono sottili fivrille, essa è formata dagli RNA appena trascritti
 - Zona granulare, chiamati in questa maniera per la presenza di piccoli granuli. 
   Essa è essenzialmente costituita da subunità dei ribosomi in via di maturazione.
 ![[Pasted image 20221201183856.png]]
@@ -172,7 +170,7 @@ Si condussero due diversi esperimenti per arrivare a questa conclusione:
   Si è notato che la conclusione dell'esperimento è qui diversa, infatti la maggior parte dello zolfo marcato si trovava sovrastante al pellet batterico, e quindi solo nei virus. 
 Dal momento che il fago per replicarsi ha solo bisogno di introdurre all'interno della cellula ospite il suo materiale genetico, così da sfruttare l'apparato batterico per la replicazione del DNA; si vide evidente come il amteriale genetico doveva essere il DNA, visto che solo questa componente riusciva ad entrare dentro il batterio e così essere replicata. 
 #### Organizzazione dei genomi
-- Gene: segmento di DNA contenente una specifica informazione sottoforma di sequenza nucleotidica
+- Gene: segmento di DNA contenente una specifica informazione sotto forma di sequenza nucleotidica
 - Genoma, insieme di geni
 - Procarioti: genoma costituito da una sola molecola di DNA a doppio filamento (ds, double strand) circolare
 - Eucarioti: genoma formato da numerose molecole di DNA ds lineari (organizzato in cromosomi)
@@ -215,7 +213,7 @@ Ci sono ancora dei dubbi in merito a queste sequenze:
 - Non si sa se sia DNA non funzionante accumulatosi lungo l'evoluzione
 - Non si sa se sia stato portato da parassiti
 - Non si sa se esso sia coinvolto nella regolazione dell'espressione genica e, nel nucleo in interfase, nel mantenimento dell'ordine del filamento cromatinico e nell'integrità dei singoli cromosomi. 
-Un esempio di questo DNA ripetuto intersperso è dato dalla sequenza "ALU", costituita da 300 paia di basi e ripetuta circa 500k volta nel genoma umano. 
+Un esempio di questo DNA ripetuto intersperso è dato dalla sequenza "ALU", costituita da 300 paia di basi e ripetuta circa 500k volte nel genoma umano. 
 Essa non si ripresenta mai fra individuo e individuo come la stessa identica sequenza di basi (a confronto del genoma codificante), anche se, grazie all'80% di omologia, può creare opportune sonde quali riconoscono la familiarità fra due individui (più è alta infatti l'omologia di questa regione, più è stretto il grado di parentela). 
 Questo fenomeno viene quindi sfruttato in medician forense per:
 - Accurata identificazione di campioni biologici
@@ -236,7 +234,7 @@ Essi sono così divisibili in tre diversi gruppi:
 - Proteine che contribuiscono al matenimento della struttura della cromatina o della conversione della cromatina dallo stato decondensato allo stato altamente compatto. 
 #### Organizzazione del DNA e istoni
 ![[Pasted image 20221201230445.png]]
-Gli istoni sono proteine basiche cariche positivamente, poichè posseggono un gran numero di mminoacidi con catena laterlae basica, in particolare lisian e arginina
+Gli istoni sono proteine basiche cariche positivamente, poichè posseggono un gran numero di amminoacidi con catena laterale basica, in particolare lisina e arginina
 Gli istoni interagiscono con il DNA, che è carico negativamente a causa dell'abbondanza di gruppi fosfato, per formare strutture dette "nucelosomi"
 Esistono così 5 tipi di istoni:
 - H1, chiamato di giunzione
@@ -256,7 +254,7 @@ Qui il DNA si dissocierà dal suo corpo proteico centrale, riuscendo in questo m
    Questo è allora il primo livello in cui si organizza la cromatina: essa non è ancora condensata e si presenta come una semplice fibra di 10nm formata da diversi complessi di DNA associati a proteine istoniche, legati fra loro da filamenti di DNA linker. 
    ![[Pasted image 20221203000454.png]]
 2. Struttura della cromatina a collana di perle: fibra di 30 nm
-   Qui gli istoni H1 (che hanno anche funzione di ancoraggio del DNA alle proteine istoniche) avvicinancosi fra loro causano un'ulteiore compattazione del DNA, causando così l'avvicinamento delle diverse perle, formando così un fibra più stessa.
+   Qui gli istoni H1 (che hanno anche funzione di ancoraggio del DNA alle proteine istoniche) avvicinancosi fra loro causano un'ulteiore compattazione del DNA, causando così l'avvicinamento delle diverse perle, formando così una fibra più spessa.
    ![[Pasted image 20221203000649.png]]
 3. Solenoide: qui, la cromatina, se viene estratta dalle cellule in soluzione tampone isotoniche, appare condensata e con i suoi nucleosomi impacchettati in una forma a spirale chiamata "solenoide". 
    Esso presenta da 6 a 8 nucleosomi per giro e l'istone H1 legato al suo interno
@@ -301,10 +299,7 @@ Nelle cellule che proliferano la replicazione e la divisione dei cromosomi avven
 	- L'espressione viene in gran parte sospesa
 	- L'involucro nucelare si frammenta
 	- Si forma il fuso mitotico, composto da microtubuli e altre proteine
-	- I cromosomi condensati vengono catturati e, ogni omologo, trascinato al polo opposto della cellula. 
-	- Intorno ai due poli si riscostruiscono poi le membrane nucleari
-	- La cellula si divide nelle due cellule figlie.
-![[Pasted image 20221203005129.png]]
+	- Intorno ai due poli si riscostruiscono poi le membrane nucleari![[Pasted image 20221203005129.png]]
 Ci sono poi tre diversi elementi che devono essere presenti nella sequenza del DNA perchè il cromosoma eucariote possa replicarsi e poi segregare al momento della mitosi. 
 Ogni cormosoma ha:
 - Diverse origini di replicazione
@@ -371,7 +366,7 @@ Queste modifiche attraggono infatatti proteine specifiche per l'eterocromatina c
 In questo modo, l'eterocromatina può espandersi fino a quando incontra la sequenza di DNA che funge da barriera, bloccando la sua propagazione nelle regioni di eucromatina. 
 ![[Pasted image 20221203014434.png]]
 Altro aspetto importante che fa capire l'importanza dell'eterocromatina è il cromosoma X. 
-Uno dei due cromosomi X che forma il mammifero femmina può infatti venire inattivato proprio per la forzione dell'eterocromatina. 
+Uno dei due cromosomi X che forma il mammifero femmina può infatti venire inattivato proprio per la formazione dell'eterocromatina. 
 Quello che accade è che nel genoma femminile c'è allora l'inattivazione di un cromosoma X (o quello di derivazione paterno, o quello di derivazione materno) con la formazione del Corpo di Baar, che appare come pezzo di DNA eterocromatinico (e quindi senza funzione di trascrizione).
 ![[Pasted image 20221203015741.png]]
 Questa disponibilità è allora importante, perchè l'informazione viene trasmessa attraverso le cellule figlie (e quindi duplicazione del DNA con duplicazione cellulare). 
@@ -383,7 +378,7 @@ L'informazione, quindi:
 ![[Pasted image 20221203015803.png]]
 Ci sono poi diversi tipi di RNA:
 - mRNA, determinante per la sequenza amminoacidica dei polipeptidi
-- rRNA, che si lega agli amminoacidi e li porta alle posizioni corrette nella catena polipeptidica in fase di sintesi
-- tRNA, componente dei ribosomi che servono come sito della sintesi proteica. 
+- tRNA, che si lega agli amminoacidi e li porta alle posizioni corrette nella catena polipeptidica in fase di sintesi
+- rRNA, componente dei ribosomi che servono come sito della sintesi proteica. 
 
 

@@ -1,6 +1,6 @@
 ![[Pasted image 20221206163115.png]]
 I mitocondri sono organuli cellulari con grandezza variabile intorno ai 1-2 micron, presenti nelle cellule animali e vegetali. 
-Questi possono presentarsi in forme e dimensioni diverse fra loro, ma sono per lo più organelli allungati e a forma di fagiolo. 
+Questi possono presentarsi in forme e dimensioni diverse fra loro, ma sono per  di più organelli allungati e a forma di fagiolo. 
 Essi sono inotlre organelli mobili e tendono a localizzarsi nei siti di massima richiesta energetica. 
 Il loro numero nelle cellule è variaible, le cellule attive (come quelle epatiche) possono arrivare a contenere 2000 micondri, mentre quelle invattive ne contengono molto meno.
 Da punto di vista fisiologico sono degli apparati la cui funzione è quella di recupare l'energia contenuta negli alimenti attraverso il "ciclo di Krebs" e la "catena respiratoria". 
@@ -22,12 +22,12 @@ Un mitocondrio è allora costituito da:
 ![[Pasted image 20221206163707.png]]
 A loro volte, queste componenti hanno diverse caratteristiche e funzioni:
 - Matrice: lo spazio contiene una miscela concentratissima id enzimi, tra cui quelli necessari per l'ossidazione del piruvato e degli acidi grassi (fra cui l'acido citrico)
-- Membrana interna: ripiegata in numerose creste, contiene le proteine necessarie per la fosforilazione ossidativa, compresa la catena di trasporto degli elettorni e l'ATP sintasi che forma l'ATP. 
-- Membrana esterna: contiene una grande proteine canale ([[Trasporto cellulare attraverso membrane#Caratteristiche delle porine|porina]]), essa è inoltre permeabile a tutte le molecole di massa inferiore ai 5000 dalton.
-- Spazio intermembrana: lo spazio contiene diversi enzimi che utilizzano l'ATP proveniente dalla matrice per fosforilare altri nucletidi, contiene inotlre le proteine che vengono rilasciate durante l'apoptosi. 
+- Membrana interna: ripiegata in numerose creste, contiene le [[proteine]] necessarie per la fosforilazione ossidativa, compresa la catena di trasporto degli elettorni e l'ATP sintasi che forma l'ATP. 
+- Membrana esterna: contiene una grande [[proteine]] canale ([[Trasporto cellulare attraverso membrane#Caratteristiche delle porine|porina]]), essa è inoltre permeabile a tutte le molecole di massa inferiore ai 5000 dalton.
+- Spazio intermembrana: lo spazio contiene diversi enzimi che utilizzano l'ATP proveniente dalla matrice per fosforilare altri nucleotidi, contiene inotlre le [[proteine]] che vengono rilasciate durante l'apoptosi. 
 - Crescte mitocondriali: formate dalle estroflessioni della memrbana interna, costituiscono delle pieghe che non interrompono la continuità della camera interna (per questo la matrice è continua)
 ![[Pasted image 20221206164918.png]]
-Si noti quindi come la membrana interna e le creste mitocondriali appiaino comperte da particelle di 85 armstrong collegata alla membrana per mezzo di un peduncolo. 
+Si noti quindi come la membrana interna e le creste mitocondriali appiaino coperte da particelle di 85 armstrong collegata alla membrana per mezzo di un peduncolo. 
 Queste particelle sono formate da una parte che si protende verso l'interno, detto "complesso F1", con funzione ATPasica (scinde cioè l'ATP) e da una porzione interna detta "complesso Fo" (la cui lettera "o" sta a indicare la sensibilità all'Oligomicina, un inibitore dell'enzima e quindi della fosforilazione ossidativa). 
 L'insieme nel suo complesso è quindi chiamato FoF1, con funzione di ATP sintasi, cioè produzione di ATP. 
 ![[Pasted image 20221206164424.png]]
@@ -36,7 +36,7 @@ L'insieme nel suo complesso è quindi chiamato FoF1, con funzione di ATP sintasi
 ![[Pasted image 20221206164928.png]]
 L'enzima è formato da due parti princiapli:
 - Testa F1, composta da 5 subunità in rapporti 3:3:1:1:1 :
-	- Alpha, essa si organizza insieme alla beta per formare una struttura circolare così da creare al testa della particella.
+	- Alpha, essa si organizza insieme alla beta per formare una struttura circolare, così da creare al testa della particella.
 	- Beta
 	- Omega
 	- Gamma, essa si estende attraverso il centro dell'enzima, fino alla base F0 così da formare l'asse centrale
@@ -47,10 +47,9 @@ L'enzima è formato da due parti princiapli:
 	- b
 	- c
 ## Biogenesi e ciclo vitale dei mitocondri
-![[Pasted image 20221206172858.png]]
 Dopo una breve fase di accrescimento, i mitocondri si dividono in mitocondri più piccoli
 Si nota come ogni mitocondrio, a seconda della cellula in cui è situato, ha diversa durata di vita (nell'epatocita di un ratto 9-10 giorni, nel suo cuore 5-6 giorni)
-Una volta invecchiati troppo essi sono eliminati mediante "autofagia" (processo catabolico che rappresenta il principale meccanismo del turnover dei composti cellulari e degli organelli danneggiati; ne esistono di diversi tipi, ma in tutti i casi si ha la degradazione dei lisosomi che inglobano e separano dal resto della cellula il materiale da degradare): prima sono infatti inglobati nella membrana del RER, per poi essere degradati dai [[Il sistema delle endomembrane#Lisosomi|lisosomi]]
+Una volta invecchiati troppo essi sono eliminati mediante "autofagia" (processo catabolico che rappresenta il principale meccanismo del turnover dei composti cellulari e degli organelli danneggiati; ne esistono di diversi tipi, ma in tutti i casi si ha la degradazione dei lisosomi che inglobano e separano dal resto della cellula il materiale da degradare): prima sono infatti inglobati nella membrana del [[Il sistema delle endomembrane#Reticolo endoplasmatico rugoso|RER]], per poi essere degradati dai [[Il sistema delle endomembrane#Lisosomi|lisosomi]]
 ![[Pasted image 20221206172852.png]]
 Da notare è poi come i mitocondri si dividino come i batteri; qui infatti sono presenti processi di scissione simili a quelli batterici.
 ### Similitudini fra batteri e mitocondri
@@ -80,23 +79,23 @@ Da notare è come le diverse componenti mitocondriali abbiano diverse funzioni m
 	- Ossidazione del piruvato
 	- Ciclo degli acidi tricarbossilici (ciclo di Krebs)
 	- Beta ossidazione degli acidi grassi
-	- Replicazione del DNA
+	- [[Replicazione del DNA]]
 	- Sintesi dell'RNA
 	- Sintesi proteica
 ## Funzione
 I mitocondri sono la centrale energetica della cellula, infatti l'adenosintrifosfato (ATP) che vieen prodotto ha diverse funzioni all'interno del metabolismo cellulare. 
 ![[Pasted image 20221206174645.png]]
-Da notare è che per creare questa "energia" vi sia il bisogno di bruciare qualcosa, cioè le molecole introdotte tramite l'alimentazione come zuccheri, proteine e acidi grassi.
+Da notare è che per creare questa "energia" vi sia il bisogno di bruciare qualcosa, cioè le molecole introdotte tramite l'alimentazione come zuccheri, [[proteine]] e acidi grassi.
 Altra materiale fondamentale per espletare questa funzione è inoltre l'ADP, donando come prodotto fainle l'ATP, l'anidride carbonica e l'acqua. 
 ### Ossidazione e combustione
 L'ossidazione graduale controllata di uno zucchero che avviene nella cellula conserva energia utile, a differenza di quanto avviene semplicemente bruciando la stessa molecola.
 ![[Pasted image 20221206175646.png]]
 Bruciando infatti lo zucchero, così come accade nei sistemi non viventi, si genera più energia di quella che può essere conservata, venendo così rilasciata come calore. 
-Nealla cellula, gli enzimi catalizzano le ossidazione degli zuccheri in tante piccole tappe nelle quali una parte dell'energia libera rilasciata viene catturata tramite la formazione di molecole di trasporto, molto spesso ATP e NADH. 
+Nealla cellula, [[gli enzimi]] catalizzano le ossidazione degli zuccheri in tante piccole tappe nelle quali una parte dell'energia libera rilasciata viene catturata tramite la formazione di molecole di trasporto, molto spesso ATP e NADH. 
 In ogni passaggio, un enzima controlla la reazione riducendo la barriera dell'energia di attivazione che deve essere superata dalle collisioni casuali. 
 ![[Pasted image 20221206175653.png]]
 Da notare è quindi come l'energia liberata dalle due reazioni è sì identica, solo che nella prima viene rilasciata troppo velocemente, senza quindi essere contenuta dai trasportatori molecolari. 
-Nella seconda invece l'energia viene rilasciata in maniera graduale, così da poter 
+Nella seconda invece l'energia viene rilasciata in maniera graduale, così da poter essere conservata
 ### Scomposizione degli alimenti
 ![[Pasted image 20221206180206.png]]
 Possiamo dividere la scomposizinoe degli alimenti in tre diverse fasi:
@@ -143,10 +142,10 @@ Questo ha il compito di trasferire 2 protoni e 2 elettroni dai substrati.
 Quando il FAD acquista elettroni da una molecola A che si ossida, esso parata in una forma ridotta (FADH2 o FAD ridotto), mentre quando cede elettroni ad una molecola B che si riduce passa in una forma ossidata.
 #### Reazioni di ossido riduzinoe
 Tutte queste reazioni di trasferimento di uno o più elettroni sono date da due semi-reazioni concatenate:
-- Ossidoriduzione
+- Ossidazione
 - Riduzione
 ##### Reazione di ossidazione
-Essa è contradistinta da:
+Essa è contraddistinta da:
 - Perdita di elettroni da una sostanza, e quindi guadagno di ossigeno
 	![[Pasted image 20221206181706.png]]
 ##### Reazione di riduzione
@@ -226,9 +225,9 @@ Schematizzando il ciclo di reazioni possiamo iniziare dall'ossalacetato:
 	- L'isocitrato, attraverso l'isocitrato deidrogenasi, si ossida in alpha-chetoglutarato, atomo a 5 atomi di carbonio, riducendo una molecola di NAD e rilasciando una molecola di anidride carbonica
 	- L'alpha-chetogluterato, attraverso l'alpha-chetoglutarato deidrogenasi, diventa succinol-CoA, riducendo una molecola di NAD e liberando una molecola di anidride carbonica
 	- Il succinol-CoA diventa successivamente in succinato, fosforilando una molecola di GDP in GTP, creando successivamente una molecola di ATP
-	- Il succinato si trasfromerà poi in fumarato (molecola a 4 atomi di carbonio), riducendo una molecola di FAD in FADH2 
-	- Il fumarato si trasformerà poi in malato, molecola a 3 atomi di carbonio
-	- Il malato, attraverso la malato deidrogenasi, ridurrà una molecola di NAD ritornando così ossalacetato, molecola a 2 atomi di carbonio.
+	- Il succinato si trasfromerà poi in fumarato, riducendo una molecola di FAD in FADH2 
+	- Il fumarato si trasformerà poi in malato
+	- Il malato, attraverso la malato deidrogenasi, ridurrà una molecola di NAD ritornando così ossalacetato, molecola a 4 atomi di carbonio.
 ### Fosforilazione ossidativa
 ![[Pasted image 20221206221601.png]]
 L'energia  liberata dal flusso di elettroni lungo la catena di trasporto è utilizzata per pompare protoni dalla matrice allo spazio intermembrana
@@ -241,7 +240,7 @@ La catena respiratoria è formata da quattro complessi trasportatori di elettron
 3. Gli elettroni vengono passati, quindi, dall'ubichinone ridotto (ubichinolo) al complesso III e poi alla proteina periferica citocromo c. 
 4. Dal citocrom c vengono poi passati al complesso IV (citocromo ossidasi) ed infine all'ossigeno per formare andidride carbonica.
 I diversi complessi poliproteici responsabili del trasporto degli elettroni hanno diversa funzione:
-- Complesso I (NADH deidrogenasi) che contiene almeno 30 diversi polipeptidi, una flavoproteina e 9 centri ferro-zolfo e per ogni coppia di elettroni fatta passare vengono trasferiti tre o quattro rotoni 
+- Complesso I (NADH deidrogenasi) che contiene almeno 30 diversi polipeptidi, una flavoproteina e 9 centri ferro-zolfo e per ogni coppia di elettroni fatta passare vengono trasferiti tre o quattro protoni 
 - Complesso II (Succinato deidrogenasi) che, oltre a catalizzare una reazione del ciclo di Krebs, consente il trasferimento di elettroni al FAD ed all'ubichinone ma non permette il passagio di protoni
 - Complesso III (Citocromo c riduttasi), che contiene circa 10 polipeptidi e gruppi eme ed un centro ferro-zolfo, permette il passaggio di elettroni dall'ubichinone ridotto al citocromo c per ogni coppia di elettroni trasferisce quattro protoni
 - Complesso IV (Citocromo c ossidasi) permette il trasferimento di elettroni dal citocromo c all'ossigeno ed anche lo spostamento dei protoni anche se non ne è ben chiaro il numero.

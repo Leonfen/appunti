@@ -83,7 +83,7 @@ Gli ormoni possono, a loro volta, dividersi in:
 ![[Pasted image 20221218191309.png]]
 La maggior aprte degli ormoni agisce tramite un sistema a "feedback" (a cascata) in cui la secrezione avviene in risposta a determinati stimoli (quando vi è carenza di prodotti vengono allora stimolate le strutture secernenti; contrario in situazione inversa). 
 Alcuni esempi di meccanismi a feedback sono:
-- Gonadotropina: l'ipotalamo, organo secernente dei fattori di rilascio delle gonadotropine, andrà ad agire sull'ipofisi, quale produrrà così LH ed FSG, quali agiranno a livello delle gonadi.
+- Gonadotropina: l'ipotalamo, organo secernente dei fattori di rilascio delle gonadotropine, andrà ad agire sull'ipofisi, quale produrrà così LH ed FSHS, quali agiranno a livello delle gonadi.
   Qui vi saranno cellule bersaglio che andranno a rilasciare ulteriori sostanze come:
 	- Estrogeni
 	- Progesterone
@@ -96,7 +96,8 @@ I meccanismi di feedback servono allora a noramlizzare i livelli di determinate 
 # Organizzazione istologica delle ghiandole endocrine.
 ![[Pasted image 20221218192001.png]]
 Il tessuto epiteliale secernente (parenchima) di una ghiandola endocrina può essere classificato in 3 diversi modi in base alla sua morfologia:
-- Ghiandole a cordoni solidi (1 nell'immagine di sopra). 
+- Ghiandole a cordoni solidi (1 nell'immagine di sopra).
+![[Pasted image 20230105193718.png]]
   Qui rientrano la maggior parte delle ghiandoel endocrine. 
   Da notare è come le cellule dei singoli cordoni comunicano fra loro tramite [[Giunzioni e polarità cellulare#Giunzioni comunicamenti (o gap junction)|giunzioni gap]] e vengono stabilizzate da [[Giunzioni e polarità cellulare#Desmosomi|desmosomi]]. 
   Ogni cordone è inoltre sostenuto da tessuto connettivo dove scorrono piccoli capillari ramificati, dove vieen riversato il secreto. 
@@ -109,7 +110,9 @@ Il tessuto epiteliale secernente (parenchima) di una ghiandola endocrina può es
 	- Epitelio respiratorio
 	- Epitelio urogenitale (come quelle del testicolo e dell'vaio)
 	- Cellule C parafollicolari della tiroide
+	![[Pasted image 20230105193743.png]]
 - Ghiandole follicolari (2 nell'immagine sopra): l'unico esempio di questa è la tirodie. 
+	![[Pasted image 20230105193729.png]]
   I follicoli sono strutture sferiche cave, rivestite dal cellule endocrine a formare un epitelio semplice, cubico o cilindrico. 
   Le cellule riversano nella cavità un secreto proteico chiamato "colloide", dove è accumulato il precursore degli ormoni tiroidei; questo verrà poi riversato in seguito a segnale nel tessuto connettivo sottostante così da raggiungere il circolo sanguigno. 
 Da notare è come le ghiandole a cordoni solidi e le follicolari siano ricorperte da tessuto connettivo, quale, inserendosi nello stroma, crea un separazione in lobi all'interno della struttura. 
@@ -137,7 +140,7 @@ Posto tra cervello e tronco encefalico (praticamente al centro dei due emisferi 
    - il primo nell'emisfero di destra, 
    - il secondo in quello di sinistre 
    - quarto tra ponte e bulbo. 
-    Si continuerà poi nel canale ependimale e all'interno del midollo spinale. Questi sono gli spazi dove viene prodotto e riversato il liquido cefalorachidiano che va a nutrire e drenare tutte le strutture nervose.. 
+    Si continuerà poi nel canale ependimale e all'interno del midollo spinale. Questi sono gli spazi dove viene prodotto e riversato il liquido cefalorachidiano che va a nutrire e drenare tutte le strutture nervose.
 ## Ipotalamo
 ![[Pasted image 20221218211708.png]]
 ## Funzioni
@@ -172,7 +175,7 @@ Ognuna di queste aree previamnete considerate sono estremamente collegate all'as
 	- Nucleo ventro mediale
 	- Nucleo arcuato
 	![[Pasted image 20221218212929.png]]
-    Da ricordare è che questo sistema andrà a produrre i fattori di rilascio o di inibizione delal secrezione di ormoni ipofisari (di natura peptidica)
+    Da ricordare è che questo sistema andrà a produrre i fattori di rilascio o di inibizione della secrezione di ormoni ipofisari (di natura peptidica)
 - Sistema magnicellulare, collegato alla neuroipofisi attraverso il "fascio ipotalamo ipofisario", esso comprende:
 	- Nucleo sopra-ottico
 	- Nucleo paraventricolare
@@ -196,14 +199,14 @@ Tutto quante le atitvità sono allora regolate da quesit fattori rilasciati nel 
 # Ipofisi (ghiandola pituaria)
 ## Posizione
 ![[Pasted image 20221218213857.png]]
-L'ipofisi è una ghiandola molto innervata (visto che riceve molti stimoli) e molto vascolarizzata (visto che gli ormoni che produce devono essere rilasciati nel torrente circolatorio) situata all'interno di una depressione (chiamata "sella turcica") nel corpo dell'osso sfenoide (situato alla base del cranio e apparatenente al neurocranio). 
+L'ipofisi è una ghiandola molto innervata (visto che riceve molti stimoli) e molto vascolarizzata (visto che gli ormoni che produce devono essere rilasciati nel torrente circolatorio) situata all'interno di una depressione (chiamata "sella turcica") nel corpo dell'osso sfenoide (situato alla base del cranio e appartenente al neurocranio). 
 La sella turcica viene rivestita dal diaframma della sella (porzione della dura madre) che la deve proteggere dallo scheletro osseo che la contiene. 
 ## Sezione istologica
 ![[Pasted image 20221218213903.png]]
 Sul preparato istologico dell'ipofisi si possono notare due parti di origine embrionale diversa
 ![[Pasted image 20221218214043.png]]
-- Neuroipofisi, chiara: essa comprende l'80% della componente cellulare e deriva dall'ectoderma dell'oro-faringe
-- Adenoipofisi, scura., essa comprende il restante 20% della componente cellulare e deriva dal neuroectoderma
+- Adenoipofisi, chiara: essa comprende l'80% della componente cellulare e deriva dall'ectoderma dell'oro-faringe
+- Neuroipofisi, scura., essa comprende il restante 20% della componente cellulare e deriva dal neuroectoderma
 ![[Pasted image 20221218214110.png]]
 Da notare è come la neuroipofisi sia direttamente collegata ad alcuni nuclei ipotalamici, quali secernono gli ormoni e, attraverso terminazioni assoniche non mielinizzate (perchè servono solo da veicolo), gli ormoni vanno ad essere depositati nella specifica porzione dell'ipofisi. 
 In seguito a stimoli essi verrano inoltre rilasciati nel torrente circolatorio, andando poi ad agire a distanza (gli ormoni prodotti da ipofisi e neuroipofisi sono 9 in totale). 
@@ -253,8 +256,8 @@ La funzione dell'ipofisi posteriore è quella di deposito di due ormoni:
 ![[Pasted image 20221218223407.png]]
 ## Tiroide
 ![[Pasted image 20221218223818.png]]
-La tiroide è una ghiandola situata nel collo, al di sotto della lariinge ed è formata da due lobi collegati da un tratto intermedio chiamato "istmo". 
-La tiroide è quindi una ghiandola endocrina pura ed è organizzata a formare delle strutture chiamate "follicoli tiroidei", a loor volta costituiti da cellule ghiamate "tireociti". 
+La tiroide è una ghiandola situata nel collo, al di sotto della laringe ed è formata da due lobi collegati da un tratto intermedio chiamato "istmo". 
+La tiroide è quindi una ghiandola endocrina pura ed è organizzata a formare delle strutture chiamate "follicoli tiroidei", a loor volta costituiti da cellule chiamate "tireociti". 
 Essi hanno attività secernente tramite formazione di una sostanza gelatinosa all'interno del dotto del follicolo chiamato "colloide". 
 ![[Pasted image 20221218223826.png]]
 All'esterno del follicolo troviamo inoltre delle cellule che appaiono chiare: le cellule C, anche dette "parafollicolari"; esse secernono calcitonina e sono quindi deputate alla riduzione del calcio a livello ematico per aumentarlo a livello osseo. 
@@ -277,8 +280,8 @@ Lo stroma, che sostiene il parenchima, è costituito da una fitta rete di vasi (
 Da notare è poi come la superficie apicale delle cellule follicolari rimanga a contatto con il colloide, mentre la superficie basale poggi sulla lamina basale. 
 Sono proprio queste cellule ad essere responsabili della produzione degli romoni tiroidei (T3 e T4)
 La morfologia dell'epitelio è in relazione allo stato di attività della ghinadola: in condizioni normali è cubico, altrimenti se è atrofizzata l'epitelio è basso, quasi squamoso. 
-In cos di ipterstimolazione (ipertirodismo) l'epitelio può arrivare anche ad essere scilindrico. 
-L'aterazione istologica è allora importante per vedere anche un'alterazione a livello funzionale. 
+In cos di ipterstimolazione (ipertirodismo) l'epitelio può arrivare anche ad essere cilindrico. 
+L'alterazione istologica è allora importante per vedere anche un'alterazione a livello funzionale. 
 ![[Pasted image 20221218225146.png]]
 ### Attività della tiroide
 - Cellule parafollicolari (o cellule C): queste si trovano nella periferia dell'epitelio follicolari
@@ -301,7 +304,7 @@ Gli ormoni nella forma attiva derivano dal processamento della tireobglobulina a
 La sintesi e il rilascio degli ormoni tiroidei è rappresentabile attraverso un processo a 7 fasi:
 1. Sintesi e secrezione della tireoglobulina, precursore degli ormoni tiroidei. 
    Questa glicoproteina vieen sintetizzata nel RER, glicosilata nel Golgi per poi essere incorporata in vescicole secretorie e essere rilascita nel lume del follicolo attraverso esocitosi
-2. Assorbimento di ioduro dal sangue e rilascio suo rilascio nella colloide, attraverso la "pendrina"
+2. Assorbimento di ioduro dal sangue e suo rilascio nella colloide, attraverso la "pendrina"
 3. Ossidazione dello ioduro in iodio (attraverso l'enzima perossidasi tiroidea), processo che avviene sulla superficie dei microvilli delle cellule follicolari
 4. Iodinazione della tireoglobulina nella colloide
 5. Formazione degli ormoni T3 e T4 tramite reazioni di accoppaimento ossidativo
@@ -326,7 +329,7 @@ Da notare è che il sistema a feedback è complesso: il tutto inizia dal sistema
 Queste sono 4 piccole ghiandole che si ritrovano sulla parte postariore della tiroide, nello specifico esse sono in coppia:
 - Superiori (paratiroidi superiori)
 - Inferiori (paratiroidi inferiori).
-Questo tipo di cellule sono necessarie alla secrezione del paratormone, dalla funzione oppososta a quella della calcitonina (serve cioè all'aumento del calcio epatico e al controllo del fosforo; partecipando così al meccanismo di controllo delle ossa).
+Questo tipo di cellule sono necessarie alla secrezione del paratormone, dalla funzione oppososta a quella della calcitonina (serve cioè all'aumento del calcio ematico e al controllo del fosforo; partecipando così al meccanismo di controllo delle ossa).
 Dal punto di vista istologico possiamo allora definire due tipi di cellule:
 - Cellule principali (cellule piene di granuli di glicogeno), quali possono avere un aspetto chiaro o scuro; oltre ad essere responsabili del rilascio di PTH (paratormone)
    Queste contengono inoltre granuli di secrezione e granuli di glocogeno, e granuli di lipofuscina; per questo il tipo di cellula si presenta sia di colore chiaro che scuro.
@@ -348,7 +351,7 @@ La ghiandola è costituita da due parti con funzione differente:
      ![[Pasted image 20221219224020.png]]
    - Fascicolata (zona più ampia caratterizzata da [[#Organizzazione istologica delle ghiandole endocrine.|cordoni di cellule]] disposte a raggiera); questa produce e secerne glicocorticoidi come:
       - Cortisone 
-      - Cortisolo (sotto controllo ipotalamico, prodotto soprattutto in condizioni di stress attraverso un sistema ID gangli e nervi).
+      - Cortisolo (sotto controllo ipotalamico, prodotto soprattutto in condizioni di stress attraverso un sistema di gangli e nervi).
   NB, questi due tipi di sostanze entreranno nel metabolismo dei carboidrati 
       - Corticosterone
 	![[Pasted image 20221219224043.png]]
@@ -383,7 +386,7 @@ Il pancreas è una ghiandola mista, cioè formata da due componeti di divesa nat
 ![[Pasted image 20221219225022.png]]
 ## Isole di Langerhans
 ![[Pasted image 20221219225226.png]]
-Esse costituiscono la parte endocrina del pancreas e sono picccole fromazioni rotondeggianti o ovali comprese nel tessuto esocrino dell'orgeno. 
+Esse costituiscono la parte endocrina del pancreas e sono picccole formazioni rotondeggianti o ovali comprese nel tessuto esocrino dell'organo. 
 Il loro diametro può variare dai 0.3 ai 0.7 nm, così come il loro numero, che può oscillare fra i 200k al più di 1 milione e mezzo. 
 La loro funzione è quindi quella di produrre diversi ormoni come:
 - Glucagone
@@ -403,7 +406,7 @@ Da notare è che esistono diversi tipi di queste cellule che si possono classifi
 - Cellule enteroendocrine L
 - Cellule enteroendocrine M
 - Cellule enteroendocrine G
-Queste tipi di celllule fanno allora parte del sistema neuroendocrino diffuso, e si ritrovano in diverse prozioni come:
+Queste tipi di cellule fanno allora parte del sistema neuroendocrino diffuso, e si ritrovano in diverse prozioni come:
 - Epitelio cubico semplice e colonnare
 - Epitelio dello stomaco, del tenue e del crasso
 ## Funzioni

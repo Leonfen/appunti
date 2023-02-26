@@ -14,7 +14,6 @@ Prima lezione
 6. Quali sono le caratteristiche chimiche importanti dell'acqua?
 	Le molecole dell'acqua sono polari e coesive; hanno inotlre un'elevata capacità di stabilizzare la temperatura e ed è inoltre un eccellente solvente. Tutte queste capacità sono proprio dovute all'angolo che si verrà a instaurare fra i due idrogeni e l'ossigeno, creando così una polarità fra gli atomi che intercorrono. 
 Seconda settimana
-![[Recording 20221021141126.webm]]
 1. Classificazione degli amminoacidi presenti nelle proteine in base alla natura di R
 	Essi si possono dividere in:
 		- Amminoacidi idrofobi, con un gruppo R di natura idrocarburica senza ossigeno nè azoto
@@ -45,7 +44,7 @@ Seconda settimana
 	- Trisaccaridi: formati da 3 unità ripetitive
 	- Polisaccaridi: formati da molte unità ripetitive (di solito più di 10)
 	Altro modo per classificarli è attraverso la distinzione in carboidrati semplici (come monosaccaridi e disaccarid) e carboidrati complessi (come polisaccaridi)
-1. Funzione dei carboidrati:
+4. Funzione dei carboidrati:
 	Le funzioni sono molteplici, si possono quindi distinguere in 3 macroaree:
 	- Plastica: i carboidrati entrano nella costituzione delle cellule e della sostanza extracellulare, compongono inotlre gli acidi nucleici, i coenzimi nucleotidici, i glicolipidi e le glicoproteine, sono inotlre le strutture di sostegno e protezione negli organismi vegetali e animali
 	- Energetica: sotto forma di glicogeno costituiscono una riserva di energia pronta a essere utilizzata e, sotto forma di glucosio, sono fonte di nutrimento per tutte le cellule a in modo rapido e a basso costo. Rappresentano inoltre la quota più rilevante dei principi nutritivi, alcune cellule e tessuti, in condizioni normali, utilizzano come nutrimento solo glucosio
@@ -453,7 +452,7 @@ Settima settimana
 	- Il succinato si trasfromerà poi in fumarato (molecola a 4 atomi di carbonio), riducendo una molecola di FAD in FADH2 
 	- Il fumarato si trasformerà poi in malato, molecola a 3 atomi di carbonio
 	- Il malato, attraverso la malato deidrogenasi, ridurrà una molecola di NAD ritornando così ossalacetato, molecola a 2 atomi di carbonio.
-1. La fosforilazione ossidativa ed il sistema di trasporto degli elettroni
+4. La fosforilazione ossidativa ed il sistema di trasporto degli elettroni
 	L'energia liberata dal flusso di elettroni lungo la catena di trasporto è utilizzata per pompare protoni dalla matrice allo spazio intermembrana. 
 	A questo livello i protoni si accumulano e, spinti dal gradiente elettrochimico formatosi, tendono a rientrare nella matrice. 
 	La catena respiratoria è allora formata da:
@@ -503,8 +502,87 @@ Ottava settimana
 7. Varie fasi del processo di mitosi. 
 Nona settimana
 1. Descrivere le varie fasi del processo di meiosi
+   Possiamo descrivere la meiosi come contraddistinta da due fasi principali, date da due divisioni nulcleari consecutive, descrivibili come:
+   - Meiosi I, a sua volta divisibile in:
+	   - Profase I
+	   - Metafase I
+	   - Anafase I
+	   - Telofase I
+  - Meiosi II, a sua volta suddivisibile in:
+	  - Profase II
+	  - Metafase II
+	  - Anafase II
+	  - Telofase II
+   Da notare è come è proprio la primissima fase ad essere quella più complicata. 
+   Dopo l'interfase (dove avviene sempre la duplicazione nucleare) si ha così la profase I dove vi sono diversi processi a susseguirsi:
+   - Filamenti di cromatina che si spiralizzano, così da formare i cromosomi
+   - Si andranno a creare le sinpasi, i cromosmi omologhi si appiaeranno e formeranno le "tetradi" (o bivalenti)
+   - Avverà il "crossing-over", fenomento per il quale alcuni cromosomi omolgohi si scambiano fra loro alcuni segmenti di DNA. 
+   - I "COMT" (cioè i "centri di organizzaizone dei microtubuli") si allontaneranno l'uno dall'altro, formando così il fuso mitotico. 
+  Da sapere è che tutti questi processi, oltre che l'elevato tempo in cui il tutto si svolge, permette di suddividere la profase I in 5 diverse tappe:
+  1. Leptotene: i cromosomi omologhi iniziano a condensarsi
+  2. Zigotene: si inizia a formare il "complesso sinaptonemale", cioè una struttura di proteine ed enzimi utili all'unione di cromosomi omologhi, così da permettere lo scambio di segmenti di DNA da un cromatide omologo all'altro; permettono cioè il crossing over fra due cromatidi non fratelli fra i due cromosomi omologhi
+  3. Pachitene: la sinapsi si forma completmaente, fornado così la tetrade e permettendo il fenomeno del crossing over
+  4. Diplotene: il complesso sinaptonemale scompare, le tetradi iniziano a speararsi fino a restare uniti a livello dei "chiasmi"
+  5. Diacenesi: il bivalente è pronto per entrare in metafase, dove l'involucro nucleare si frammenterà completamente. 
+  Metafase I, i bivalenti si attaccano ai microtubuli i del fuso attraverso i "cinetocori", migrando così a livello della piastra metafasica.
+  Da notare è che i chiasmi qui presenti tengono uniti i cromatidi non fratelli fra i cromosomi omologhi (mantengono cioè i due cromosomi omologhi), mentre le coesine servono invece a mantenere i cromatidi fratelli per tutta la loro lunghezza.
+  Anafase I, i membri di ciascuna coppia di entrambi i cromosomi omologhi si separano, migrando così verso i poli opposti del fuso attirati dai microtubuli dei cinetocori. 
+  Sarà proprio in questa fase che le coesine (che tenevano unite i bracci dei cromatidi fratelli) verranno degradate permettendo così agli omologhi di separarsi. 
+  Telofase I, dopo l'arrivo dei cromosomi ai poli del fuso, attorno ai cromosomi si formano involucri nucleari, iniziando così la citocinesi
+  Dopo questa fase in cromosomi si despiralizziranno, andando incontro a un periodo di sosta (o proseguendo direttamente) detto "intercinesi". 
+  Meiosi II
+  Profase II da notare è che questa meiosi II è molto simile ad una mitois, solo che la profase I è molto molto breve. 
+  Durante questa fase si ha infatti una condensazione dei cromosomi e una seconda disgregazione della membrana nucleare, oltre che la formazione del fuso mitotico. 
+  Metafase II, i cromosomi si allineano lungo il piano equatoriale. 
+  I cinetocori dei cromatidi fratelli sono rivolti in direzione opposta, consentendo così la separazione e la migrazione dei cromatidi fratelli ai poli durante l'anafase II
+  Anfase II, i centromeri dei cromatidi si separano, migrando così ai poli opposti. 
+  Le coesine che tengono qui legati i cromatidi fratelli fra loro degradano, permettendo loro di migrare ai rispettivi poli opposti. 
+  Telofase II
+  I nuclei ai poli opposti della cellula si formano, facendo contemporaneamente avvenire la "citodieresi". 
+  Alla fine, si formeranno attraverso tutti questi processi, quattro cellule figlie: ognuna con contenuto aploide. 
 2. Differenze fra mitosi e meiosi
+   Da notare è però come tutte queste quattro cellule aploidi non siano identiche, mentre la mitosi produce sempre cellule identiche (sia dall'assetto cromosomico, che dalle altre caratteristiche, alla cellula madre). 
+   Ricordiamo quindi come nella meiosi la dupliaczione è seguita da due divisione meiotiche, così da produrre questi nuclei aploidi. 
+   Pertanto, ogni nucleo diploide che entra in meiosi produce in totale 4 cellule aploidi mediate citochinesi. 
+   Nella mitosi, invece, ogni nucleo diploide dà origine a due cellule identiche con nucleo diploide. 
+   Mentre la mitosi e la meiosi II possono durare qualche ora, è da dire che la meiosi I può durare giorni, mesi o perfino anni visto il tempo necessario all'accoppiamento degli omologhi prima della meiosi I
 3. Descrivere le fasi della spermatogenesi
+   La spermatogenesi, per completezza, si può distinguere in 2 fasi principali:
+   - Spermatogenesi vera e propria, qui avviene la creazione delle cellule germinali maschili (spermatozoi) attraverso l'epitelio germinativo dei tubuli seminiferi e alla complessare regolazione esercitata dagli ormoni e dalle cellule del Sertoli
+   - Spermiogenesi: capacitazione degli spermatidi, avvenente nel lume interno del tubulo seminifero 
+     Sarà proprio in questa fase che lo spermatide diverrà spermatozoo, acquistando così al sua coda e ottenendo la sua famosa "testa a punta" (nucleo altamente condensato). 
+    A sua volta, la spermatogenesi vera e propria può allora essere suddivisa in due fasi principali:
+    - Divisione mitotica, qui gli spermatogoni di tipo A chiaro (con potere staminale più grande) inizieranno a dividere indistintamente diventando:
+	    1. Spermatogoni di tipo A scuro
+	    2. Spermatogoni di tipo B (procedendo questa volta con al massimo 3 divisioni mitotiche, fino a perdere la loro condizione di staminalità diventando spermatociti primari)
+    - Divisione meiotica, qui inizia la spermatogenesi quando gli spermatociti primari inizieranno allora il processo di divisione meiotica, determianno allora la continua produzione di cellule aploidi: gli spermatidi (le cellule intermedie della seconda divisione meiotica sono invece chiamati "spermatociti secondari")
+    E' però da notare che tutti i singoli tipi cellulari rimangono connessi fra loro da ponti citoplasmatici (fino alla spermiogenesi), importanti per l'efficiente controllo dei problemi relativi agli spermatozoi (da parte di cellule del Sertoli), oltre che la trasmissione di sostanze fra le varie cellule. 
 4. Descrivere le fasi dell'oogenesi e del ciclo ovarico
+   L'oogenesi si svolge nell'ovaio con la sua unità riproduttiva: il follicolo
+   Da notare è che la sede in cui si vanno a creare le varie cellule germinali è solamente l'epitelio germinativo dell'ovaio, contenente i singoli oociti racchiusi nei follicoli. 
+   La struttura del follicolo è allora data dall'oocita circondato da due gruppi di cellule:
+   - Cellule della teca
+   - Cellule della granulosa.
+  I due tipi di cellule sopracitate hanno compito di craere un ambiente protettivo e favorevole allo sviluppo dell'oocita e, in particolare, produrre fattori ormonali paracrini quali modulano la progressione dell'oogenesi e molti altri effetti su tessuti periferici, la maggior aprte finalizzati a preparare l'apparato riproduttore femminile ad una possibile fecondazione e quindi impianto (si deve allora evitare la disgregazione della parete uterina). 
+  Diversi sono allora le fasi dell'oogenesi:
+  - Fase fetale: inizia dalla 15a alla 24esima settimana di vita fetale. 
+    Sarà qui che inzieranno a modificarsi gli oogoni, raggiungendo così i 7milioni. 
+    Gli oogoni resteranno allora fermi in questo ciclo fino a 6 mesi dopo la nascita, finchè tutti quanti gli oogoni si saranno trasformati in oociti, fermandosi allo stadio di diplotene (da notare è che non si andranno a formare 7 milioni di oociti, ma si ridurranno molto di numero, diventando 1 milione circa di oociti contenuti in follicoli primordiali)
+    Da notare è che questi oociti primari restaranno in stadio di diplotene dai 12 ai 50 anni, finchè non andranno a essere ovulati e, possibilmente, fecondati. 
+   - Fase puberale 
+    Si completa adesso la prima divisione meiotica: dall'inzio della pubertà all'inizio della menopausa gli oociti primari matueraranno in oociti secondari, bloccandosi però in metafase II. 
+    La divisione verrà completata solo in vaso di avvenuta fecondazione entro il tempo d'ovulazione dell'oocita. 
+  Si nota quindi che la fase mitotica e l'inizio della meiosi dell'oogenesi si svolgono prima della pubertà, a confrotno dei maschi, dove la spermatogenesi avviene costantemente. 
+  Parallelamente al processi di maturazione dell'ooctia ci sarà però anche lo sviluppo del follicolo, che si susseguirà in sviluppo di:
+  - Follicolo primordiale
+  - Follicolo primario
+  - Follicolo secondario
+  - Follicolo terziario (o di Graaf), sarà proprio questo ad essere costituito da uno spesso strato di cellule formanti:
+	  - Granulosa
+	  - Teca interna
+	  - Teca esterna
+	  - Antro, dove veranno concentrate le sostanze utili allo sviluppo dell'oocita e delle cellule esterne grazie alla diffusione del plasma dal sangue passato per diffusione (esempi di sostanze sono date da gonadotropine e steroidi)
+    Per quanto rigurada il ciclo ovarico, invece [[La meiosi#Regolazione del ciclo ovarico e oogenesi]] 
 5. Descrivere le varie fasi del processo di trascrizione nei procarioti e negli eucarioti
 6. Descrivere le varie fasi del processo di maturazione dell'RNA messaggero, incluso il meccanismo di splicing

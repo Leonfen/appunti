@@ -76,7 +76,6 @@ Le code ammino-terminali degli istoni del core nucelosomale sono essenziali per 
 Il complesso [[Ciclo cellulare e regolazione#Il complesso MPF (complesso Cdk mitotica-ciclina B) regola la transizione G2/M|MPF]] attivo fosforila l'istone H1 e il complesso della condensina, che favoriscono così il processo di condensazione di cromosomi. 
 La conda N-terminale dell'istone H3 è essenziale per la condensazione mitotica. 
 ![[Pasted image 20221207224040.png]]
-
 ### Prometafase
 In questa fase si determina:
 - Vescicolazione dell'involucro nucelare, innescata dalla depolimerizzazione di lamine (fosforilate da [[Ciclo cellulare e regolazione#Protein chinasi ciclina dipendenti CDK|CDK1]]).
@@ -103,7 +102,7 @@ Per poter funzionare correttamente, ogni cromosoma deve possedere un singolo cen
 Durante la divisione cellulare le sequenze centromeriche si associano a proteine specifiche che formano un complesso multiproteico chiamato cinetocore, capace di legare i microtubuli del fuso responsabili della segregazione. 
 ![[Pasted image 20221207230455.png]]
 Il centromero negli eucarioti superiori può essere suddiviso in tre diversi domini:
-- Dominio di appaiamento quale comprende la superficie interna del centromero, dove i cromatidi fratelli si appaiono mediante specifiche proteine, quale ad esempio la proteina "INCENP" (Inner centromere protein. 
+- Dominio di appaiamento, comprende la superficie interna del centromero, dove i cromatidi fratelli si appaiono mediante specifiche proteine, quale ad esempio la proteina "INCENP" (Inner centromere protein). 
   Il dominio di appaiamento ha l'imporatnte funzione di tenere uniti i cromatidi fratelli dopo la replicazione del DNA, fino alla successiva metafase. 
 - Dominio centrale, composto da DNA centromerico che, nella maggior parte degli eucarioti superiori, è composto da [[Il nucleo cellulare e DNA#DNA satellite, minisatellite e microsatellite|DNA satellite]] che forma l'eterocromatina costitutiva, cioè la cromatina che rimane inattiva e non trascritta durante tutto quanto il ciclo cellulare, in tutti i tipi di cellule
 - Cinetocore, questi sono collegati a ogni microtubulo attraverso interazioni con copie multiple di un complesso di proteine di collegamento
@@ -178,8 +177,8 @@ I centrosomi addizionali portano così ad un'erronea segregazione dei cromosomi 
 ![[Pasted image 20221208001714.png]]
 In questa fase:
 - I cromosomi si despiralizzano e tornano a formare la cromatina
-- La membrana del nucelo e il nucleolo si riformano
-Si noti quindi come durante la mitosi l'involucro nucelare si disgrega e poi si riformi: nella prometafase la fosforilazione delle proteine del proo nucelare e delle lamina avviano la disgregazione dell'involucro ([[Ciclo cellulare e regolazione#Il complesso MPF (complesso Cdk mitotica-ciclina B) regola la transizione G2/M|Complesso MPF]]). 
+- La membrana del nucleo e il nucleolo si riformano
+Si noti quindi come durante la mitosi l'involucro nucelare si disgrega e poi si riformi: nella prometafase la fosforilazione delle proteine del poro nucelare e delle lamina avviano la disgregazione dell'involucro ([[Ciclo cellulare e regolazione#Il complesso MPF (complesso Cdk mitotica-ciclina B) regola la transizione G2/M|Complesso MPF]]). 
 Durante la telofase la defosforilazione di proteine del poro nucelare e delle lamine contribuisce invece alla riaggregazione ([[Ciclo cellulare e regolazione#Il complesso APC (Anaphase promoting complex)|complesso APC]])
 ![[Pasted image 20221208003015.png]]
 All'inzio nella telofase si ha un abbozzo di separazione cellulare, quasi a foramre un'invaginazione di membrana; questa è di solito perpendicolare e mediale rispetto all'asse del fuso
@@ -192,7 +191,7 @@ Subito dopo l'invaginazione creatasi alla fine della telofase, si forma un solco
 ![[Pasted image 20221208003516.png]]
 Il solco di divisione si forma per l'azione dell'anello contrattile situato sotto la membrana cellulare. 
 La posizione del solco di divisione è determinata dal fuso mitotico. 
-Dai microtubuli, ad esempio, si reclutano proteine che generano un sengle quale prota all'attivazione di una proteina chiamata "RhoA". 
+Dai microtubuli, ad esempio, si reclutano proteine che generano un sengle quale porta all'attivazione di una proteina chiamata "RhoA". 
 Questa è un membro della famiglai delle Rho GTPasi, responsabile del controllo e dell'assemblaggio dell'anello contrattile interposto tra i poli del fuso mitotico. 
 ![[Pasted image 20221208003852.png]]
 L'anello contrattile continuerà sempre più a restringersi fino a dividere la cellula in due. 

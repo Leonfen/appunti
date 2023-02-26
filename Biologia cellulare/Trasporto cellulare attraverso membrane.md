@@ -1,13 +1,13 @@
 Ricordiamo come le [[Struttura e funzione della membrana plasmatica|membrane cellulari]] agiscano come barriere "semipermeabili" per la maggior parte delle molecole.
 Questo significa allora che una membrana costituita da un doppio strato fosfolipidica è permeabile solo a determinate sostanze 
 ![[Pasted image 20221126161729.png]]
-Molecole piccole e non cariche possono quindi diffondersi attraverso la membrana, contrariamente alle grandi molecole e gli ioni
+Molecole piccole e non cariche possono quindi diffondersi attraverso la membrana, contrariamente alle grandi molecole, alle molecoli polari e agli ioni
 ![[Pasted image 20221126161810.png]]
 ## Trasporti attraverso la membrana
 ![[Pasted image 20221126162133.png]]
 Esistono tre diversi tipi di trasporto:
 - Trasporto passivo, questo è un trasporto secondo gradiente di concentrazione e basato sulla "diffusione" senza consumo di energia
-  Si noti che qui le molecole non passano per singola diffusione permeando la membrana plasmatica, questo processo può infatti essere mediato da proteine trasportatori che ne facilatano lo spostamento lungo il doppio layer.
+  Si noti che qui le molecole non passano solo per singola diffusione attraverso la membrana plasmatica, il processo può infatti essere mediato da proteine trasportatori che ne facilatano lo spostamento lungo il doppio layer.
 	![[Pasted image 20221126162307.png]]
 - Trasporto attivo, questo è un trasporto contro gradiente di concentrazione, quale richiede consumo di energia
 	![[Pasted image 20221126162316.png]]
@@ -18,7 +18,7 @@ Esistono tre diversi tipi di trasporto:
 NB, visto che le membrane cellulari sono impermeabili agli ioni inorganici le cellule vive sono allora in grado di mantenere le concentrazioni ioniche nella cellula diverse da quelle all'esterno della cellula. 
 ![[Pasted image 20221126162633.png]]
 ### Potenziale di membrana
-Anche se le cariche elettriche interne ed esterne alla cellula restano generalmente in equilibrio, intorno alla membrana si vneogno a creare lievi polarità, questa differenza di potenziale che si trova fra le due parti della membrana prenderà così il nome di "potenziale di membrana". 
+Anche se le cariche elettriche interne ed esterne alla cellula restano generalmente in equilibrio, intorno alla membrana si vengono a creare lievi polarità, questa differenza di potenziale che si trova fra le due parti della membrana prenderà così il nome di "potenziale di membrana". 
 Questo consente alle cellule di avere l'energia necessaria per effettuare il trasporto di determinati metaboliti e fornire un modo alle cellule eccitabili (come i neuroni) di comunicare fra loro
 ![[Pasted image 20221127234805.png]]
 #### Equilibrio dei canali di dispersione per il potassio
@@ -45,7 +45,7 @@ Un neurone tipico possiede:
 - Diversi dendriti
 L'assone ha la funzione di condurre il segnale elettrico dal corpo cellulare verso la cellula bersagno, mentre i dendriti hanno funzione di ricevere i segnali dagli assoni degli altri neuroni. 
 Durante la crescita i neuroni sondano le possibili connessioni vicine così da orientarsi nella direzione più appropriata per effettuare connessioni funzionali. 
-La forma con il quale si propagna è però sempre la stessa: una variazione di potenziale elettrico derivante dalla differenza di potenziale della membrana. 
+La forma con il quale si propaga è però sempre la stessa: una variazione di potenziale elettrico derivante dalla differenza di potenziale della membrana. 
 La variazione di questo potenziale di membrana però si deve diffondere dal sito dove si genera fino alle terminazioni assoniche che trasmettono il segnale alle cellule successive
 La diffusione, però, si indebolisce all'aumentare dalla distanza dalla fonte.
 Per questo i neuroni utilizzano un "meccanismo di segnalazione attivo", cioè uno stimolo elettrico locale che innesca nella membrana un'esplosiva attività elettrica che si propaga lungo l'assone. 
@@ -112,7 +112,7 @@ Notiamo che ponendoci in un modello con soggetto un eritrocita si distinguono al
 - Soluzione ipertonica: l'eritrocita perde acqua e si raggrinzisce
 - Soluzione isotonica: l'eritrocita mantiene lo stesso volume
 NB, esistono diversi modi per cui la cellula evita l'eccessiva perdita o acquisto di acqua:
-- Ad esempio, un'ameba evita il rigonfiamento espellendo regolarmente l'acqua che entra nella cellula e che si accumula nei cavuoli contrattili
+- Ad esempio, un'ameba evita il rigonfiamento espellendo regolarmente l'acqua che entra nella cellula e che si accumula nei vacuoli contrattili
 	![[Pasted image 20221126171233.png]]
 - Nelle piante si evita il rigonfiamento grazie alla parete vegetale
 	![[Pasted image 20221126171246.png]]
@@ -199,7 +199,7 @@ Essi possono essere in forma normale:
  Più specificatamente può essere controllata da:
  - Interazione con un ligando (controllati dal ligando)
    ![[Pasted image 20221126182209.png]]
-   Molti canali sono infatti controllati da un ligando diverso dalla molecola da trasportare; un semio è l'acetilcolina, che apre i canli per il sodio scatenando così la contrazione muscolare
+   Molti canali sono infatti controllati da un ligando diverso dalla molecola da trasportare; un esempio è l'acetilcolina, che apre i canali per il sodio scatenando così la contrazione muscolare
    ![[Pasted image 20221126182505.png]]
  - Stato di fosforilazione di siti specifici ad opera di secondi messaggeri intracellulari (controllati da cambiamenti chimici)
    ![[Pasted image 20221126182218.png]]
@@ -207,7 +207,7 @@ Essi possono essere in forma normale:
    ![[Pasted image 20221126182227.png]]
    Le cellule dette "eccitabili" come i neruoni o le cellule muscolari possiedono dei canali che si aprono o chiudono in risposta al mutamento delle cariche della membrana plasmatica
    ![[Pasted image 20221126182558.png]]
-   Questi canali conferisocno così alle cellule eccitabili di rispondere in pochi attimi il contenuto intracellulare di cariche elettriche rispetto all'esterno. 
+   Questi canali conferisocno così alle cellule eccitabili di rispondere in pochi attimi al contenuto intracellulare di cariche elettriche rispetto all'esterno. 
    I canali "voltaggio-dipendente" sono così denominati perchè si aprono solo quando il potenziale di memrbana della cellula raggiunge un determinato "valore soglia"
    ![[Pasted image 20221126182722.png]]
  - Stiramento o pressione del canale stesso (controllati meccanicamente)
@@ -236,7 +236,7 @@ Esso è quindi unidirezionale e assolve tre funzioni prinicipali:
 - Assorbimento di sostanze nutritive essenziali
 - Rimozione dalla cellula prodotti di secrezione o rifiuto
 - Mantenere le concentrazioni di ioni specifici (fra cui sodio, potassio, calcio e idrogeno) in una situazione costante di "non" equilibrio
-  Nb, all'interno delle cellule animali la concentrazione dell'ione potassi è di circa 100-150mM (millimoli), mentre all'esterno è molto più basso
+  Nb, all'interno delle cellule animali la concentrazione dell'ione potassio è di circa 100-150mM (millimoli), mentre all'esterno è molto più basso
   Contrario è invece la concentrazione di sodio, che all'interno dell'ambiente cellulare è di circa 10-15mM, mentre all'esterno è considerevolmente maggiore
   Il pompaggio dei due ioni contro grandiente di concentrazinoe mantiene questa situazione di "non equilibrio" attraverso il suo continuo funzionamento tramite apporto di energia. 
   ![[Pasted image 20221127171619.png]]
@@ -258,7 +258,7 @@ Un esempio di questo tipo di ATPasi è la pompa sodio/potassio ATPasi della memb
 - Localizzata sulla memrbana plasmatica di tutte le cellule (mentre in quelle epiteliali è localizzata sulla membrana basolaterlae)
 - Un tetrametro alfa2-beta2
 - Una stechiometria di 3:2 (pompa elettrogenica)
-- Un atimporto con trasporto attivato dall'ATP intracellulare
+- Un antimporto con trasporto attivato dall'ATP intracellulare
 Essa ha inoltre due diverse conformazioni
 - E1: 3 siti di legame ad alta affinità per il sodio e 2 a bassa per il potassio.
 - E2: 3 siti di legame a bassa affinità per il sodio e 2 ad alta per il potassio.
@@ -275,10 +275,11 @@ Questo ciclo è diverso dal trasportatore dal glucosio per la fosforilazione e l
 La durata infatti di questo ciclo è di circa 10 millisecondi, vista la sua importanza nel contribuire il mantenimento della carica positiva netta all'sterno del potenziale di membrana
 ##### ATPasi di tipo F
 ##### ATPasi di tipo V
+Nb, i due tipi di trasporto sono spiegati insieme
 ![[Pasted image 20221127173611.png]]
 Questi due tipi di ATPasi sono deputate al trasporto di elettrnoi e sono formate da più subunità proteiche che si assemblano sulal membrana di molti compartimenti ed organelli cellulari
 Le ATPasi di tipo V sono presenti sui lisosomi, favorendo col loro trasporto di elettroni il mantenimendo del caratteristico ambiente acido dei lisosomi
-Le ATPasi di tipo F si trovano invece nei mitocondri, dove sono così responsabili della movimentazione di portoni per la sintesi energetica della cellula
+Le ATPasi di tipo F si trovano invece nei mitocondri, dove sono così responsabili della movimentazione di protoni per la sintesi energetica della cellula
 ##### ATPasi di tipo ABC
 ![[Pasted image 20221127173915.png]]
 Esse sono formate da 12 unità di alpha-elica che procedono avanti e indietro lungo lo spessore della membrana, così da formare un canale attraverso il quale le sostanze (come ioni, zuccheri, amminoacidi, peptidi, lipidi e farmaci) trasportate sono portate all'interno della cellula
@@ -315,7 +316,6 @@ Il clucosio vieen quidni assorbito attivamente dal lume intestinale attraverso i
 ![[Pasted image 20221127221607.png]]
 Nelle cellule animali un gradiente elettrochimico del sodio generato dalla pompa sodio viene usato dai simporti per importare diversi soluti
 Nella cellula vegetale vieen invece utilizzato un gradiente elettrochimico di protoni (ioni idrogeno) generato di solito da una pompa a protoni. 
-####
 ### Trasporto vescicolare
 Molte cellule sono capaci però di assumere e rilasciare sostanze che sono troppo grandi per passare attraverso la membrana, non importa la loro permeabilità ad essa
 ![[Pasted image 20221127221901.png]]
@@ -346,7 +346,7 @@ L'adesione della vescicola è allora mediata dal legame di queste due proteine a
 Nell'endocitosi il materiale viene invece introdotto il materiale all'interno della cellula mediante 4 fasi:
 1. La membrana plasmatica della cellula si invagina, formando una cavità contenente macromolecole o altri materiali provenienti all'esterno della cellula
 	![[Pasted image 20221127223420.png]]
-2. La vacità inzia sempre più a restringersi, racchiudendo il materiale extracellulare
+2. La cavità inzia sempre più a restringersi, racchiudendo il materiale extracellulare
 	![[Pasted image 20221127223431.png]]
 3. La membrana si chiude attorno al materiale invaginato, formando così una vescicola
 	![[Pasted image 20221127223441.png]]

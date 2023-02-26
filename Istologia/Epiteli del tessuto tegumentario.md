@@ -42,7 +42,7 @@ Inoltre, anche gli epiteli hanno delle "eccezioni" che non rientrano in nessuana
 ## Epitelio pavimentoso semplice
 ![[Pasted image 20221210161447.png]]
 L'epitelio pavimentoso o squamoso semplice è costituito da un singolo strato di cellule piatte più larghe che alte, tutte in intimo contatto l'una con l'altra. 
-L'osservazione frontale dall'altro prota infatti a mostrare un "pavimento" di cellule, con:
+L'osservazione frontale dall'altro porta infatti a mostrare un "pavimento" di cellule, con:
 - Nucleo centrale e dalla forma sferica; situato in alto e non visibile ai poli della cellula. 
 - Contorni irregolari
 Esempi di questo tipo di epitelio si trovano in:
@@ -101,7 +101,7 @@ Le finestre possono essere aperte più o chiuse da un sottile diaframma formato 
 ##### Capillari discontinui o sinusoidi
 ![[Pasted image 20221211144426.png]]
 Questi capillari hanno lume e calibro più grande rispetto agli altri tipi di capillari. 
-La loro membrana basale è discontinua o completamente ancante in certi punti. 
+La loro membrana basale è discontinua o completamente mancante in certi punti. 
 L'endotelio è allora molto permeabile, presentando ampie fenestrature che consentono il passaggio di molecole di grandi dimensione con scarsa selezione. 
 ![[Pasted image 20221211144627.png]]
 
@@ -171,14 +171,14 @@ La superficie interna raggiunge infatti i 60m^2 totali per massimizzare la funzi
 ##### Cripta di Lieberkun
 ![[Pasted image 20221210181233.png]]
 Nella mucosa intestinale sono inoltre presenti delle introflessioni definite "cripte di Lieberkun", qui si ritrovano una serie di cellule ghiandolari esocrine secernenti digestivi. 
-Queste chiangole sono costituiti da epitelio colonnare semplice in continuità con quello che riveste i villi intestinale. 
+Queste ghiangole sono costituiti da epitelio colonnare semplice in continuità con quello che riveste i villi intestinale. 
 Essi si approfondano lungo tutto lo spessore della lamina, secernendo così gli enzimi nel lume intestinale alla base dei villi. 
 Nel fondo le cripte di Lieberkum sono localizzate anhce le cellule staminali delle'epitelio intestinale.
 In questa cripta sono allora presenti:
-- Enterociti assorbenti, per espletare la loro funzione gli energociti sono polarizzati, hanno cioè:
+- Enterociti assorbenti, per espletare la loro funzione gli enterociti sono polarizzati, hanno cioè:
 	- Polo apicale, con funzione d'assorbimento e quindi rivolto verso il lume intestinale
 	- Polo basale, che si affaccia sulla sottostante tonaca, intervenendo così nei processi di trasporto delle sostanze assorbite verso la rete capillare sanguigna o linfatica.
-	A questa polarità corrisponde fuzionale corrisponde anche una polarità morfologica: 
+	A questa polarità funzionale corrisponde anche una polarità morfologica: 
 	- L'estermità apicale ha infatti una grande concentrazione di mitocondri allungati, con funzione di fornire l'energia necessaria per trasportare i nutrienti
 	  Nella stessa posizione si trova anche il REL, coinvolto nell'assorbimento di grassi, glicerolo e sintesi dei grassi neutri
 	Da ricordare è come gli enterociti siano anche cellule secernenti che producono enzimi necessari a:
@@ -190,7 +190,7 @@ In questa cripta sono allora presenti:
   I microvilli di queste cellule sono confinate al bordo citoplasmatico, quale circonda la proziione apicale-laterale. 
   Da notare è come il numero delle cellule mucipare aumenta man mano che si va al colon.  
 - Cellule enteroendocrine, quali, pur rappresentando meno dell'1% delle cellule epiteliali intestinali, sono considerate il più grande organo endocrino del corpo. 
-  Le Queste cellule sono specializzate nel rilevare i nutrienti presenti nel nucleo intestinale (hanno recettori sulla loro superficie), così da produrre molecole di azione paracrina importanti:
+  Queste cellule sono specializzate nel rilevare i nutrienti presenti nel nucleo intestinale (hanno recettori sulla loro superficie), così da produrre molecole di azione paracrina importanti:
   - Secretina
   - Somatostatina
   - Serotonina
@@ -208,7 +208,7 @@ In questa cripta sono allora presenti:
    Da notare è inoltre che il numero di queste cellule aumenta verso la fine dell'intestinao, vista la loro funzione di difendersi dalla flora batterica (senza però intaccarla come detto prima). 
    Altro particolare è come le cellule di Paneth abbiano vita molto maggiore (2 mesi) rispetto alle altre cellule intestinali (con turnover di 4-7 giorni); questo è probabilmente dovuto al loro compito di secernere fattori di crescita implicati nel mantenimento delle adiacenti cellule staminali
    Ricapitolando, le cellule di Paneth sono allora coinvolte:
-   - Immunità innatat
+   - Immunità innatata
    - Rigenerazione epitelio intestinale
    - Differenziamento epitelio intestinale
 ## Epitelio pavimentoso (squamoso) stratificato
@@ -225,7 +225,7 @@ Quindi, l'epitelio stratificato, si puù suddividere in:
 	![[Pasted image 20221210190842.png]]
 	Questo tipo di epitelio presenta degli strati di cellule morte cheratinizzate sulla sua superficie (strati cornei), quali fungono da protezioni dalle abrasioni negli strati secchi
 	Esso è inoltre più spesso nelle regioni che possono subire maggiore stress meccanico andando così a paralre di cute, quale può variare in base all'altezza dello strato corneo:
-	- Cute sottile (maggior parte del corpo)
+	- Cute sottile (maggior parte del corpo) ^3f07c4
 	- Cute spessa (pianta dei piedi)
 - Epitelio pavimentoso stratificato non cheratinizzato, che costituisce le mucose; quali si trovano nei distretti corporei in contatto con l'esterno:
 	- Bocca
@@ -238,8 +238,8 @@ Da notare è come questo tipo di epitelio abbia sempre funzione di proteiezione 
 ## Epitelio cilindrico pseudostratificato cigliato
 ![[Pasted image 20221211010919.png]]
 Queste sono cellule colonnari ciliate, alcune secernenti muco. 
-La loro caratteristica è quelal di avere cellule di varie forme che appaiono stratificate, ma, se viste attentamente, ogni cellula poggia sulla membrana basale (anche se con pochissima membrana plasmatica). 
-Le ciglia hanno funzione di intrappolare ed eliminare lo "sporoco", per questo il tipo di epitelio si trova in:
+La loro caratteristica è quella di avere cellule di varie forme che appaiono stratificate, ma, se viste attentamente, ogni cellula poggia sulla membrana basale (anche se con pochissima membrana plasmatica). 
+Le ciglia hanno funzione di intrappolare ed eliminare lo "sporco", per questo il tipo di epitelio si trova in:
 - Trachea
 - Albero bronchiale
 - Dotto deferente
@@ -297,7 +297,7 @@ Si noti come la tutte le fasi dette non avvengono separatamente, ma possono anch
   5. Ripristino tissutale
 - La fase di rimodellamento, infine, permette la cessazione di tutti i processi attivati durante la riparazione.
 Da notare è come questa riparazione del tessuto epiteliale può essere efficaciemente sfruttata per alcune terapie cellulari, come per la cura delle lesioni corneali:
-- Le celluel staminali epiteliali vengono prelevate dal "limbus, zona della cornea facilmente accessibile attraverso prelievo di 1-2 millimetri"
+- Le celluel staminali epiteliali vengono prelevate dal "limbus", zona della cornea facilmente accessibile attraverso prelievo di 1-2 millimetri
 	![[Pasted image 20221211145731.png]]
 - Le cellule vengono coltivate in vitro, così da formare un epitelio corneale
 	![[Pasted image 20221211145739.png]]

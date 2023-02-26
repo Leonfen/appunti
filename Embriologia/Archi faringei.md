@@ -4,14 +4,13 @@ Si è alla 3a settimana, durante la chiusura del tubo neruale, qui alcune cellul
 (Da ricordare è come l'EMT, ovvero la trasizione epitelio a mesenchima, rompe le giunzioni che si vengono a instaurare fra le singole cellule epiteliali per cambiare la morfologia delle stesse, rendendolo così dalla forma "allungata" e dandole dei "filopodi" per migrare)
 Il tubo neurale darà tutti i segnali per la migrazione di queste cellule, quali hanno 4 vie:
 ![[Pasted image 20221031160751.png]]
-- Cresta neurale cefalica: sarà in gradod i creare tutta la nostra faccia, ovvero il nostro "endocranio"
+- Cresta neurale cefalica: sarà in grado di creare tutta la nostra faccia, ovvero il nostro "endocranio"
 - Cresta neurale del tronco
 - Cresta neurale vagale e sacrale
 - Cresta neurale cardiaca: da notare è come parte del cuore, ovvero le cellule pacemaker, cellule in grado di creare un segnale elettrico, avranno allora origine neuronale. Qui le cellula hanno una migrazione ventrale
 		![[Pasted image 20221031160808.png]]
 Si può allora dire che tutta la muscolatura, la neuralazione e le ossa vengono allora a formarsi con l'azione coniugata delle cellule della cresta neurale e dei somiti. 
 Altro fattore da notare è come la parte cefalica abbia uno sviluppo maggiore di quella caudale
-La parte cefalica ha uno sviluppo maggiore di quella caudale
 Le cellule della cresta neurale sono ancora multipotenti, vista la loro capacità di produrre diversi tipi di tessuti come:
 - Cartilagine
 - Glia
@@ -27,7 +26,7 @@ L'apparato faringeo, o branchiale, va a formare numerosi e diversi organi e porz
 Il sistema faringeo è formato dalla sovrapposizione di anelli detti "archi" ciascuno derivante dai 3 foglietti:
 - Esternamente da ectoderna
 - mesoderma/mesenchima al centro
-- Edndoderma rivestimento interno. 
+- Endoderma rivestimento interno. 
 ognuno dei quali suddiviso da "solchi" puramente ectodermici; l'endoderma formerà internamente invece delle "tasche". 
 Questi solchi e tasche produrranno membrane branchiali di endoderma e ectoderma che mai entreranno in contatto visto il sottile strato di mesoderma che li divide. 
 In questo modo si avranno così 5 archi. 
@@ -50,12 +49,12 @@ Lo stomodeo, importantissimo per la formazione della mandibola, sarà posizionat
 ## Strutture derivanti
 Si trovano qui i placodi che si formano sull'ectoderma, si può quindi dire che gli abbozzi degli organi di senso hanno origine ectodermica. 
 Le strutture che deriveranno da ciascun arco sono numerose, il tutto è riassumibile:
-- I arco (o arco mandibolare). Quest'arco contiene un abbozzo cartilagineo: "la cartilagine del Meckel", arte di questa regredisce, dando però origine a ossificazione di tipo endocondrale, dando così orogine a due ossicini dell'orecchio medio:
+- I arco (o arco mandibolare). Quest'arco contiene un abbozzo cartilagineo: "la cartilagine del Meckel", parte di questa regredisce, dando però origine a ossificazione di tipo endocondrale, dando così origine a due ossicini dell'orecchio medio:
 	- Martello
 	- Incudine
   Le cellule mesenchimali che si portano intorno questa cartilagine adnranno contro a processo di ossificazione definito "ossificazione mantellare", dando così principalmente origine alle ossa della faccia, mandibola e mascella. 
   Dal mesenchima del primo arco derivano anche struttura come muscoli, tra i quali quelli masticatori. 
-  L'arco è inoltre innervato dal nervo trigemino e vascolarizzato dla I arco aortico
+  L'arco è inoltre innervato dal nervo trigemino e vascolarizzato dal I arco aortico
 - II arco (o arco ioideo): esso contiene la cartilagine del Reichert, dai quali deriveranno, per ossificazione endocontrale, l'ossicino della staffa, il processo stiloideo, le piccole corna e la porzione superiore dell'osso ioide. 
   Da esso deriveranno anche alcuni muscoli della faccia, muscoli mimici e alcuni muscoli del collo
   Esso è irrorato da un ramo aortico e innvervato dal nervo faciale
@@ -69,7 +68,7 @@ Le strutture che deriveranno da ciascun arco sono numerose, il tutto è riassumi
 ![[Pasted image 20221103161919.png]]
 ## Solchi faringei
 I solchi sono 4 e si formano dall'ectoderma che si ritrova fra gli archi. Il primo solco forma il condotto uditivo esterno e la porzione esterna della membrana del timpano. 
-Al di sotto della sua porzione esterna si strovano cellule mesenchimali provenienti dai primi due archi faringei, dalle quali si svilupperà poi il padiglione auricolare. 
+Al di sotto della sua porzione esterna si trovano cellule mesenchimali provenienti dai primi due archi faringei, dalle quali si svilupperà poi il padiglione auricolare. 
 Gli altri solchi non daranno luogo a nessuna formazione, quanto più ricoperti dal II arco nella 6a settimana, quando si accrescerà notavolmente e si sposterà fondendosi con le porzioni degli altri archi. 
 ![[Pasted image 20221105151758.png]]
 Durante questa espansione si verrà a formare una cavità detta "seno cervicale", che poi si oblitera. 
@@ -160,7 +159,7 @@ Durante tutti questi processi vi sarà lo spostamento in avanti degli abbozzi:
 - Uditivi: migreranno dal basso per trovarsi nella posizione definitiva
 Da notare è come la prima cosa che si vada a fondere siano i processi mandibolari, utili per sostenere la lingua in formazione. 
 ![[Pasted image 20221105155411.png]]
-La prima cosa che si fonde sono i processi mandibolari, per sostenere la lingua che si sta sviluppando. 
+
 
 ## Formazione del palato definitivo
 In origine lo stomodeo (o bocca primitiva) è rivestito da ectoderma esternamente e endoderma vicino all'intestino primitivo anteriore (o faringeo). Questo è quindi separato dall'intestino da una sottile membrana ecto-endodermica: la "membrana buccofaringea", che, fra il 24-26esimo giorno si perfora mettendo in comunicazione la cavità buccale con l'intestino faringeo.

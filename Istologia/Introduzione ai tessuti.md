@@ -14,7 +14,7 @@ La diversità morfologica (e quindi funzionale) è allora data dall'espressione 
 Questo processo viene denomiato come "differenziamento cellulare" o "istogenesi" ed è importantantissimo per la creazione dei diversi [[#Divisione dei vari tessuti|tessuti]] visti prima. 
 A partire dai tre [[TERZA SETTIMANA#Ectoderma, mesoderma e endoderma|foglietti embrionali]], si andranno così a creare le diverse cellule specializzate, finchè non si andrà a raggiungere la differenziazione massima, generalmente terminante con la cellula entrante in [[Ciclo cellulare e regolazione#Fase G1 - Fase G0|fase G0]] del ciclo cellulare. 
 Dal punto di vista del tessuto epiteliale, i tre diversi foglietti formeranno:
-- Ectoderma, che darà origine all'ectoderma
+- Ectoderma, che darà origine all'epitelio
 - Mesoderma, che si dividerà in:
 	- Mesotelio, tessuto che riveste le cavità sierose come:
 		- Peritoneo, cioè il doppio foglietto che riveste tutti gli organi addomino 
@@ -27,7 +27,7 @@ Dal punto di vista del tessuto epiteliale, i tre diversi foglietti formeranno:
 ![[Pasted image 20221208185107.png]]
 Questa grande differenziazione avviene attraverso degli speciali tipi di cellule definiti "staminali", cioè cellule in grado di dividersi e creare, alla fine del processo di differenziazione, altre cellule completamente diverse. 
 #### Caratteristiche delle cellule staminali
-Le loro caratteristich sono:
+Le loro caratteristiche sono:
 - Basso "rate proliferativo", le cellule staminali tendono cioè a proliferare con una velocità più lenta rispetto alle cellule non staminali
 - Capacità di differenziamento: esse sono in grado di dare origine ad almeno un tipo cellulare più differenziato
 - Capacità di autorinnovamento o "clonogenicità": le cellule staminali devono essere in grado di autoperpetuarsi, cioè di proliferare indefinitivamente originando cellule uguali a sè stesse. 
@@ -83,7 +83,7 @@ In caso di perdita di cellule staminali si stimolano una serie di segnali che co
 Qui, vengono stimolate cellule che, normalmente, non partecipano al rinnovamento del tessuto ma che in casi come questo vanno incontro ad auto-rinnovamento e differenziazione.
 Bisogna infatti dire che l'identità di una cellula staminale non è predeterminata, ma richiede proprio la presenza di questi tipi di segnali che possono essere di natura differente:
 - Molecole diffusibili presenti nei liquidi interstiziali o nel sangue
-- Contatto con latre cellule che si trovano nelle immediate vicinante delle cellule staminali, comprese altre cellule staminali e i tipi differenziati presenti nel tessuto
+- Contatto con altre cellule che si trovano nelle immediate vicinante delle cellule staminali, comprese altre cellule staminali e i tipi differenziati presenti nel tessuto
 - Particolari tipi e organizzazioni tridimensionali della matrice, comprese le proprietà fisico-meccaniche del tessuto
 Bisogna anche dire che la nicchia non solo ha funzione di preservare la capacità di autorinnovamento, ma svolge anche un ruolo di coordinazione dell'attività delle cellule staminali. 
 Un esempio lo si ha con l'epitelio intestinale: qui, le cellule della nicchia situante sul fondo della cripta, rilascia dei segnali di varia natura (tutti quelli detti sopra) che, se alterati, possono compromettere la funzionalità e l'attività delle cellule staminali. 

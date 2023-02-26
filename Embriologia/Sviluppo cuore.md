@@ -5,7 +5,7 @@ Nella legenda si nota come i due tubi endocardici mostrati nella [[Quarta settim
 Da tenere in mente è come il sangue arrivi qui già ossigenato, grazie alle vene vitelline provenienti dalla [[Placentazione|placenta]], per poi scorrere attraverso un flusso unidirezionale che rimarrà fino alla nascita. 
 Le due vene vitelline formeranno formeranno i due atri (posti in posizione cefalica) del cuore, anche se posizionate in zona caudale. 
 La parte centrale data da "seno venoso" e "tronco" andrà invece a formare dapprima un "ventricolo primitivo" che si segmenterà per formare due diverse camere e dividersi così in posizione caudale e cefalica. 
-Il sangue aortico primitivo si diramava per 
+
 Il sangue aortico primiitivo si diramava per portare le cose negli archi faringei e quindi arterie dorsali; questo viene inglobato dai ventricoli e dall'aorta da cui si diramano le arterie polmoniari. 
 # Cenni di anatomia del cuore 
 ![[Pasted image 20221113153056.png]]

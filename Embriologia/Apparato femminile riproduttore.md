@@ -16,17 +16,7 @@ L'apparato genitale femminile è formato da diverse componenti:
 	- Vagina, essa si estende dall'utero fino al vestibolo della vulva. Essa ha una zona a ph fortemente acido, così da prevenire infezioni batteriche
 	- Vulva. 
  Gli spermatozoi verrano depositati nel fondo della vagina. 
-### L'ovaio
-![[Pasted image 20221115102103.png]]
-L'ovaio risulta ricoperto da un epitelio monostratificato detto "epitelio germinativo", al di sotto del quale si trova uno strato connettivo: la "tunica albuginea".
-La zona centrale o "midollare" è costituita da tessuto connettivo in cui scorrono vasi e nervi; da notare è come allora la gonade femminile sia vascolarizzata a confronto di quella mascile: i gameti aploidi sono infatti riconosciute come cellule "self" dall'organismo, essendo queste sviluppatesi durante la fase embrionale. 
-Nella zona "corticale" (o periferica) sono invece presenti [[#Follicoli|follicoli]] a diversi stadi di sviluppo. 
-Da ricordare è inoltre come i mezzi di fissità dell'ovaio sono rappresentati da 4 legamenti:
-- Il legamento sospensore, o "lombo-ovarico"
-- Il legamento "utero-ovarico"
-- Il legamento "mesovarico"
-- Il legamento "tubo-ovarico"
-![[Pasted image 20221115102137.png]]
+
 ### Tube uterine, o di Falloppio
 ![[Pasted image 20221020190051.png]]
 Le "tube uterine" mostrate in figura sono annessi embrionali estremamente muscolosi e in grado di produrre una forte contrazione grazie all'aumento del progesterone: esse hanno allora il compito di avvicinare le "fimbrie" all'ovaio, far risalire gli spermatozoi nell'utero e far rotolare l'embrione nel luogo dell'[[Fecondazione e prima settimana|impianto]]
@@ -91,7 +81,7 @@ La gametogenesi nell'uomo e nella donna ha inizio nel periodo embrionale, durant
 ### Follicoli primordiali
 Da sapere è come siano presenti dapprima gli "ovogoni" che, dopo una serie di divisioni mitotiche, inizino la differenziazione in "ovociti primari". 
 Da qui inizieranno a essere circondati da uno strato di cellule somatiche appiattite: le "cellule follicolari", formando così i "follicoli primordiali". 
-Il numero dei follicoli primordiali andrà a diminuire esponenzialmente nel tempo attraverso un processo chiaamto "atresia"; questa discriminante della sopravvivenza + dipesa da adeguati livelli ormonali di "gonadotropine", "FSH" e "LH", quali raggiungono livelli abbastanza alti solo alla pubertà, quando l'ipofisi diventerà completamente funzionale.
+Il numero dei follicoli primordiali andrà a diminuire esponenzialmente nel tempo attraverso un processo chiaamto "atresia"; questa discriminante della sopravvivenza è dipesa da adeguati livelli ormonali di "gonadotropine", "FSH" e "LH", quali raggiungono livelli abbastanza alti solo alla pubertà, quando l'ipofisi diventerà completamente funzionale.
 ![[Pasted image 20221115102726.png]]
 A questo punto infatti i follicoli della donna subiranno delle "forature" alla capsula connettivale del follicolo: un esempio è dato dalla sezione istologica di un follicolo di donna in età prepuberale (che si presenta completamente liscio) e il follicolo di una donna in età puberale (che si presenta con forature e cicatrizioni). 
 Il controllo ormanle servirà allora a ricucire la ferita a livello dello stroma, che, visto il grandissimo afflusso di ormoni, è anche soggetto a carcinomi epiteliali già verso i 25 anni di età. 
@@ -114,7 +104,7 @@ Nella donna la "follicologenesi" è un processo durante il quale la crescita e l
 Ricordimao come i [[#Follicoli primordiali]] possano rimanere in stato quiescente per molti anni, tuttavia, ogni giorno un numero di follicoli primordiali è indotto a trasformarsi in "follicoli primari" attraverso il grosso aumento nei livelli di FSH. 
 Qui:
 - le cellule che compongono l'ovocita inizieranno allora a proliferare accrescendo il volume della struttura
-- Le cellule che compongono il follicolo diventeranno cubiche e circonderanno compeltamente l'ovocita 
+- Le cellule che compongono il follicolo diventeranno cubiche e circonderanno compeltamente l'ovocita, prendendo nome di granulosa
 - Entrameb le strutture inizieranno a secernere delle proteine che formeranno una barriera: "la zona pellucida"; essa dovrà poi essere penetrata dagli [[Apparato riproduttore maschile e spermatogenesi#^581206|spermatozoi]] attraverso un'apposita reazione "agrosomale". 
 Le cellule follicolari si metteranno poi in comunicazione con "l'ovolemma" (il citosol dell'ovocita) e formeranno fra loro giunzioni di tipo gap attraverso quali verranno distribuite sostanze nutritive e informazioni.
 ![[Pasted image 20221115102812.png]]
@@ -143,7 +133,7 @@ La maggior parte delle cellule follicolari formerà poi la parte più stratifica
 ![[Pasted image 20221020181746.png]]
 L'ipofisi produrrà tantissima FSH fino a saturare i recettori della cellula della granulosa, quali indurranno una grandissima proliferazione delle cellula della granulosa. 
 In questo modo dai 3 ai 10 follicoli antrali ogni mese verranno stimolati dalla saturazione dei recettori dell'FSH a progredire in questo sviluppo, ma solo uno di questo diventerà allora questo "follicolo dominante". (Gli altri serviranno probabilmente a preparare l'ambiente dello sviluppo per il follicolo dominante, avvicinando i vasi e le sostanze nutritive utili allo sviluppo dello stesso). 
-Sotto l'azione dell'FSH questo follicolo diventerà poi una ghiandola endocrina in grado di severnere una grande quantità di estrongeni attraverso un cooperazione fra cellule della teca interna e della granulosa. 
+Sotto l'azione dell'FSH questo follicolo diventerà poi una ghiandola endocrina in grado di secernere una grande quantità di estrongeni attraverso un cooperazione fra cellule della teca interna e della granulosa. 
 Le cellule della teca esterna, stimolate dall'LH, produrranno androgeni come testoterone che verranno convertite in estrogeni dalle cellule della granulosa stimolate dall'FSH a produrre l'aromatasi. 
 Gli estrogeni hanno un ruolo importante, questi infatti agisono sulle stesse cellule della granulosa insieme all'FSH per attivare i recettori dell'LH sulla membrana di queste cellule. 
 Quando queste, inoltre, hanno raggiunto una certa concentrazione, agiscono sull'asse ipotalamo-ipofisario provocando il rilascio di gonadotropine e LH che innescano così la fase ovulatoria. 

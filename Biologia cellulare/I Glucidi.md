@@ -10,9 +10,10 @@ Le funzioni dei carboidrati sono diverse:
 A seconda del numero di unità ripetitive che compongono la molecola essa si può classificare in:
 - [[#Monosaccaridi]]: formata da una singola unità, fra questi si trovano il glucosio, il fruttosio e il galattosio
 - [[#Oligosaccaridi]], formata da più unità ripetitive (di solito da 2 a 9)
+	- Disaccaride, formate da due unità
+	- Trisaccaride, formate da tre unità
 - [[#Polisaccaridi]], formate da più unità ripetitive (di solito 10 o più)
-- Disaccaride, formate da due unità
-- Trisaccaride, formate da tre unità
+
 ### Complessità
 Questi si distinguono in:
 - Carobidrati semplici ([[#Monosaccaridi]] e [[#Disaccaridi]])
@@ -38,28 +39,29 @@ Anche se questi possono essere rappresentati tramite formula lineare, si ritrova
 In questo tipo di struttura ad anello si nota come l'ossigeno del gruppo ossidrile del penultimo atomo di carbonio si lega, chiudendo l'anello, al carbonio del gruppo carbonilico.
 #### Distinzione
 Dal punto di vista chimico, i monosaccaridi possono distinguersi in due macrocategorie: 
-- Zuccheri aldeidici, quali hanno un gruppo carbonilico terminale
+- Zuccheri aldeidici, quali hanno un gruppo carbonilico terminale (si possono quindi trovare solo alle estremità)
 - Zuccheri chetonici, quali hanno un gruppo carbonilico interno
 Le aldeidi e i chetoni sono infatti composti contenenti il gruppo carbonilico, con la differenza che il gruppo carbonilico dell'aldeide è legato almeno a un idrogeno, mentre quello del chetone è legato sempre a due atomi di carbonio. 
 ##### Numerazione della catena carboniosa
 ![[Pasted image 20221122224624.png]]
 Per identificare perfettamente la posizione dei vari atomi nella molecola si devono rispettare le leggi chimica della "numerazione della catena carboniosa". 
-Questi si devono quidni iniziare a contare a partire dell'estermità più vicina al gruppo aldeidico (quindi dell'aldozucchero) o chetonico (quindi chetozucchero), in modo di attribuire al carbonio del gruppo carbossilico il minor numero possibile. 
+Questi si devono quidni iniziare a contare a partire dell'estermità più vicina al gruppo aldeidico (quindi dell'aldozucchero) o chetonico (quindi chetozucchero), in modo da attribuire al carbonio del gruppo carbossilico il minor numero possibile. 
 La classificazione totale di un monosaccaride si può quindi svolgere attraverso il numero degli atomi di carbonio in esso contenuti, quali danno il nome di triosi (a 3 atomi di carbonio), tetrosi (a 4 atomi di carbonio) etc etc; legati al gruppo funzionale che lo struttura. Ad esempio, il glucosio è un "aldoesoso" (cioè un monosaccaride costituito da 6 atomi di carbonio contenenti un gruppo carbossilico legato ad almeno un idrogeno). 
 ##### Alpha e beta
 ![[Pasted image 20221122224903.png]]
 In base all'orientazione spaziale del gruppo carbossilico legato al carbonio 1 abbiamo due forme di glucosio: alpha (con il gruppo ossidrile del primo carbonio rivolto verso il basso), beta (con il gruppo ossidrile del primo carbonio rivolto verso l'alto). 
+NB, il quarto carbonio non viene intaccato; a cambiare è unicamente il gruppo ossidrile che compone il gruppo carbossile.
 #### Chiralità
 ![[Pasted image 20221122225542.png]]
 Per spiegare la chiralità dei monosaccaridi si può prendere come riferimento essenziale il glucosio, quale può essere rappresentato in proiezione di Fisher (forma lineare), o quella di Haworth (ad anello). 
 La prima è quindi un modo di rappresentare la molecola chirale in un piano che contenga almeno un carbonio asimmetrico: secondo tale proiezione si immagine che i gruppi idrogeno e ossidrile si proiettino leggerelmente al di fuori del foglio. 
 In stereochimica, invece, la proiezione di Haworth è un modo di rappresentare le molecole di monosaccaridi attraverso una prospettiva tridimensionale semplificata: questa indica sia la forma ad anello che la relazione spaziale fra gli atomi di carbonio
 ![[Pasted image 20221122230045.png]]
-E' allora possibile assegnare la configurazione D- o L- a tutti i monosaccaridi, guardando semplicemente la posizone del gruppo ossidrile rispetto al carbonio stereogenico, cio al carbonio asimmetrico più lontano dal gruppo aldeidico o chetonico. 
+E' allora possibile assegnare la configurazione D- o L- a tutti i monosaccaridi, guardando semplicemente la posizone del gruppo ossidrile rispetto al carbonio stereogenico, cioè al carbonio asimmetrico più lontano dal gruppo aldeidico o chetonico. 
 In una proiezione lineare (di Fischer), se il gruppo ossidrile è a destra della moleocla lo zucchero ha configurazione D, altrimenti ha configurazione L. 
 Da notare è come gli zuccheri di serie D siano quelli presenti normalmente nelle sostanze biologiche (forse per favorimento energetico), pertanto molte volte la D viene omessa.
 ![[Pasted image 20221122230109.png]]
-Da notare è come un esoso non deve per forza formare un anello composto da 6 atomi di carbonio, ad esempio, il fruttosio va a formare un anello a 5 vertici con un carbonio all'esterno: questo significa che alcini esosi hanno isomeri strutturali con stesso tipo di atomi, ma disposti diversamente nello spazio. 
+Da notare è come un esoso non deve per forza formare un anello composto da 6 atomi di carbonio, ad esempio, il fruttosio va a formare un anello a 5 vertici con un carbonio all'esterno: questo significa che alcuni esosi hanno isomeri strutturali con stesso tipo di atomi, ma disposti diversamente nello spazio. 
 ### Disaccaridi
 ![[Pasted image 20221122230436.png]]
 Questi sono la classe più semplice, anche se più importante degli oligosaccaridi. 
@@ -78,7 +80,7 @@ Il legame beta-glicosidico comporta invece una forma lineare e si trova allora n
 #### Esempi di disaccaridi
 ##### Saccarosio
 ![[Pasted image 20221122233002.png]]
-Lo zucchero che si usa normalmente in cucina non è altro che un disaccaride chiamato saccarosio, formato da glucosio e fruttosio, legati insieme tramite legame alpha alpha-1-2-glicosidico. 
+Lo zucchero che si usa normalmente in cucina non è altro che un disaccaride chiamato saccarosio, formato da glucosio e fruttosio, legati insieme tramite legame alpha-1-2-glicosidico. 
 ##### Maltosio
 ![[Pasted image 20221122233307.png]]
 Il maltosio è un disaccaride formato da un legame alpha-1-4-glicosidico che avviene fra due atomi di glucosio. Questo è difficile da trovare in natura, visto che si trova nei semi durante la loro fase di germinazione. 

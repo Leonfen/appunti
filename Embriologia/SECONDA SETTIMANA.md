@@ -23,7 +23,7 @@ Al 9o giorno ci si ritrova allora con la blastocisti quasi interamente circondat
 NB, sono le cellule del citotrofoblasto a proliferare attivamente, quelle del sincizio nascono unicamente dalla fusione delle cellule del citotrofoblasto; per questo le cellule che compongono il sincizio sono polinucleate. 
 
 ### Erosione del sinciziotrofoblasto
-Il sinciziotrofoblasto inizierà nella prima fase d'impianto a secernere nella parete dell'endometrio attraverso la creazione di molecole atte a erodere la mucosa uterina, vi sarà infatti al produzione di sostanze come "metalloproteasi" o "attivatore del plasminogeno urochinasi". 
+Il sinciziotrofoblasto inizierà nella prima fase d'impianto a secernere nella parete dell'endometrio molecole atte a erodere la mucosa uterina, vi sarà infatti al produzione di sostanze come "metalloproteasi" o "attivatore del plasminogeno urochinasi". 
 Quest'azione di erosione si estenderà anche fino ai capillari, bagnando così i tessuti dell'embrione di sangue materno; l'embrione continuerà quest'azione fino al 10o giorno, fin quando sarà completamente immerso nello stroma dell'utero. 
 Si formerà adesso il "tappo di coagulazione" nella regione scoperta nel polo abembrionale, con funzione di sigillo, mentre la mucosa uterina si richiude sopra l'impianto attraverso la "mucosa capsulare"
 ![[Pasted image 20221023151312.png]]

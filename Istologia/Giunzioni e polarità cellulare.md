@@ -12,7 +12,7 @@ Le caratteristiche del tessuto epiteliale sono:
 	- L'ambiente esterno (epidermide)
 	- Verso una cavità 
 	- Verso un condotto (come un vaso o un dotto). 
-Gli epiteli sono inoltre specializzati funzionalmente in base alle loro locazioni (diverso luogo, diversa funzione); si possono chiandi dividere anche in:
+Gli epiteli sono inoltre specializzati funzionalmente in base alle loro locazioni (diverso luogo, diversa funzione); si possono dividere anche in:
 - Epiteli di rivestimento
 - Epiteli ghiandolari esocrini
 - Epiteli ghiandolari endocrini

@@ -119,7 +119,7 @@ Mentre la mitosi e la meiosi II possono durare qualche ora, è da dire che la me
 L'assortimento indipendente degli omologhi paterni e metarni durante la meiosi produce il 2^n gameti aploidi in un organismo di n cromosomi (se n fosse 3 allora si potrebbero andare a formare 2^3 gameti diversi). 
 Durante la profase I la ricombianzione scambia segmenti di DNA tra cromosomi omologhi, e quindi riassortisce i geni su singoli cromosomi.
 ![[Pasted image 20221215184015.png]]
-Si nota quindi come ma meiosi, vista la sua ricombinazinoe dell'assetto genetico, contribuisce di molto alla variabilità mediante:
+Si nota quindi come la meiosi, vista la sua ricombinazinoe dell'assetto genetico, contribuisce di molto alla variabilità mediante:
 - Assortimento cromosomico indipendente (da ricordare è infatti come l'orientamento dei cromosomi durante la metafase I è casuale); le combinazioni fra cromosomi paterni e meterni sono allora sempre diverse
 - Crossing-over, e quindi nuove combinazioni di geni. 
 ![[Pasted image 20221215184239.png]]
@@ -157,7 +157,7 @@ Questi ponti hanno funzione di permettere il passaggio fra le varie cellule, olt
 ![[Pasted image 20221215191926.png]]
 1. Spermatozgoni di tipo Ascuro (AD), cellule di riserva, si trasformano per mitosi in spermatogoni di tipo Achiaro
 2. Gli spermatogoni di tipo Achiaro (AP) si trasformano, per mitosi, in spermatogoni di tipo B
-3. Gli spermatogoni di tipo B si trasformano, per meiosi I in spermatociti priamari (anche se continuano con la mitosi per altre 3 linee cellulari prima di entrare in meiosi)
+3. Gli spermatogoni di tipo B si trasformano, per meiosi I, in spermatociti priamari (anche se continuano con la mitosi per altre 3 linee cellulari prima di entrare in meiosi)
 4. Lo spermatocita primario entra in preleptotene
 5. Lo spermatocita primario entra in leptotene
 6. Lo spermatocita primario entra in zigotene
@@ -189,7 +189,7 @@ Questo viene secreto in maniera pulsatile e si lega in maniera specifica sui rec
 Si noti quindi come la spermatogenesi dipenda completamente dalla giusta funzionalità dell'asse ipotalamo-ipofisario; infatti, gli ormoni LH e FSH hanno diretto coinvolgimento sulle cellule del Leydig, così da produrre o meno testosterone (e sviluppare o meno la spermatogenesi).
 ##### Meccanismo dell'LH sulla regolazione
 ![[Pasted image 20221215221656.png]]
-La produzione di testosterone è direttamente legata alla produzione di testosterone: l'ormone riconosce infatit un recettore specifico la cui attivazione innesca un pathaway mediato da [[Proteine recettoriali#Recettori accoppiati a proteine G|protiene G]] che porta così all'attivazione di [[Proteine recettoriali#Via di trasduzione dell'AMPciclico come secondo messaggero|AMP ciclico]] e allora all'attivazione di fattori di trascrizione che aumentano la produzione degli enzimi della "steroidogenesi", deputati alla conversione del colesterolo palsmatico che la cellula del Leydig assorbe dal circolo, per poi trasformarlo in testosterone. 
+La produzione di testosterone è direttamente legata alla produzione di LH: l'ormone riconosce infatit un recettore specifico la cui attivazione innesca un pathaway mediato da [[Proteine recettoriali#Recettori accoppiati a proteine G|protiene G]] che porta così all'attivazione di [[Proteine recettoriali#Via di trasduzione dell'AMPciclico come secondo messaggero|AMP ciclico]] e allora all'attivazione di fattori di trascrizione che aumentano la produzione degli enzimi della "steroidogenesi", deputati alla conversione del colesterolo palsmatico che la cellula del Leydig assorbe dal circolo, per poi trasformarlo in testosterone. 
 ##### Meccanismo dell'FSH sulla regolazione
 ![[Pasted image 20221215222005.png]]
 L'FSH, invece, riconsoce recettori specifici posti sulle cellule del Sertoli e, con meccanismi ancora mediati da proteine G, crea diversi prodotti cellulari che hanno azione trofica e regolatoria nei confronti delle cellule germinali. 

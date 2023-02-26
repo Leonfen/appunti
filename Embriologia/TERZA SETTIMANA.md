@@ -49,6 +49,7 @@ Ci sono due ondate di invaginazioni:
 	- Placca precordale, questa è la componente endodermica della futura membrana bucco-faringea e la regione che forma l'AVE. 
 	  Essa rappresenta inoltre il limite di estensione del processo notocordale. 
 	  Qui si formerà inoltre la futura bocca
+	  NB, si nota qui anche al formazione della membrana cloacale (dove si formerà l'ano)
 	- Processo notocordale, questo è un cordone cellulare mesodermico che origina dal nodo primitivo e darà origine alla [[#Notocorda|notocorda]]
 	![[Pasted image 20221025220145.png]]
 - La seconda ondata darà darà a una lamina di cellule che si interporrà fra l'endoderma definitivo e l'epiblasto. 
@@ -209,7 +210,7 @@ Verso il 20esimo giorno, insieme alla chiusura del tubo neurale, si formerà una
 ## Villi corionici
 ![[Pasted image 20221027193913.png]]
 Alla fine della 4a settimana non ci saranno più solo scambi per semplice diffusione, ma si formeranno queste ramificazioni per aumentare la superficie e aiutare lo scambio (villi corionici). 
-Lo scambio sarà allo strutturato anche con dei recettori. 
+Lo scambio sarà allora strutturato anche con dei recettori. 
 Da notare è come il sinciziotrofoblasto e il citotrofoblasto si compattino e si uniscano moltissimo fra loro, tanto da creare una sottilissima memrbana in grado di regolare i vari scambi, che evverranno sia per diffusione che in maniera attiva. 
 Nella seconda immagine c'è quindi il citotrofoblasto ramificiato nelle lacune insieme ai vasi che inizieranno lo scambio gassoso. La sottile membrana di sincizio e citotrofoblasto, avrà invece la funzione di dividere il sangue della madre dal sangue dell'embrione, che ha iniziato la sua ematopoiesi nel sacco vitellino.  
 Questo sistema si organizzerà maggiormente nella zona del cordone ombelicale dove avverranno gli scambi. 

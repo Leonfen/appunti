@@ -5,7 +5,7 @@ L'apparato locomotore è composto da:
 - Sistema muscolare scheletrico
 Che nel loro insieme permetto i movimenti del corpo. 
 Tutte le componenti dell'apparato derivano in larga misura dal "tessuno mesenchimale" o "mesenchima" che origina dal mesoderma parassiale ([[Quarta settimana di sviluppo#Mesoderma parassiale]]). e dal mesoderma laterale ([[Quarta settimana di sviluppo#Mesoderma laterale]]). 
-Una importante eccezzione è data invece dai muscoli e dalle ossa della faccia e collo, formatesi dall'ectomesenchima, cioè dal mesenchima derivante dalle creste neurali, di origini neuro-ectodermica ([[TERZA SETTIMANA#Cresta neurale]]), da ricordare sono infatti i 5 archi branchiali che costituiscono la struttura ([[Archi faringei]]). 
+Una importante eccezione è data invece dai muscoli e dalle ossa della faccia e collo, formatesi dall'ectomesenchima, cioè dal mesenchima derivante dalle creste neurali, di origini neuro-ectodermica ([[TERZA SETTIMANA#Cresta neurale]]), da ricordare sono infatti i 5 archi branchiali che costituiscono la struttura ([[Archi faringei]]). 
 
 # Apparato scheletrico
 ![[Pasted image 20221107094123.png]]
@@ -42,7 +42,7 @@ Notiamo brevemente come questi si cavitino, riconoscendo una parte dorsale e una
 Tutte queste migrazioni e movimenti verranno controllati dalla notocorda, quale secernerà fattori come "bonemarrow" e quelli della famiglia "pax". 
 La parte superiore darà vita al "dermamiotomo", che darà vita al derma dorsale
 I due lati daranno origine al miotomo, quale si dividerà in "epiassiale" (sopra l'asse) e "ipoassile (sopra l'asse)"
-Le ossa del cranio abbiamo proprio deposizione di oso immaturo,a cneh se rigindo, questo deve però intanto creare questa calotta per l'encefalo che si svilupa. 
+Le ossa del cranio abbiamo proprio deposizione di oso immaturo, anche se rigido, questo deve però intanto creare questa calotta per l'encefalo che si svilupa. 
 La migrazione dello sclerotomo, la parte ventrlae, darà invece origine allo scheletro assile. 
 ### Cranio
 ![[Pasted image 20221109142008.png]]
@@ -74,7 +74,6 @@ La continua modifica delle suture e il rimodellamento delle ossa è un sistema f
 La produzione, l'accrescimento e la successiva ossificazione della cartilagine è data da una  serie di segnali per la rimodellizzazione e segnalazione; si nota una grandissima differenza fra la specie umana e gli altri mammiferi per l'apparato della fonazione: qui infattti gli essere umani hanno un'ossificazione della cartilagine molto veloce, così da poter proteggere queste strutture. 
 Per un chiarimento della maturazione dei somiti e del sistema molecolare è bene andare a rivedere [[Quarta settimana di sviluppo#Meccanismo clock wawe-front]].
 Si vede il condocranio con la parte frontale tutta di origine della cresta neurale e poi il forame magno dove si innnesta la colonna.  
-con poi l'inzio
 ## Resto dello scheletro assile
 ### Ripresa notocorda
 La maggior parte delle ossa dello scheletro assile si forma sotto forma di cartilagine che, a seguito di processi di ossificazinoe indiretta e diretta, verranno sostituite da tessuto osseo. 

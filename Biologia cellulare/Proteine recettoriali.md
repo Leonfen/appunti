@@ -6,7 +6,7 @@ Ricordiamo che le [[Struttura e funzione della membrana plasmatica#Funzioni|funz
 - Comunicazione cellula-cellula
 Questi tipi di proteine riescono a riconscere e intepretare i segnali extracellulari, elaborando una risposta che può modificare il metabolismo e l'espressione genica; questo è possibile grazie a
 - Struttura del "recettore"
-- Trasduzione del segnale attivata dalla rezione ligando-recettore (quasi simile a un telefono che, ricevendo un segnale tramite onda radio, converte le informazioni ricevute in sonoro così da poter effettuare la chiamata)
+- Trasduzione del segnale attivata dalla reazione ligando-recettore (quasi simile a un telefono che, ricevendo un segnale tramite onda radio, converte le informazioni ricevute in sonoro così da poter effettuare la chiamata)
 ![[Pasted image 20221129100013.png]]
 La risposta cellulare specifica può così essere attivata dalla presenza di:
 - Mediatori chimici, come ormoni o altri tipi di molecole
@@ -65,8 +65,8 @@ Le molecole segnale possono dividersi in due nature:
 	- Acido lisofosfatico
 	- Ormoni steroidei
 	- Endocannabinoidi
-I primi tipi di molecole agiscono penetrando all'interno della cellula
-Le seconde restano invece sulla superficie cellulare e inducono variazioni intracellulari attraverso un effetto indiretto
+I secondi tipi di molecole agiscono penetrando all'interno della cellula
+Le prime restano invece sulla superficie cellulare e inducono variazioni intracellulari attraverso un effetto indiretto
 In entrambi i casi i messaggeri devono però interagire prima con specifici recettori proteici espressi dalle cellule bersaglio
 ## Recettori cellulari
 Questi tipi di molecole a struttura proteica sono in grado di legare in maniera specifica un ligando e possono dividersi in:
@@ -100,7 +100,6 @@ L'interruttore si disattiva successivamente tramite proteine fosfatasi.
 In un altra classe l'interruttore è invece attivato attraverso il legame col GTP:
 - Quando un proteina si va a legare col GTP si attiva (attraverso i fattori di scambio del nucleotide guanina chiamato "GEF") 
 - Quando al legame col GTP si sostituisce il GDP la proteina si inattiva (attraverso porteine che attivano la GTPasi, quali stimolano l'idrolisi del GTP in GDP; "GAP"). 
-
 ### Recettori di superficie
 ![[Pasted image 20221129152925.png]]
 Questo tipo di recettori sono a loro volta suddivisibili in:
@@ -192,7 +191,7 @@ Questa fosforila la coda carbossiterminale del recettore su residui multipli, cr
 ![[Pasted image 20221129213747.png]]
 A fenomeno della beta arrestina può poi seguire un rapido sequestro nel compratimento vescicolare adiacente alla membrana plasmatica (internalizzazione). 
 Dove potrebbero subire un processo di degradazione che determina una riduzione del contenuto dei recettori nella cellula (downregolazione). 
-E anche possiible che i recettori vengano defosforilati nelle vescicole e successivamente riciclati sulle membrane. 
+E' anche possibile che i recettori vengano defosforilati nelle vescicole e successivamente riciclati sulle membrane. 
 ![[Pasted image 20221129214520.png]]
 Per esempio la tossina del batterio del colera altera la proteina Gs rendendo impossibile l'inattivazione dell'adenilato ciclasi, producendo così un massivo passaggio di acqua dal sangue al lume intestinale, creando così la tipica diarrrea del colera (il GTP della proteina G-alpha è sempre presente, senza mai disattivare la subunità).
 ![[Pasted image 20221129214938.png]]
@@ -212,7 +211,7 @@ Qui avverrà allora la scissione PIP2 in InsP3:
   - Secrezione proteica
   - Transcrizione genica
 - Inositolo 1,4,5-trifosfato (InsP3 o IP3), quale si diffonderà nel citosol innescano così la liberazione di ioni calcio dal reticolo endoplasmatico attraverso l'apertura di specifici canali per il calcio contenuti nella membrana dello stesso organello. 
-  Il calcio si riversa così nel citosol e, insieme al dialglicerolo, contribuirà all'atticazione dell'enzima PKC (proteina chinasi C). 
+  Il calcio si riversa così nel citosol e, insieme al dialglicerolo, contribuirà all'attaccamento dell'enzima PKC (proteina chinasi C). 
 	![[Pasted image 20221129222624.png]]
 	Da notare è come all'uamento dell'angiotensina II, quale stimola la formazione di IP3, aumenti la concentrazione di calcio per il motivo spiegato sopra. 
 La PKC a sua volta fosforila un gruppo di proteine bersaglio, prolungando ancora più il segnale. 
@@ -266,8 +265,8 @@ Questo tipo di recettori hanno:
 - Segmento intermmebranoso
 - Parte intracellulare con attività tirosina chinasica
 - Coda citosolica, contenente residui di tirosina
-Il legame con il ligando EGf determina la dimerizzazione dei recettori e in seguito la fosforilazione incrociata dei residui amminoacidici di tirosina; quale prende il nome di "atofosforilazione"
-![[Pasted image 20221129224558.png]]
+Il legame con il ligando EGf determina la dimerizzazione dei recettori e in seguito la fosforilazione incrociata dei residui amminoacidici di tirosina; quale prende il nome di "autofosforilazione"
+
 ###### Attivazione dei recettori con attività tirosina chinasica
 L'autofosforilazione in tirosina determina il reclutamento di proteine citosoliche che si legano a livello dei residui di tirosina fosforilati e alcuni amminoacidi vicini
 Queste proteine possiedono un dominio SH2 (dominio di omologia 2 della proteina Src). 
@@ -292,8 +291,8 @@ Per attivare la Ras bisogna allora che:
 - Attivare la SOS che stimola il rilascio di GDP e il legame della Ras con il GTP. 
 ###### Risultato finale della Ras
 ![[Pasted image 20221129231349.png]]
-Una proteina Ras attiva, a sua volta, un modoulo di segnlazione basato su tre proteina chinasi che trasmettono il segnale. 
-L'utlima di queste, la "MAP chinasi", fosforila ulteriori protiene di segnalazione o effettrici, all'interno della cellula andando così ad variare l'attività di specifiche proteine o variare l'epsressione di specifici geni.
+Una proteina Ras attiva, a sua volta, crea un modulo di segnlazione basato su tre proteina chinasi che trasmettono il segnale. 
+L'utlima di queste, la "MAP chinasi", fosforila ulteriori protiene di segnalazione o effettrici, all'interno della cellula; andando così ad variare l'attività di specifiche proteine o variare l'epsressione di specifici geni.
 ![[Pasted image 20221129231544.png]]
 Altra porteine che si può mediare è la Pi 3 chinasi, quale può fosforilare un fosfoinositide. 
 Questo attrae proteine di segnlazione intracellulari dotate di uno specifico dominio; ad esempio, l'Akt, è una proteina chinasi che viene attivata presso la membrana dalla fosforilazione mediata da altre due proteina chinasi
@@ -336,7 +335,7 @@ Si vede quindi come le caratteristiche generali delle vie di trasduzione del seg
 #### Difetti della trasduzione del segnale
 Da qui si capisce allora come i recettori siano importantissimi, se infatti una cellula esprime recettori mutati la sua trasmissione del segnale è gravemente compromessa. 
 Un esempio può essere il recettore delle FGF. 
-Se questo è infatti mutato si determina l'impossibilità del processo di [[#Attivazione dei recettori con attività tirosina chinasica|autofosforilazione]], quale interrompe così la trasmissione del segnale.. 
+Se questo è infatti mutato si determina l'impossibilità del processo di [[#Attivazione dei recettori con attività tirosina chinasica|autofosforilazione]], quale interrompe così la trasmissione del segnale.
 Esempio lo si può vedere proprio nell'embrione di una rana noramle e di una rana mutata messe a confronto. 
 ![[Pasted image 20221129233432.png]]
 #### Recettore Notch
@@ -369,7 +368,7 @@ Da notare è però come questo non è il solo meccanismo d'azione scoperto, con 
 Si è visto quindi come alcuni recettori presentano meccanismi di funzione diverso. 
 - Alcuni ormoni lipofili possono raggiungere direttamente il nucleo, interagendoo così col recettore specifico. 
 - In altri casi il ligando può essere il risultato del prodotto del metabolimsmo cellulare che ha operato trasformando un precursore. 
-- Altri recettori, una volta attiva dal ligando, possono "eterodimezzare " con altri recettori appartenenti alla stessa famiglia. 
+- Altri recettori, una volta attiva dal ligando, possono "eterodimezzare" con altri recettori appartenenti alla stessa famiglia. 
 - Altri recettori nucleari possono anche essere attivati in maniera indipendente dal ligando. Il recettore può infatti essere attivato attraversi processi di fosforilazione, attivando così il recettore.
 - Lo stesso recettore può inoltre essere attivata in maniera ligando-dipendente e anche ligando-indipendente da un altro pathway e, insieme, legarsi per modificare così il gene. 
 #### Regolazione dei coattivatori e dei corepressori

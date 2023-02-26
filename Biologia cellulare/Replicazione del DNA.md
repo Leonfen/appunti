@@ -1,7 +1,7 @@
 # Meccanismo di replicazione del DNA
 ![[Pasted image 20221203151916.png]]
 Si vede nella figura il meccanismo che porta la duplicazione del DNA all'interno della cellula, evento propedeutico per la duplicazione cellulare. 
-Da ricordare è quindi la [[Acidi nucleici e lipidi|la struttura del dna]], il meccanismo di replicazione (o duplicazione) del DNA è infatti il meccanismo per il quale viene prodotta una copia del DNA cellulare. 
+Da ricordare è quindi la [[Acidi nucleici e lipidi|la struttura del dna]]; il meccanismo di replicazione (o duplicazione) del DNA è infatti il meccanismo per il quale viene prodotta una copia del DNA cellulare. 
 Ogni volta che una cellula si divide, l'intero genoma, per passare alla progenie, deve essere duplicato generando nuovi filamenti. 
 ![[Pasted image 20221203152231.png]]
 ## Ciclo cellulare
@@ -13,7 +13,7 @@ La duplicazione non è però che una parte del ciclo cellulare, quale si divide 
 Da notare è come le cellule che non si dividono escono dal normale ciclo cellulare entrando nella fase di G0 (in questo modo la loro duplicazione si arresta, un esempio di questo sono le cellule nervose o le cellule ciliate)
 ![[Pasted image 20221203152708.png]]
 ### Replicazione del DNA
-La replicazione del DNA in procarioti ed eucarioti avviene mediante meccanismo "semiconservativo", mediante il qulae due fialmenti di DNA a doppia elica sono wseparati e nuovi filamenti complementari sono invece sintetizzati sullo stampo di entrambe le eliche parentali. 
+La replicazione del DNA in procarioti ed eucarioti avviene mediante meccanismo "semiconservativo", mediante il qulae due fialmenti di DNA a doppia elica sono separati e nuovi filamenti complementari sono invece sintetizzati sullo stampo di entrambe le eliche parentali. 
 Questo modello "semiconservativo" di replicazione fu presentato da Watson e Crick nel 1953
 ![[Pasted image 20221203152958.png]]
 #### Confema dell'ipotesi semiconservativa degli studi di Meselson e Stahl
@@ -23,7 +23,7 @@ I due scienziati proposero tre diverse possibilità rispetto alla duplicazione d
 	![[Pasted image 20221203153413.png]]
 - Modello conservativo: questo modello manterrebbe integro il doppio filamento originario, generando così una seconda doppia elica completamente nuova
 	![[Pasted image 20221203153422.png]]
-- Modello dispersivo: questo modelllo produrrebbe due molecole i cui filamenti sarebbero costituiti da frammenti di DNA vecchio e niosintetizzati dispersi nelle due doppie eliche createsi. 
+- Modello dispersivo: questo modelllo produrrebbe due molecole i cui filamenti sarebbero costituiti da frammenti di DNA vecchio e neosintetizzati dispersi in eguale concentrazioni nelle due doppie eliche createsi. 
 	![[Pasted image 20221203153430.png]]
 Per distinguere il metodo di replicazione si usò allora la tecnica della centrifugazione all'equlibrio di densità per analizzare il DNA ottenuto da batteri fatti crescere per molte generazioni in due isotopi di azoto
 ![[Pasted image 20221203155421.png]]
@@ -105,7 +105,7 @@ Esistono qui quattro diverse tipi di polimerasi:
 - Beta
 - Gamma
 - Delta
-Le polimerasi gamma, delta ed epsilon possono anche svolgere attività 3'5' esonucleasi; la forma ad epsilon serve proprio per la riparazione del DNA nucelare.
+Le polimerasi gamma, delta ed beta beta possono anche svolgere attività 3'5' esonucleasi; la  serve proprio per la riparazione del DNA nucelare.
 Sono inoltre state identificate anche altre due DNA polimerasi:
 - Zeta
 - Eta
@@ -151,10 +151,10 @@ Poco dopo la scoperta dei frammenti di ookazaki fu anche scoperto un processo ch
 2. La DNA polimerasi può catalizzare l'aggiunta di nucleotidi all'estermità 3' sia di un filamento di DNA che di RNA
 3. Le cellule contengono un enzima detto "primasi", che sintetizza frammenti di RNA lunghi circa 10 basi usando come stampo il DNA
 4. A differenza della DNA polimerasi, che può aggiungere i nucleotidi solo all'estermità di un filamento preesistente, la primasi può inziare la sintesi dell'RNA dal nulla, semplicemente legando insieme due nucleotidi. 
-1. La replicazione inzia allora con un innesco di RNA seguito dalla DNA polimerasi III (o DNA polimerasi alpha delta e epsilon negli eucarioti) che può aggiungere solo adesso uno dopo l'altro i dessosinucleotidi all'estermità 3' dell'innesco
-2. Per il filamento anticipato è sufficiente un singolo innesco, per quello ritardato ne servono diversi.
-3. Dopo la polimerizzazione l'innesco di RNA viene rimosso dall'attività esonucleasica 5'-3' della DNA pool I, che sostituisce gli rNT con i dNT.
-4. Infine il filamento si completa dalla DNA ligasi
+5. La replicazione inzia allora con un innesco di RNA seguito dalla DNA polimerasi III (o DNA polimerasi alpha delta e epsilon negli eucarioti) che può aggiungere solo adesso uno dopo l'altro i dessosinucleotidi all'estermità 3' dell'innesco
+6. Per il filamento anticipato è sufficiente un singolo innesco, per quello ritardato ne servono diversi.
+7. Dopo la polimerizzazione l'innesco di RNA viene rimosso dall'attività esonucleasica 5'-3' della DNA pool I, che sostituisce gli rNT con i dNT.
+8. Infine il filamento si completa dalla DNA ligasi
 ![[Pasted image 20221203174000.png]]
 Da qui si capisce come per sintetizzare il filamento lento sia allora necessaria la presenza di diversi enzimi. 
 Negli eucarioti gli innesci di RNA si formano sul filamento lento ogni 200 nucleoitid. 
@@ -166,7 +166,7 @@ Da notare è come sia proprio l'azione di saldatura a richiedere un grandissimo 
 ##### Proteine che regolano lo svolgimento della doppia elica.
 Essa, oltre la [[#DNA polimerasi dei mammiferi|DNA polimerasi]], richiede anche altri enzimi specifici:
 - Elicasi: rompono i legami idrogeno a monte della forcella di replicazione
-- Topoisomerasi: evitano il superavvolgimento introducendo e rinsaltando rapidamente delle rotture singole o doppie nella doppia elica di DNA. 
+- Topoisomerasi: evitano il superavvolgimento introducendo e risaldando rapidamente delle rotture singole o doppie nella doppia elica di DNA. 
   Sono qui note due tipi di isomerasi:
   - Topoisomerasi I: opera il taglio a livello di uno solo dei due filamenti di DNA
   - Topoisomerasi II: opera i tagli a carico di entrambi i fialemnti; essa nei batteri è detta "girasi". 
@@ -220,7 +220,7 @@ La sintesi dell'altro fialmento è invece discontinua, e vengono così prodotti 
    - DNA ligasi
    - Polimerasi I
    - Polimerasi III
-   - Primasi
+   - Primasi ^73162f
    - Elicasi
    - Girasi
    Si può quindi parlare di un grosso complesso proteico detto "replisoma" che, utilizzando l'energia derivante dai nucleoisdi trifosfati, riesce a replicare il DNA stampo. 
@@ -292,7 +292,7 @@ I mutageni chimici, a loro volta, alterano la struttura del DNA in vari modi:
 - Gli agenti intercalanti si inseriscono tra basi adiacenti della doppia elica distorcendone la struttura ed aumentando la possibilità di delezioni o inserzioni di singole basi durante la replicazione del DNA. 
 ### Danni al DNA da radiazioni
 ![[Pasted image 20221203192333.png]]
-Le luci ultraviolette, su due timine vicine, possono inducere così tanta energia da legare le due due timine vicine attraverso dei legami a idrogeno, impedendo così il legame con la base azotata a loro complementare sul secondo filamento di DNA. 
+Le luci ultraviolette, su due timine vicine, possono indurre così tanta energia da legare le due due timine vicine attraverso dei legami a idrogeno, impedendo così il legame con la base azotata a loro complementare sul secondo filamento di DNA. 
 ### Danni da mutageni chimici
 Un esempio di questa è data dalla mutagenesi con l'analogo delle basi 5-bromouracile:
 ![[Pasted image 20221203192418.png]]

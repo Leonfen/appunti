@@ -1,6 +1,6 @@
 # Regolamentazione delle cellule staminali
 All'inizio dell'embriogenesi vi è una regolazione a livelli (regolamentata da fattori proteici diversi) che provoca un differenziamento continuo di cellule sempre diverse. Gruppi di cellule hanno un "commitment", ovvero un doppio stadio composto da:
-- Specificazione: in questo stadio le le cellule scelgono il proprio lavoro ma possono comunque cambiare morfologia (e quindi funzione)
+- Specificazione: in questo stadio le cellule scelgono il proprio lavoro ma possono comunque cambiare morfologia (e quindi funzione)
 - Determinazione: questo è il punto di non ritorno dove la cellula non può più cambiare la sua conformazione 
 Entrambi i processi sono controllati da molecole segnale
 Questo differenziamento è inoltre determinato negli assi, spazialmente. Si deve infatti spezzare l'embrione separatamente, notando come da un abbozzo uguale in tutte le direzioni cominci a cambiare sviluppando le cellule dorsali per poi completarle attraverso specifici segnali. Una mancata formazione di questa spazialità può provocare malformazioni agli arti, un esempio è dato dal farmaco talidomide che interveriva proprio con questo processo. 
@@ -24,31 +24,32 @@ Il sistema riproduttivo maschile è costituito da:
 - Pene
 ![[Pasted image 20221031165534.png]]
 Il testicolo, inoltre, ha la funzione di pordurre gli ormoni sessuali maschili (o "androgeni") come "testosterone", quale viene convertito nella sua forma attiva dall'enzima 5-alpha-riduttasi, creando così il "diidrossitestosterone", molecola 10 volte più potente. 
-Come si vedrà, la produzione degli ormoni è fondamentale durante lo sviluppo embrionale ed è richiesta durante tutta la vita, mentre la produzione di gameti nell'uomo inizia solamente durante la pubertà (a confronto invece della donna quale nasce con i propri gameti che rimangono bloccati in diplotene fino alla pubertà per poi riprendere la meiosi). 
+Come si vedrà, la produzione degli ormoni è fondamentale durante lo [[Sistema urogenitale#Regolazione molecolare del differenziamento dei testicoli|sviluppo embrionale (influisce sul sesso)]] ed è richiesta durante tutta la vita.  
+La [[#Spermatogenesi|produzione dei gameti]] nell'uomo inizia solamente durante la pubertà (a confronto invece della donna quale nasce con i propri gameti che rimangono bloccati in diplotene fino alla pubertà per poi riprendere la meiosi). 
 Il tutto è inoltre molto compartimentalizzato: 
 - Il processo della speramtogenesi si realizza nei tubuli seminiferi
-- Gli androgeni sono sintetizzati dalle "cellule del Leydig", collocate nel tessuto interstiziale fra i tubuli
-Altra caratteristica da notare è come la gonade maschile sia l'unico organo che si trova esternamente, questo è dovuto alla temperatura cui gli spermatozoi devono trovarsi per il giusto sviluppo, per fornirla l'evoluzione ha portato allora a due cose:
+- Gli androgeni sono sintetizzati dalle "[[#Cellule di Leydig|cellule del Leydig]]", collocate nel [[Tessuto connettivo, generalità#^28b162|tessuto interstiziale]] (stroma) fra i tubuli
+Altra caratteristica da notare è come la gonade maschile sia l'unico organo che si trova esternamente, questo è dovuto alla temperatura cui gli spermatozoi devono trovarsi per il giusto sviluppo; per fornirla l'evoluzione ha portato allora a due cose:
 - La posizione esterna dell'apparato
-- L'avvolgimento dell'arteria testicolare con il "plesso panpiforme" e la vena testicolare, il sangue arriverebbe al testicolo infatti a una temperatura troppo elevata senza questi avvolgimenti
+- L'avvolgimento dell'arteria testicolare con il "plesso panpiforme" e la "vena testicolare". 
+  Senza questi avvolgimenti il sangue arriverebbe al testicolo infatti a una temperatura troppo elevata (cioè quella sistemica). 
 ## Anatomia dell'apparato
 ![[Pasted image 20221031170310.png]]
 ### Testicoli
 ![[Pasted image 20221031172110.png]]
-Esternamente il testicolo è ricoperto da cute sottile con epidermide, derma e scarso ipoderma; la cute presenta annessi come peli e ghiadole sudoripare. 
-Il testicolo è un organo ghiandolare avvolto da diversi rivestimenti: 
-- Più esternamente vi è la tonaca vaginale, formata da
-	- Fogleitto parietale
+Esternamente il testicolo è ricoperto da [[Epiteli del tessuto tegumentario#^3f07c4|cute sottile]] con [[Il sistema tegumentario#Epidermide|epidermide]], derma e scarso ipoderma (ricorda che deve mantenere una temperatura abbastanza bassa, per questo non è presente molto [[Tessuto adiposo|tessuto adiposo]]); la cute presenta [[Gli annessi cutanei|annessi cutanei]] come [[Gli annessi cutanei#Il pelo|peli]] e [[Gli annessi cutanei#Ghiandole sudoripare|ghiandole sudoripare]]. 
+Il testicolo è un organo [[Epiteli ghiandolari e ghiandole esocrine#Epiteli ghiandolari|ghiandolare]] avvolto da diversi rivestimenti: 
+- Esternamente: tonaca vaginale, formata da:
+	- Foglietto parietale
 	- Foglietto viscerale, più vicina al testicolo
 - Più internamente vi è la "tonaca albuginea", con un punto posteriore più sepsso definito "mediastino del testicolo" dove scorrone i vasi sanguigni. 
 Da qui si irradiano anche sottili sepimenti connettivali che suddividono l'organo in 250 regioni piramidali chiamate "lobuli o loggette del testicolo". 
-Ognuna di queste zone contiene dei tubuli chiamati "tubuli seminiferi", gli spazi che dividono ogni tubulo è occupato da tessuto connettivo interstiziale pieno di vasi sanguigni, linfatici e "cellule endocrine del Leydig", utili alla produzione di testosterone. 
+Ognuna di queste zone contiene dei tubuli chiamati "tubuli seminiferi", gli spazi che dividono ogni tubulo è occupato da [[Tessuto connettivo, generalità|tessuto connettivo]] interstiziale pieno di vasi sanguigni, linfatici e "cellule endocrine del Leydig", utili alla produzione di testosterone. 
 ![[Pasted image 20221031172500.png]]
 ### Vie genitali
 ![[Pasted image 20221031172732.png]]
 Gli spermatozoi trovatisi nei tubuli seminiferi inizieranno a migrare fino ad arrivare a un percorso rettilineo del tubulo definito come "tubulo retto"
-Da qui i tubuli seminiferi comunicheranno allora con la "rete testis", una rete di 
-diversi canali che si anastomizzano tra loro. 
+Da qui i tubuli seminiferi comunicheranno allora con la "rete testis", una rete di diversi canali che si anastomizzano tra loro. 
 La rete testis sarà poi in continuità con i condotti efferenti, primo tratto dell'effettive vie genitali, che porterà il liquido verso il canale dell'epididimo. 
 Questo è suddiviso in 3 parti distinte:
 - Testa
@@ -73,12 +74,12 @@ Queste cellule:
 ![[Pasted image 20221031184639.png]]
 
 #### Prostata
-La prostata ha forma di castagna e dimensioni di un'albicocca, essa si trova sotto la vescica nella parte posteriore del retto, inoltre è deputata al controllo degli androgeni. 
+La prostata ha forma di castagna e dimensioni di una piccola castagna, essa si trova sotto la vescica nella parte posteriore del retto, inoltre è deputata al controllo degli androgeni. 
 ![[Pasted image 20221031184723.png]]
 La prostata si suddivide in:
  - Midollare, essa appare estremamente chiara vista la poca presenza di cellule
  - Corticale, essa appare scura vista l'estrema presenza di cellula secernente
- - Capsula di tessuto connettiva che l'avvolge
+ - Capsula di tessuto connettivo che l'avvolge
 ![[Pasted image 20221031184801.png]]
 Anche la prostata è divisa in lobuli e setti connettivali che contribuiscono nella formazione del liquido seminale e a mantenere con alucne proteine la funzionalità dello spermatozoo.
 ![[Pasted image 20221031184812.png]]
@@ -89,9 +90,11 @@ Anche la prostata è divisa in lobuli e setti connettivali che contribuiscono ne
 Guardando una sezione dei testicoli attraverso un'istochimica di ematossilina-eosina (che colora tantissimo le cellule sia basiche che acide) si possono vedere dei segmenti bianchi di tessuto connettivo che si irraggiano dalla tonaca albuginea (la tonaca più esterna). Da notare è anche la differenza di dimensioni del lume dei tubuli siminiferi e dei duttuli efferenti della testa dell'epidimio. 
 
 # Spermatogenesi
-
 ## Generalità
-Abbiamo visto che il testicolo contiene ben 250 loculi e tantissimi tubuli divisi da precisi setti; ingrandendo la figura al microscopio il tubulo si presenta con tantissimi puntini neri: questi rappresentano le cellule spermatogeniche. Da notare è come i puntini colorati di nero dalla ematossilina eosina hanno posizione e forme diverse; questo è dovuta alla spermatogenesi che si evolve in senso centripeto (inizia dal lume del tubulo seminifero per concludersi dentro al suo lume). I nuclei più grandi e pallidi rappresentano infatti gli spermatogoni, quelli grandi e granulosi sono invece spermatociti che si trovano nella fase di profase I, precisamente durante il pachitene (mentre si svolge in un lasso di 15 giorni il crossing over); andando invece al centro si incontrano gli spermatidi, prodotto finale della spermatogenesi
+![[Pasted image 20221229172226.png]]
+Abbiamo visto che il testicolo contiene ben 250 loculi e tantissimi tubuli divisi da precisi setti; ingrandendo la figura al microscopio il tubulo si presenta con tantissimi puntini neri: questi rappresentano le cellule spermatogeniche. Da notare è come i puntini colorati di nero dalla ematossilina eosina hanno posizione e forme diverse; questo è dovuta alla spermatogenesi che si evolve in senso centripeto (inizia dal lume del tubulo seminifero per concludersi dentro al suo lume). 
+![[Pasted image 20221031182851.png]]
+I nuclei più grandi e pallidi rappresentano infatti gli spermatogoni, quelli grandi e granulosi sono invece spermatociti che si trovano nella fase di profase I, precisamente durante il pachitene (mentre si svolge in un lasso di 15 giorni il crossing over); andando invece al centro si incontrano gli spermatidi, prodotto finale della spermatogenesi
 ![[Pasted image 20221031175822.png]]
 Non vi è ancora la formazione di spermatozoi, che si andranno a completare solo con l'acquisizione del loro flagello dopo il processo di spermiogenesi, ovvero un meccanismo differenziativo del tubulo seminifero 
 Guardando altre immagini anche al microscopio elettronico è possibile notare quanto il testicolo sia ben vascolarizzato per permenttere la ricezione di nutrimento, ormoni e segnali. Basti infatti pensare che tutto il processo descritto prima è controllato dal testosterone, ormone prodotto da cellule specifiche contenute nel testicolo; questa produzione è però a sua volta controllata dall'asse ipotalamo-ipofisario attraverso la produzione dell'ormone follicolostimolante e liutilizzante i quali, navigando nel flusso sanguigno, incentivano la produzione di testosterone. 
@@ -105,7 +108,6 @@ L'ovocita e il globulo polare si pensa vengano scleti per via di delle sezioni d
 La neonata nasce così con 1000 o più ovociti per poi arrivare alla pubertà con circa 300-400 oviciti; il tutto accade perchè la donna non ha una nicchia staminale che produce continuamente ovogoni, differentemente dall'uomo.
 
 ## Spermatogenesi
-![[Pasted image 20221031182851.png]]
 ![[Pasted image 20221031180149.png]]
 La speramtogenesi è il processo durante il quale gli spermatogoni si differenziano in spermatozoi. 
 Questo processo può essere schematizzato in:
@@ -116,8 +118,9 @@ Questo processo può essere schematizzato in:
 La spermatogenesi inizia con gli spermatogoni di tipo a, che continuano costantemente a dividersi guidati dal meccanismo di controllo del testosterone; sarà infatti grazie a questa risposta che alcuni spermatogoni di tipo a scuro si trasformeranno in spermatogoni di tipo a chiaro (le due colorazioni sono dovute all'ematossilina-eosina che colora diversamente cellulle dal diverso metabolismo).
 ![[Pasted image 20221031181855.png]]
 La grossa differenza fra i due spermatogoni è il il pool staminale, se infatti gli spermatogoni a scuri si automantengono continuando sempre a riprodursi per mitosi, gli spermatogoni a chiari non si automantengono ma fanno la mitosi solo 3 volte, essi sono cioè già differenziati e nella fase di commitment per diventare spermatogoni di tipo b (solo alcuni di questi però ce la faranno).
-Questo spermatogonio di tipo b non avrà citodieresi completa visto il controllo della spermatogenesi da parte delle cellule del sertoli, in caso di errore le cellule del sertoli possono anche assumere una funzione fagocitaria. 
-Gli spermatogoni producono idealmente 64 spermatidi, questo numero diminuisce sempre però vista la morte di alcuni di questi prodotti. Tutto il procedimento è molto faticoso e duraturo, oltre che pericoloso; infatti anche se alcuni di questi spermatidi continueranno con la loro maturazione, molti altri verranno eliminati in dei precisi checkpoint. 
+Questo spermatogonio di tipo b non avrà citodieresi completa visto il controllo della spermatogenesi da parte delle cellule del Sertoli, che, in caso di errore, possono anche assumere una funzione fagocitaria. 
+Gli spermatogoni producono idealmente 64 spermatidi, questo numero diminuisce sempre vista la morte di alcuni di questi prodotti. 
+Tutto il procedimento è molto faticoso e duraturo, oltre che pericoloso; infatti anche se alcuni di questi spermatidi continueranno con la loro maturazione, molti altri verranno eliminati in dei precisi checkpoint. 
 Da notare è come ogni clone di cellule nato dallo stesso spermatogonio intermendio è legato all'altro da un vero e proprio ponte citoplasmatico che andrà a distruggersi durante la maturità. 
 ![[Pasted image 20221031181939.png]]
 ### Fase meiotica
